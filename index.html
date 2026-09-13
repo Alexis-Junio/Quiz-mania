@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#101331">
+  <meta name="description" content="Quiz de conhecimentos gerais com níveis fácil, médio e difícil.">
+  <title>Quiz Mania Mobile</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%236c4cff'/%3E%3Ctext x='32' y='46' text-anchor='middle' font-size='43' font-family='Arial' font-weight='bold' fill='white'%3E?%3C/text%3E%3C/svg%3E">
+  <style>
+    :root{--bg:#090c20;--panel:#121735;--panel2:#1a2147;--line:#303966;--text:#f7f8ff;--muted:#aeb5d4;--purple:#7c5cff;--cyan:#3de0d0;--yellow:#ffd45c;--green:#44d58a;--red:#ff6688;--shadow:0 24px 70px rgba(0,0,0,.35)}
+    *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}html,body{min-height:100%;margin:0}body{font-family:Inter,"Segoe UI",system-ui,sans-serif;color:var(--text);background:radial-gradient(circle at 10% 5%,#31226f 0,transparent 32%),radial-gradient(circle at 90% 90%,#0b4b5d 0,transparent 30%),var(--bg);padding:18px 15px calc(20px + env(safe-area-inset-bottom));display:grid;place-items:center}.app{width:min(100%,470px)}
+    .screen{display:none}.screen.active{display:block}.logo{text-align:center;margin:4px 0 22px}.logo-badge{width:68px;height:68px;margin:auto;border-radius:22px;display:grid;place-items:center;font-size:2.5rem;font-weight:950;background:linear-gradient(145deg,var(--purple),#a14cff);box-shadow:0 15px 35px rgba(124,92,255,.3);transform:rotate(-5deg)}h1{font-size:2.35rem;letter-spacing:-.055em;margin:15px 0 5px}.subtitle{color:var(--muted);margin:0;font-size:.95rem}
+    .card{background:rgba(18,23,53,.93);border:1px solid rgba(255,255,255,.09);border-radius:26px;padding:20px;box-shadow:var(--shadow);backdrop-filter:blur(12px)}label{display:block;font-size:.86rem;font-weight:800;margin-bottom:8px}input{width:100%;min-height:52px;border-radius:15px;border:1px solid var(--line);background:#0c112b;color:var(--text);padding:0 15px;font:700 1rem system-ui;outline:none}input:focus{border-color:var(--cyan);box-shadow:0 0 0 3px rgba(61,224,208,.13)}
+    .level-title{margin:20px 0 10px;font-size:.86rem;font-weight:800}.levels{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.level{border:1px solid var(--line);border-radius:14px;padding:11px 5px;background:var(--panel2);color:var(--muted);font:800 .82rem system-ui;cursor:pointer}.level small{display:block;font-size:.68rem;margin-top:3px;opacity:.75}.level.selected{color:#12152b;background:var(--yellow);border-color:var(--yellow);box-shadow:0 8px 20px rgba(255,212,92,.2)}.themes{display:grid;gap:8px}.theme{width:100%;display:flex;align-items:center;gap:10px;text-align:left;border:1px solid var(--line);border-radius:13px;padding:10px 12px;background:var(--panel2);color:var(--muted);font:750 .82rem system-ui;cursor:pointer}.theme:before{content:"";width:19px;height:19px;border:2px solid #65709b;border-radius:6px;flex:0 0 auto}.theme.selected{color:var(--text);border-color:rgba(61,224,208,.45)}.theme.selected:before{content:"✓";display:grid;place-items:center;background:var(--cyan);border-color:var(--cyan);color:#082925;font-weight:950}.cycle-info{text-align:center;color:var(--cyan);font-size:.74rem;margin:11px 0 0}
+    .btn{width:100%;min-height:53px;border:0;border-radius:16px;background:linear-gradient(135deg,var(--purple),#9a4fff);color:#fff;font:850 1rem system-ui;margin-top:18px;cursor:pointer;box-shadow:0 10px 24px rgba(124,92,255,.25)}.btn:active,.option:active{transform:scale(.98)}.best{text-align:center;color:var(--muted);font-size:.78rem;margin:14px 0 0}
+    .top{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}.player{font-weight:850}.pill{background:var(--panel2);border:1px solid var(--line);padding:8px 11px;border-radius:999px;font-size:.78rem;font-weight:800;color:var(--yellow)}.progress-row{display:flex;justify-content:space-between;color:var(--muted);font-size:.78rem;font-weight:750;margin-bottom:7px}.progress{height:8px;background:var(--panel2);border-radius:20px;overflow:hidden;margin-bottom:17px}.progress>i{display:block;height:100%;width:10%;background:linear-gradient(90deg,var(--cyan),var(--purple));border-radius:20px;transition:width .3s}
+    .category{display:inline-flex;background:rgba(124,92,255,.16);color:#c9bcff;border:1px solid rgba(124,92,255,.3);border-radius:999px;padding:6px 10px;font-size:.72rem;font-weight:850;margin-bottom:12px}.question{font-size:clamp(1.23rem,5.5vw,1.6rem);line-height:1.28;letter-spacing:-.025em;margin:0 0 18px;min-height:64px}.options{display:grid;gap:10px}.option{width:100%;min-height:58px;text-align:left;border:1px solid var(--line);border-radius:16px;background:var(--panel2);color:var(--text);padding:11px 13px;font:700 .93rem/1.3 system-ui;display:flex;align-items:center;gap:11px;cursor:pointer}.letter{flex:0 0 34px;width:34px;height:34px;border-radius:11px;background:#252d5b;display:grid;place-items:center;color:#cbd0ee;font-weight:900}.option.correct{border-color:var(--green);background:rgba(68,213,138,.12)}.option.correct .letter{background:var(--green);color:#092318}.option.wrong{border-color:var(--red);background:rgba(255,102,136,.11)}.option.wrong .letter{background:var(--red);color:#310914}.option:disabled{cursor:default}.feedback{min-height:45px;margin-top:13px;font-size:.86rem;line-height:1.4;color:var(--muted)}.feedback.good{color:var(--green)}.feedback.bad{color:#ff9bb1}.next{display:none}.next.show{display:block}
+    .result{text-align:center}.trophy{font-size:4.7rem;filter:drop-shadow(0 12px 20px rgba(255,212,92,.2))}.result h2{font-size:2rem;margin:7px 0}.result-msg{color:var(--muted);margin:0 0 18px}.score-ring{width:150px;height:150px;margin:12px auto 20px;border-radius:50%;display:grid;place-items:center;background:conic-gradient(var(--cyan) var(--pct),var(--panel2) 0);position:relative}.score-ring:after{content:"";position:absolute;inset:11px;background:var(--panel);border-radius:50%}.score-data{position:relative;z-index:1}.score-data strong{display:block;font-size:2.1rem}.score-data span{font-size:.75rem;color:var(--muted)}.stats{display:grid;grid-template-columns:1fr 1fr;gap:9px}.stat{background:var(--panel2);padding:12px;border-radius:14px}.stat strong{display:block;font-size:1.25rem}.stat span{font-size:.72rem;color:var(--muted)}.secondary{background:var(--panel2);border:1px solid var(--line);box-shadow:none;margin-top:9px}
+    @media(max-height:720px){body{padding-top:10px}.logo{margin-bottom:12px}.logo-badge{width:55px;height:55px;font-size:2rem}h1{font-size:2rem;margin-top:10px}.card{padding:16px}.option{min-height:51px}.question{min-height:0;margin-bottom:13px}}
+    @media(prefers-reduced-motion:reduce){*{transition:none!important}}
+  </style>
+</head>
+<body>
+<main class="app">
+  <section id="start" class="screen active">
+    <div class="logo"><div class="logo-badge">?</div><h1>Quiz Mania</h1><p class="subtitle">10 perguntas. Quanto você sabe?</p></div>
+    <form id="startForm" class="card">
+      <label for="name">Qual é o seu nome?</label><input id="name" maxlength="18" required autocomplete="off" placeholder="Digite seu nome">
+      <div class="level-title">Escolha o nível</div>
+      <div class="levels">
+        <button type="button" class="level selected" data-level="facil">Fácil<small>10 pts</small></button>
+        <button type="button" class="level" data-level="medio">Médio<small>20 pts</small></button>
+        <button type="button" class="level" data-level="dificil">Difícil<small>30 pts</small></button>
+      </div>
+      <div class="level-title">Escolha os temas</div>
+      <div class="themes"><button type="button" class="theme selected" data-theme="geral">Conhecimentos gerais</button><button type="button" class="theme selected" data-theme="entretenimento">Filmes, séries, artistas e internet</button><button type="button" class="theme selected" data-theme="atualidades">Atualidades e curiosidades</button></div>
+      <p id="cycleInfo" class="cycle-info">As perguntas não se repetem até o ciclo terminar.</p>
+      <button class="btn" type="submit">Começar rodada</button><p id="best" class="best">Seu recorde aparecerá aqui</p>
+    </form>
+  </section>
+  <section id="game" class="screen">
+    <div class="top"><span id="player" class="player"></span><span id="liveScore" class="pill">0 pontos</span></div>
+    <div class="progress-row"><span id="count">Pergunta 1 de 10</span><span id="levelLabel"></span></div><div class="progress"><i id="bar"></i></div>
+    <article class="card"><span id="category" class="category"></span><h2 id="question" class="question"></h2><div id="options" class="options"></div><div id="feedback" class="feedback" aria-live="polite"></div><button id="next" class="btn next">Próxima pergunta</button></article>
+  </section>
+  <section id="result" class="screen"><article class="card result"><div id="trophy" class="trophy">🏆</div><h2 id="resultTitle">Mandou bem!</h2><p id="resultMsg" class="result-msg"></p><div id="ring" class="score-ring" style="--pct:0%"><div class="score-data"><strong id="finalScore">0</strong><span>pontos</span></div></div><div class="stats"><div class="stat"><strong id="hits">0/10</strong><span>acertos</span></div><div class="stat"><strong id="bestResult">0</strong><span>recorde</span></div></div><button id="again" class="btn">Jogar novamente</button><button id="home" class="btn secondary">Mudar jogador ou nível</button></article></section>
+</main>
+<script>
+const bank={
+facil:[
+{c:"Geografia",q:"Qual é a capital do Brasil?",o:["Rio de Janeiro","Brasília","São Paulo","Salvador"],a:1},
+{c:"Ciências",q:"Qual planeta é conhecido como Planeta Vermelho?",o:["Vênus","Júpiter","Marte","Mercúrio"],a:2},
+{c:"História",q:"Quem proclamou a Independência do Brasil?",o:["Dom Pedro I","Tiradentes","Dom Pedro II","Deodoro da Fonseca"],a:0},
+{c:"Esportes",q:"Quantos jogadores cada time tem em campo no futebol?",o:["9","10","11","12"],a:2},
+{c:"Natureza",q:"Qual é o maior animal do planeta?",o:["Elefante-africano","Baleia-azul","Tubarão-branco","Girafa"],a:1},
+{c:"Tecnologia",q:"Qual aparelho é usado para mover o ponteiro do computador?",o:["Roteador","Teclado","Mouse","Monitor"],a:2},
+{c:"Cultura",q:"Qual personagem tem o nariz que cresce quando mente?",o:["Peter Pan","Pinóquio","Aladdin","Shrek"],a:1},
+{c:"Matemática",q:"Quanto é 7 × 8?",o:["54","56","58","64"],a:1},
+{c:"Bíblia",q:"Quem construiu uma arca antes do grande dilúvio?",o:["Moisés","Abraão","Noé","Davi"],a:2},
+{c:"Geografia",q:"Em qual continente fica o Egito?",o:["África","Ásia","Europa","Oceania"],a:0},
+{c:"Ciências",q:"Qual gás é essencial para a respiração humana?",o:["Hidrogênio","Oxigênio","Hélio","Nitrogênio"],a:1},
+{c:"Brasil",q:"Quais são as cores principais da bandeira brasileira?",o:["Azul e branco","Verde e amarelo","Vermelho e azul","Verde e vermelho"],a:1},
+{c:"Animais",q:"Qual destes animais é um mamífero?",o:["Sapo","Tartaruga","Golfinho","Tubarão"],a:2},
+{c:"Literatura",q:"Quem escreveu O Pequeno Príncipe?",o:["Monteiro Lobato","Antoine de Saint-Exupéry","Machado de Assis","Júlio Verne"],a:1}
+],
+medio:[
+{c:"História",q:"Em que ano o Brasil declarou sua independência?",o:["1789","1808","1822","1889"],a:2},
+{c:"Ciências",q:"Qual organela é conhecida como a usina de energia da célula?",o:["Núcleo","Mitocôndria","Ribossomo","Lisossomo"],a:1},
+{c:"Geografia",q:"Qual é o maior país do mundo em área territorial?",o:["Canadá","China","Estados Unidos","Rússia"],a:3},
+{c:"Tecnologia",q:"O que significa a sigla HTML?",o:["HyperText Markup Language","High Transfer Machine Link","Home Tool Markup Language","Hyperlink Text Management Logic"],a:0},
+{c:"Esportes",q:"Em qual país foram realizados os Jogos Olímpicos de 2016?",o:["China","Brasil","Japão","Reino Unido"],a:1},
+{c:"Bíblia",q:"Qual apóstolo negou Jesus três vezes?",o:["João","Pedro","Tiago","André"],a:1},
+{c:"Matemática",q:"Qual é a raiz quadrada de 144?",o:["10","11","12","14"],a:2},
+{c:"Cultura",q:"Quem pintou a obra Mona Lisa?",o:["Michelangelo","Pablo Picasso","Vincent van Gogh","Leonardo da Vinci"],a:3},
+{c:"Ciências",q:"Qual elemento químico tem o símbolo Au?",o:["Prata","Ouro","Alumínio","Argônio"],a:1},
+{c:"Geografia",q:"Qual rio atravessa a cidade de Paris?",o:["Tâmisa","Danúbio","Sena","Reno"],a:2},
+{c:"História",q:"Qual foi o primeiro presidente do Brasil?",o:["Getúlio Vargas","Deodoro da Fonseca","Floriano Peixoto","Prudente de Morais"],a:1},
+{c:"Português",q:"Qual destas palavras é um advérbio?",o:["Rapidamente","Bonito","Cadeira","Cantar"],a:0},
+{c:"Astronomia",q:"Qual é o maior planeta do Sistema Solar?",o:["Saturno","Netuno","Júpiter","Terra"],a:2},
+{c:"Música",q:"Quantas linhas tem uma pauta musical tradicional?",o:["4","5","6","7"],a:1}
+],
+dificil:[
+{c:"História",q:"Qual tratado encerrou oficialmente a Primeira Guerra Mundial?",o:["Tratado de Paris","Tratado de Versalhes","Tratado de Tordesilhas","Tratado de Utrecht"],a:1},
+{c:"Ciências",q:"Qual partícula subatômica não possui carga elétrica?",o:["Próton","Elétron","Nêutron","Pósitron"],a:2},
+{c:"Geografia",q:"Qual estreito separa a Ásia da América do Norte?",o:["Bósforo","Gibraltar","Bering","Ormuz"],a:2},
+{c:"Tecnologia",q:"Quem é considerado o criador da World Wide Web?",o:["Alan Turing","Tim Berners-Lee","Linus Torvalds","Vint Cerf"],a:1},
+{c:"Literatura",q:"Quem escreveu o romance Crime e Castigo?",o:["Liev Tolstói","Fiódor Dostoiévski","Anton Tchekhov","Nikolai Gógol"],a:1},
+{c:"Bíblia",q:"Em qual cidade os seguidores de Jesus foram chamados cristãos pela primeira vez?",o:["Jerusalém","Roma","Antioquia","Éfeso"],a:2},
+{c:"Matemática",q:"Qual é o valor de 2⁵ + 3³?",o:["49","55","59","61"],a:2},
+{c:"Química",q:"Qual é o número atômico do carbono?",o:["4","6","8","12"],a:1},
+{c:"História",q:"A queda de Constantinopla ocorreu em qual ano?",o:["1415","1453","1492","1517"],a:1},
+{c:"Filosofia",q:"A frase 'Penso, logo existo' é atribuída a quem?",o:["Platão","Aristóteles","René Descartes","Immanuel Kant"],a:2},
+{c:"Geografia",q:"Qual é a capital do Cazaquistão?",o:["Almaty","Astana","Tashkent","Bishkek"],a:1},
+{c:"Biologia",q:"Qual molécula transporta aminoácidos até o ribossomo?",o:["DNA","RNA mensageiro","RNA transportador","RNA ribossômico"],a:2},
+{c:"Artes",q:"A técnica de pintura sfumato é especialmente associada a qual artista?",o:["Caravaggio","Leonardo da Vinci","Claude Monet","Sandro Botticelli"],a:1},
+{c:"Astronomia",q:"Qual estrela é a mais próxima do Sol?",o:["Sirius","Betelgeuse","Proxima Centauri","Vega"],a:2}
+]};
+const extras={
+facil:[
+{t:"entretenimento",c:"Filmes",q:"Qual herói usa um escudo com uma estrela?",o:["Batman","Capitão América","Homem-Aranha","Thor"],a:1},
+{t:"entretenimento",c:"Séries",q:"Em Stranger Things, qual é o nome da garota com poderes?",o:["Max","Robin","Nancy","Eleven"],a:3},
+{t:"entretenimento",c:"Cinema",q:"Qual estúdio criou Toy Story?",o:["Pixar","DreamWorks","Paramount","Warner Bros."],a:0},
+{t:"entretenimento",c:"Música",q:"Qual cantora é conhecida pela música Shake It Off?",o:["Adele","Taylor Swift","Beyoncé","Lady Gaga"],a:1},
+{t:"entretenimento",c:"Internet",q:"Qual plataforma é conhecida por vídeos curtos em formato vertical?",o:["LinkedIn","TikTok","Wikipedia","Dropbox"],a:1},
+{t:"entretenimento",c:"Séries",q:"Qual família amarela vive na cidade de Springfield?",o:["Os Flintstones","Os Simpsons","Os Jetsons","Os Addams"],a:1},
+{t:"entretenimento",c:"Filmes",q:"Qual é o nome do ogro verde dos cinemas?",o:["Shrek","Hulk","Grinch","Yoda"],a:0},
+{t:"entretenimento",c:"Música",q:"Qual instrumento normalmente possui seis cordas?",o:["Flauta","Bateria","Violão","Piano"],a:2},
+{t:"entretenimento",c:"Internet",q:"Qual símbolo costuma iniciar uma hashtag?",o:["@","#","&","%"],a:1},
+{t:"entretenimento",c:"Cinema",q:"Em Frozen, quem é a irmã de Elsa?",o:["Moana","Anna","Ariel","Merida"],a:1},
+{t:"atualidades",c:"Atualidades 2026",q:"Qual filme venceu o Oscar de Melhor Filme em 2026?",o:["Sinners","Hamnet","One Battle after Another","F1"],a:2},
+{t:"atualidades",c:"Curiosidades",q:"Qual animal consegue mudar de cor para se camuflar?",o:["Camaleão","Pinguim","Golfinho","Avestruz"],a:0},
+{t:"atualidades",c:"Internet",q:"Qual aplicativo da Meta é focado em conversas públicas por texto?",o:["Threads","Pinterest","Telegram","Snapchat"],a:0},
+{t:"atualidades",c:"Curiosidades",q:"Qual é o único mamífero capaz de voo verdadeiro?",o:["Esquilo","Morcego","Coala","Pinguim"],a:1},
+{t:"atualidades",c:"Cinema 2026",q:"Quem venceu o Oscar de Melhor Ator em 2026 por Sinners?",o:["Michael B. Jordan","Timothée Chalamet","Leonardo DiCaprio","Wagner Moura"],a:0},
+{t:"atualidades",c:"Curiosidades",q:"Qual metal é líquido em temperatura ambiente?",o:["Ferro","Mercúrio","Cobre","Alumínio"],a:1},
+{t:"atualidades",c:"Séries",q:"Qual série da Netflix tem a personagem Wednesday Addams?",o:["Wandinha","Bridgerton","Dark","Cobra Kai"],a:0},
+{t:"atualidades",c:"Curiosidades",q:"Quantos corações possui um polvo?",o:["Um","Dois","Três","Quatro"],a:2},
+{t:"atualidades",c:"Internet",q:"Qual empresa é dona do Instagram?",o:["Apple","Meta","Microsoft","Netflix"],a:1},
+{t:"atualidades",c:"Curiosidades",q:"Qual planeta gira praticamente de lado?",o:["Marte","Urano","Vênus","Saturno"],a:1}
+],
+medio:[
+{t:"entretenimento",c:"Filmes",q:"Quem dirigiu Oppenheimer?",o:["Denis Villeneuve","Christopher Nolan","James Cameron","Martin Scorsese"],a:1},
+{t:"entretenimento",c:"Séries",q:"Em Breaking Bad, qual pseudônimo Walter White adota?",o:["Saul Goodman","Heisenberg","Gus Fring","Tuco"],a:1},
+{t:"entretenimento",c:"Cinema",q:"Qual filme sul-coreano venceu o Oscar de Melhor Filme em 2020?",o:["Parasita","Oldboy","Minari","Decisão de Partir"],a:0},
+{t:"entretenimento",c:"Música",q:"Qual artista lançou o álbum Thriller?",o:["Prince","Michael Jackson","Stevie Wonder","Lionel Richie"],a:1},
+{t:"entretenimento",c:"Internet",q:"Qual empresa desenvolveu o navegador Chrome?",o:["Mozilla","Apple","Google","Microsoft"],a:2},
+{t:"entretenimento",c:"Séries",q:"Em Game of Thrones, qual é o lema da Casa Stark?",o:["Fogo e Sangue","O Inverno Está Chegando","Ouça-me Rugir","Nossa é a Fúria"],a:1},
+{t:"entretenimento",c:"Filmes",q:"Qual atriz interpretou Barbie no filme de 2023?",o:["Emma Stone","Margot Robbie","Florence Pugh","Saoirse Ronan"],a:1},
+{t:"entretenimento",c:"Música",q:"Qual banda gravou Bohemian Rhapsody?",o:["Queen","The Beatles","Pink Floyd","Led Zeppelin"],a:0},
+{t:"entretenimento",c:"Internet",q:"O que significa a sigla GIF?",o:["Graphic Internet File","Graphics Interchange Format","Global Image Frame","Generated Interface Format"],a:1},
+{t:"entretenimento",c:"Séries",q:"Qual série acompanha a família Roy e o império Waystar Royco?",o:["Billions","Succession","The Crown","Mad Men"],a:1},
+{t:"atualidades",c:"Oscar 2026",q:"Qual brasileiro foi indicado a Melhor Ator no Oscar de 2026?",o:["Selton Mello","Rodrigo Santoro","Wagner Moura","Cauã Reymond"],a:2},
+{t:"atualidades",c:"Oscar 2026",q:"Qual filme representou o Brasil entre os indicados a Filme Internacional em 2026?",o:["Ainda Estou Aqui","O Agente Secreto","Bacurau","Cidade de Deus"],a:1},
+{t:"atualidades",c:"Internet 2026",q:"Como se chama o recurso do Threads que permite pedir temporariamente mais ou menos temas no feed?",o:["Feed Control","Dear Algo","Topic Tune","My Trends"],a:1},
+{t:"atualidades",c:"Curiosidades",q:"Qual país tem mais fusos horários quando territórios ultramarinos são incluídos?",o:["Rússia","Estados Unidos","França","China"],a:2},
+{t:"atualidades",c:"Ciência",q:"Qual telescópio espacial começou a divulgar imagens científicas em 2022?",o:["Hubble","James Webb","Kepler","Spitzer"],a:1},
+{t:"atualidades",c:"Curiosidades",q:"Qual é o maior órgão do corpo humano?",o:["Fígado","Pulmão","Pele","Intestino"],a:2},
+{t:"atualidades",c:"Cinema 2026",q:"Qual filme venceu o Oscar de Melhor Canção Original em 2026 com Golden?",o:["Sinners","KPop Demon Hunters","Hamnet","F1"],a:1},
+{t:"atualidades",c:"Curiosidades",q:"Qual substância natural é conhecida por durar milhares de anos sem estragar quando bem armazenada?",o:["Leite","Mel","Pão","Manteiga"],a:1},
+{t:"atualidades",c:"Internet",q:"Qual protocolo seguro aparece no início da maioria dos endereços modernos da web?",o:["FTP","HTTP","HTTPS","SMTP"],a:2},
+{t:"atualidades",c:"Curiosidades",q:"Qual ave é capaz de voar para trás?",o:["Águia","Beija-flor","Albatroz","Falcão"],a:1}
+],
+dificil:[
+{t:"entretenimento",c:"Cinema",q:"Qual cineasta dirigiu Parasita e Memórias de um Assassino?",o:["Park Chan-wook","Bong Joon-ho","Lee Chang-dong","Kim Jee-woon"],a:1},
+{t:"entretenimento",c:"Séries",q:"Em The Sopranos, quem interpreta Tony Soprano?",o:["James Gandolfini","Edie Falco","Steve Buscemi","Michael Imperioli"],a:0},
+{t:"entretenimento",c:"Cinema",q:"Qual movimento cinematográfico francês revelou Godard e Truffaut?",o:["Realismo poético","Nouvelle Vague","Dogma 95","Neorrealismo"],a:1},
+{t:"entretenimento",c:"Música",q:"Qual álbum de Miles Davis é marco do jazz modal?",o:["Blue Train","Kind of Blue","A Love Supreme","Time Out"],a:1},
+{t:"entretenimento",c:"Internet",q:"Qual protocolo distribui rotas entre sistemas autônomos na internet?",o:["BGP","DHCP","IMAP","SSH"],a:0},
+{t:"entretenimento",c:"Séries",q:"Qual criador está por trás de Twin Peaks ao lado de Mark Frost?",o:["David Lynch","David Fincher","Noah Hawley","Vince Gilligan"],a:0},
+{t:"entretenimento",c:"Cinema",q:"Qual filme de Akira Kurosawa inspirou diretamente Os Sete Magníficos?",o:["Rashomon","Yojimbo","Os Sete Samurais","Trono Manchado de Sangue"],a:2},
+{t:"entretenimento",c:"Música",q:"Qual compositor escreveu A Sagração da Primavera?",o:["Claude Debussy","Igor Stravinsky","Maurice Ravel","Sergei Prokofiev"],a:1},
+{t:"entretenimento",c:"Internet",q:"Qual linguagem foi criada por Brendan Eich em 1995?",o:["Java","JavaScript","Python","Ruby"],a:1},
+{t:"entretenimento",c:"Séries",q:"Qual cidade fictícia serve de cenário principal para Dark?",o:["Hawkins","Winden","Twin Peaks","Riverdale"],a:1},
+{t:"atualidades",c:"Oscar 2026",q:"Quem venceu o Oscar de Melhor Direção em 2026?",o:["Ryan Coogler","Paul Thomas Anderson","Joachim Trier","Josh Safdie"],a:1},
+{t:"atualidades",c:"Oscar 2026",q:"Qual filme venceu o Oscar de Fotografia em 2026?",o:["Sinners","Frankenstein","Marty Supreme","Train Dreams"],a:0},
+{t:"atualidades",c:"Oscar 2026",q:"Quem venceu Melhor Atriz em 2026 por Hamnet?",o:["Emma Stone","Jessie Buckley","Rose Byrne","Renate Reinsve"],a:1},
+{t:"atualidades",c:"Internet 2026",q:"O recurso Dear Algo foi lançado em qual plataforma?",o:["Bluesky","Threads","TikTok","Reddit"],a:1},
+{t:"atualidades",c:"Curiosidades",q:"Qual elemento é o mais abundante no universo observável?",o:["Hélio","Oxigênio","Carbono","Hidrogênio"],a:3},
+{t:"atualidades",c:"Ciência",q:"Qual unidade equivale a 10⁻¹⁵ metro?",o:["Nanômetro","Picômetro","Femtômetro","Attômetro"],a:2},
+{t:"atualidades",c:"Cinema 2026",q:"Qual filme venceu o Oscar de Efeitos Visuais em 2026?",o:["F1","Sinners","Avatar: Fire and Ash","Jurassic World Rebirth"],a:2},
+{t:"atualidades",c:"Curiosidades",q:"Qual é o único osso humano que não se articula diretamente com outro osso?",o:["Hioide","Estribo","Cóccix","Patela"],a:0},
+{t:"atualidades",c:"Internet",q:"Qual sistema converte nomes de domínio em endereços IP?",o:["DNS","NTP","SSH","TLS"],a:0},
+{t:"atualidades",c:"Curiosidades",q:"Em qual camada da atmosfera ocorre a maior parte dos fenômenos meteorológicos?",o:["Estratosfera","Mesosfera","Troposfera","Termosfera"],a:2}
+]};
+Object.keys(bank).forEach(l=>bank[l]=bank[l].map((q,i)=>({...q,t:"geral",id:l+"-g-"+i})).concat(extras[l].map((q,i)=>({...q,id:l+"-"+q.t+"-"+i}))));
+let level="facil",selectedThemes=new Set(["geral","entretenimento","atualidades"]),round=[],idx=0,score=0,hits=0,answered=false,playerName="";
+const points={facil:10,medio:20,dificil:30},labels={facil:"Fácil",medio:"Médio",dificil:"Difícil"};
+const $=id=>document.getElementById(id);
+function show(id){document.querySelectorAll(".screen").forEach(s=>s.classList.remove("active"));$(id).classList.add("active")}
+function shuffle(a){const b=[...a];for(let i=b.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[b[i],b[j]]=[b[j],b[i]]}return b}
+function configKey(){return level+"|"+[...selectedThemes].sort().join("-")}
+function available(){return bank[level].filter(q=>selectedThemes.has(q.t))}
+function updateBest(){const b=JSON.parse(localStorage.getItem("quizBest")||"{}");$("best").textContent=b[level]?"Recorde neste nível: "+b[level]+" pontos":"Ainda não há recorde neste nível";const used=JSON.parse(localStorage.getItem("quizUsed")||"{}")[configKey()]||[];$("cycleInfo").textContent=Math.max(0,available().length-used.length)+" perguntas inéditas neste ciclo."}
+document.querySelectorAll(".level").forEach(b=>b.onclick=()=>{document.querySelectorAll(".level").forEach(x=>x.classList.remove("selected"));b.classList.add("selected");level=b.dataset.level;updateBest()});
+document.querySelectorAll(".theme").forEach(b=>b.onclick=()=>{if(selectedThemes.has(b.dataset.theme)){if(selectedThemes.size===1)return;selectedThemes.delete(b.dataset.theme);b.classList.remove("selected")}else{selectedThemes.add(b.dataset.theme);b.classList.add("selected")}updateBest()});
+$("startForm").onsubmit=e=>{e.preventDefault();playerName=$("name").value.trim();if(!playerName)return;localStorage.setItem("quizName",playerName);startGame()};
+function startGame(){const pool=available(),allUsed=JSON.parse(localStorage.getItem("quizUsed")||"{}"),key=configKey();let used=allUsed[key]||[],unseen=pool.filter(q=>!used.includes(q.id)),picked=[];if(unseen.length<10){picked=shuffle(unseen);used=[];const need=10-picked.length;picked.push(...shuffle(pool.filter(q=>!picked.some(p=>p.id===q.id))).slice(0,need))}else picked=shuffle(unseen).slice(0,10);round=shuffle(picked);used.push(...round.map(q=>q.id));allUsed[key]=[...new Set(used)];localStorage.setItem("quizUsed",JSON.stringify(allUsed));idx=score=hits=0;$("player").textContent=playerName;$("levelLabel").textContent=labels[level];show("game");renderQuestion()}
+function renderQuestion(){answered=false;const q=round[idx];$("count").textContent="Pergunta "+(idx+1)+" de 10";$("bar").style.width=((idx+1)*10)+"%";$("liveScore").textContent=score+" pontos";$("category").textContent=q.c;$("question").textContent=q.q;$("feedback").textContent="";$("feedback").className="feedback";$("next").classList.remove("show");$("options").innerHTML="";q.o.forEach((text,i)=>{const b=document.createElement("button");b.className="option";b.innerHTML='<span class="letter">'+String.fromCharCode(65+i)+'</span><span>'+text+"</span>";b.onclick=()=>answer(i);$("options").appendChild(b)})}
+function answer(choice){if(answered)return;answered=true;const q=round[idx],buttons=[...$("options").children];buttons.forEach((b,i)=>{b.disabled=true;if(i===q.a)b.classList.add("correct")});if(choice===q.a){score+=points[level];hits++;$("feedback").textContent="Acertou! +"+points[level]+" pontos";$("feedback").className="feedback good"}else{buttons[choice].classList.add("wrong");$("feedback").textContent="A resposta correta é: "+q.o[q.a];$("feedback").className="feedback bad"}$("liveScore").textContent=score+" pontos";$("next").textContent=idx===9?"Ver resultado":"Próxima pergunta";$("next").classList.add("show")}
+$("next").onclick=()=>{idx++;idx<10?renderQuestion():finish()};
+function finish(){const max=points[level]*10,pct=Math.round(hits*10),b=JSON.parse(localStorage.getItem("quizBest")||"{}");if(score>(b[level]||0)){b[level]=score;localStorage.setItem("quizBest",JSON.stringify(b))}$("finalScore").textContent=score;$("hits").textContent=hits+"/10";$("bestResult").textContent=b[level];$("ring").style.setProperty("--pct",pct+"%");$("trophy").textContent=hits>=8?"🏆":hits>=5?"⭐":"🧠";$("resultTitle").textContent=hits>=8?"Excelente, "+playerName+"!":hits>=5?"Mandou bem, "+playerName+"!":"Continue tentando, "+playerName+"!";$("resultMsg").textContent="Você acertou "+hits+" de 10 no nível "+labels[level]+".";show("result")}
+$("again").onclick=startGame;$("home").onclick=()=>{updateBest();show("start")};
+$("name").value=localStorage.getItem("quizName")||"";updateBest();
+</script>
+</body>
+</html>
