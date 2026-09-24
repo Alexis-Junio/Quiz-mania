@@ -1,0 +1,159 @@
+# Fontes — etapas 4 e 5
+
+Verificação: 14/09/2026. Prazo e referência em cada pergunta. Fontes oficiais e primárias priorizadas; cálculos novos demonstrados na explicação.
+
+- [IBGE — Brasília](https://www.ibge.gov.br/cidades-e-estados/df.html) — facil-g-0.
+- [NASA — Planet sizes](https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/) — facil-g-1, medio-g-12.
+- [Biblioteca Nacional — Independência](https://bndigital.bn.gov.br/dossies/gramaticas-e-dicionarios-do-portugues/linha-do-tempo/sobre-as-efemerides/1822-independencia-do-brasil/) — facil-g-2, medio-g-0.
+- [IFAB — Law 3](https://www.theifab.com/laws/latest/the-players/) — facil-g-3.
+- [NOAA — Blue whale](https://www.fisheries.noaa.gov/species/blue-whale) — facil-g-4.
+- [Microsoft — Mouse settings](https://support.microsoft.com/en-US/Windows/Hardware/Input-Devices/change-mouse-settings) — facil-g-5.
+- [Gênesis 6 — Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis+6&version=NIV) — facil-g-8.
+- [Egypt State Information Service](https://africa.sis.gov.eg/english/egypt/basic-information/) — facil-g-9.
+- [OpenStax — Oxidative phosphorylation](https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation) — facil-g-10, medio-g-1.
+- [Presidência — Bandeira nacional](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/simbolos-nacionais/bandeira/bandeira-nacional) — facil-g-11.
+- [NOAA — Cetaceans](https://www.fisheries.noaa.gov/whales) — facil-g-12.
+- [Site oficial O Pequeno Príncipe](https://www.lepetitprince.com/en/) — facil-g-13.
+- [Marvel — Adamantium](https://www.marvel.com/items/adamantium) — facil-entretenimento-0.
+- [Netflix — Stranger Things](https://about.netflix.com/en/news/stranger-things-5-prepare-for-one-last-adventure-with-our-final-season) — facil-entretenimento-1.
+- [Pixar — Our story](https://www.pixar.com/our-story) — facil-entretenimento-2.
+- [Taylor Swift — Shake It Off (Taylor's Version)](https://www.youtube.com/watch?v=mvVBuG4IOW4) — facil-entretenimento-3.
+- [TikTok — Lançamento de 2018](https://newsroom.tiktok.com/musical-ly-and?lang=en) — facil-entretenimento-4.
+- [FOX — The Simpsons](https://assets.fox.com/shows/upfronts/assets/Simpsons%2C%20The.pdf) — facil-entretenimento-5.
+- [DreamWorks — About](https://www.dreamworks.com/about) — facil-entretenimento-6.
+- [Yamaha — Six strings](https://www.yamaha.com/en/musical_instrument_guide/acoustic_guitar/mechanism/mechanism002.html) — facil-entretenimento-7, qm-0116.
+- [X — Hashtags](https://help.x.com/en/using-x/how-to-use-hashtags) — facil-entretenimento-8.
+- [Disney — Frozen](https://movies.disney.com/frozen) — facil-entretenimento-9.
+- [Academia — Oscar 2026](https://www.oscars.org/oscars/ceremonies/2026) — facil-atualidades-10, facil-atualidades-14, medio-atualidades-10, medio-atualidades-11, medio-atualidades-16, dificil-atualidades-10, dificil-atualidades-11, dificil-atualidades-12, dificil-atualidades-16.
+- [San Diego Zoo — Chameleon](https://animals.sandiegozoo.org/animals/chameleon) — facil-atualidades-11.
+- [Meta — Introducing Threads, 2023](https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/) — facil-atualidades-12, facil-atualidades-18.
+- [San Diego Zoo — Bat](https://animals.sandiegozoo.org/animals/bat) — facil-atualidades-13.
+- [Royal Society of Chemistry — Mercury](https://periodic-table.rsc.org/element/80/mercury) — facil-atualidades-15.
+- [Netflix — Wednesday](https://www.netflix.com/tudum/articles/wednesday-season-3-release-date) — facil-atualidades-16.
+- [Natural History Museum — Octopuses](https://www.nhm.ac.uk/discover/octopuses-keep-surprising-us-here-are-eight-examples-how.html) — facil-atualidades-17, qm-0120.
+- [NASA — Uranus facts](https://science.nasa.gov/uranus/facts/) — facil-atualidades-19.
+- [MDN — HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) — medio-g-3, qm-0107.
+- [Comitê Olímpico do Brasil — Rio 2016](https://www.cob.org.br/time-brasil/participacoes/2169-rio) — medio-g-4.
+- [Mateus 26 — Bible Gateway](https://www.biblegateway.com/passage/?search=Matthew+26&version=NIV) — medio-g-5.
+- [Louvre — Mona Lisa](https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana) — medio-g-7, dificil-g-12.
+- [Royal Society of Chemistry — Gold](https://periodic-table.rsc.org/element/79/gold) — medio-g-8.
+- [Ville de Paris — La Seine](https://www.paris.fr/pages/la-seine-aurait-plus-de-14-000-ans-et-autres-anecdotes-surprenantes-sur-le-fleuve-parisien-19981) — medio-g-9.
+- [Presidência — Deodoro da Fonseca](https://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/deodoro-fonseca/biografia) — medio-g-10.
+- [Infopédia — Rapidamente](https://www.infopedia.pt/dicionarios/lingua-portuguesa/rapidamente) — medio-g-11.
+- [UFMA — Notação musical](https://musica.ufma.br/bordini/ext/unidades/unidade_01a.html) — medio-g-13, qm-0288.
+- [Universal — Oppenheimer, elenco e direção](https://www.universalstudios.com/videos/uYPbbksJxIg/) — medio-entretenimento-0, qm-0112, qm-0280.
+- [AMC — Breaking Bad](https://www.amctv.la/blog/breaking-bad-vuelve-a-amc) — medio-entretenimento-1.
+- [Academia — Oscar 2020](https://www.oscars.org/oscars/ceremonies/2020) — medio-entretenimento-2.
+- [Michael Jackson — Thriller](https://www.michaeljackson.com/albums/thriller/) — medio-entretenimento-3.
+- [Google — Chrome 10 years](https://blog.google/products-and-platforms/products/chrome/happy-10th-birthday-chrome-best-yet-come/) — medio-entretenimento-4.
+- [George R. R. Martin — A Game of Thrones](https://georgerrmartin.com/grrm_book/a-game-of-thrones-5-book-bundle/) — medio-entretenimento-5.
+- [Warner Bros. Discovery — Barbie](https://press.wbd.com/us/media-release/hbo-max/barbie-asl/barbie-available-stream-exclusively-max-today) — medio-entretenimento-6.
+- [Queen — História oficial](https://www.queenonline.com/queen) — medio-entretenimento-7.
+- [W3C — GIF89a](https://www.w3.org/Graphics/GIF/spec-gif89a.txt) — medio-entretenimento-8, qm-0108.
+- [HBO/WBD — Succession](https://press.wbd.com/ca/media-release/hbo-original-drama-series-succession-returns-its-fourth-season-march-26?language_content_entity=en) — medio-entretenimento-9, qm-0113.
+- [Meta — Dear Algo, fevereiro de 2026](https://about.fb.com/news/2026/02/threads-dear-algo/) — medio-atualidades-12.
+- [NASA — Webb first images](https://science.nasa.gov/mission/webb/webbs-first-images/) — medio-atualidades-14.
+- [NCBI/InformedHealth — Skin](https://www.ncbi.nlm.nih.gov/books/NBK279255/) — medio-atualidades-15.
+- [MDN — Transport Layer Security](https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Transport_Layer_Security) — medio-atualidades-18.
+- [Sapir e Dudley — Experimento de voo, 2012](https://pubmed.ncbi.nlm.nih.gov/23014570/) — medio-atualidades-19.
+- [Château de Versailles — Treaty 1919](https://en.chateauversailles.fr/discover/history/key-dates/treaty-versailles-1919) — dificil-g-0.
+- [OpenStax — Electric charge](https://openstax.org/books/university-physics-volume-2/pages/5-1-electric-charge) — dificil-g-1.
+- [National Park Service — Bering](https://www.nps.gov/articles/bering.htm) — dificil-g-2.
+- [CERN — Birth of the Web](https://home.cern/science/computing/the-birth-of-the-web/) — dificil-g-3.
+- [Hachette — Crime and Punishment](https://www.hachettebookgroup.com/titles/fyodor-dostoevsky/crime-and-punishment/9781454959663/) — dificil-g-4.
+- [Atos 11:26 — Bible Gateway](https://www.biblegateway.com/passage/?search=Acts+11%3A26&version=NIV) — dificil-g-5.
+- [Royal Society of Chemistry — Carbon](https://periodic-table.rsc.org/element/6/carbon) — dificil-g-7.
+- [Britannica 1911 — Constantinople (domínio público)](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Constantinople) — dificil-g-8, qm-0104.
+- [Stanford Encyclopedia — Descartes](https://plato.stanford.edu/entries/descartes-epistemology/) — dificil-g-9.
+- [Governo do Cazaquistão — Astana](https://www.gov.kz/memleket/entities/astana?lang=en) — dificil-g-10, qm-0105.
+- [OpenStax — RNA](https://openstax.org/books/microbiology/pages/10-3-structure-and-function-of-rna) — dificil-g-11, qm-0106.
+- [NASA — Proxima Centauri](https://science.nasa.gov/asset/hubble/proxima-centauri/) — dificil-g-13.
+- [Criterion — Memories of Murder](https://www.criterion.com/current/posts/7361-memories-of-murder-in-the-killing-jar) — dificil-entretenimento-0.
+- [HBO — Tony Soprano](https://shop.hbo.com/collections/tony-soprano-merchandise) — dificil-entretenimento-1.
+- [BFI — Godard and Truffaut](https://www.bfi.org.uk/sight-and-sound/interviews/how-they-did-love-emmanuel-laurent-godard-truffaut) — dificil-entretenimento-2.
+- [Miles Davis — Kind of Blue](https://www.milesdavis.com/albums/kind-of-blue/) — dificil-entretenimento-3.
+- [IETF — RFC 4271](https://www.rfc-editor.org/rfc/rfc4271) — dificil-entretenimento-4.
+- [Showtime — Twin Peaks](https://www.paramountpressexpress.com/showtime/releases/?view=47219) — dificil-entretenimento-5.
+- [BFI — Kurosawa](https://www.bfi.org.uk/features/star-wars-conquered-cinema-hidden-fortress) — dificil-entretenimento-6.
+- [Boosey & Hawkes — The Rite of Spring](https://www.boosey.com/pages/Opera/catalogue/cat_detail?musicid=5253) — dificil-entretenimento-7.
+- [Brendan Eich — ModernWeb 2015](https://brendaneich.github.io/ModernWeb.tw-2015/) — dificil-entretenimento-8.
+- [Netflix — Dark](https://media.netflix.com/en/only-on-netflix/80100172) — dificil-entretenimento-9.
+- [NASA — Universe glossary](https://science.nasa.gov/universe/glossary/) — dificil-atualidades-14.
+- [BIPM — SI prefixes](https://www.bipm.org/en/measurement-units/si-prefixes) — dificil-atualidades-15.
+- [NCBI — Hyoid bone](https://www.ncbi.nlm.nih.gov/books/NBK539726/?report=printable) — dificil-atualidades-17.
+- [IETF — RFC 1034](https://www.rfc-editor.org/rfc/rfc1034) — dificil-atualidades-18.
+- [NOAA — Atmosphere terminology](https://gml.noaa.gov/infodata/terms.html) — dificil-atualidades-19.
+- [BIPM — SI base units](https://www.bipm.org/en/measurement-units/si-base-units) — qm-0103, qm-0262, qm-0263, qm-0264, qm-0265.
+- [UNESCO — Frevo](https://ich.unesco.org/en/RL/frevo-performing-arts-of-the-carnival-of-recife-00603?lang=en) — qm-0118.
+- [Nintendo — Mario characters](https://mario.nintendo.com/characters/) — qm-0115, qm-0201, qm-0202, qm-0203.
+- [MoMA — Vincent van Gogh](https://www.moma.org/collection/artists/2206) — qm-0117.
+- [UNFCCC — COP30](https://unfccc.int/cop30) — qm-0119.
+- [Pixar — Toy Story](https://www.pixar.com/toy-story) — qm-0114.
+- [IFAB — Law 7](https://www.theifab.com/laws/latest/the-duration-of-the-match/) — qm-0109.
+- [FIBA — Facilitator handbook](https://assets.fiba.basketball/image/upload/documents-corporate-wabc-start-coaching-eng-facilitator-handbook.pdf) — qm-0110.
+- [João 2 — Bible Gateway](https://www.biblegateway.com/passage/?search=John2&version=NIV) — qm-0111.
+- [Ciberdúvidas — Concessiva](https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/pese-embora-o-mau-tempo/21242) — qm-0122.
+- [Collodi — Pinocchio, texto original](https://www.gutenberg.org/cache/epub/16865/pg16865-images.html) — facil-g-6.
+- [ONU — Países por área, 1999](https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/files/documents/2020/Jan/un_1999_6billion.pdf) — medio-g-2.
+- [Nintendo — Mario characters](https://mario.nintendo.com/characters/) — qm-0115, qm-0201, qm-0202, qm-0203.
+- [Nintendo — Kirby's Dream Course](https://www.nintendo.com/en-gb/Games/Super-Nintendo/Kirby-s-Dream-Course-758013.html) — qm-0209.
+- [NOAA — Latitude](https://oceanservice.noaa.gov/facts/latitude.html) — qm-0271.
+- [Presidência — Decreto 58-A/1889](https://www.planalto.gov.br/ccivil_03/decreto/1851-1899/d0058a.htm) — qm-0267.
+- [OpenStax — Percentuais](https://openstax.org/books/prealgebra-2e/pages/6-1-understand-percent) — qm-0275.
+- [OpenStax — Equações](https://openstax.org/books/prealgebra-2e/pages/5-4-solve-equations-with-decimals) — qm-0276.
+- [OpenStax — Teorema de Pitágoras](https://openstax.org/books/prealgebra-2e/pages/9-3-use-properties-of-angles-triangles-and-the-pythagorean-theorem) — qm-0277.
+- [Nintendo — Breath of the Wild Explorer's Guide](https://media.nintendo.com/zelda/breath-of-the-wild/assets/ExplorersGuide.pdf) — qm-0204, qm-0205, qm-0206.
+- [Nintendo — Kirby history](https://kirby.nintendo.com/about/) — qm-0207.
+- [Nintendo — Kirby's Adventure](https://www.nintendo.com/en-gb/Games/NES/Kirby-s-Adventure-277754.html) — qm-0208.
+- [IFAB — Law 1](https://www.theifab.com/laws/latest/the-field-of-play/?side-menu-category=laws-of-the-game) — qm-0212, qm-0213, qm-0214, qm-0217.
+- [IFAB — Law 12](https://theifab.com/laws/latest/fouls-and-misconduct/) — qm-0210, qm-0216.
+- [IFAB — Law 11](https://theifab.com/laws/latest/offside/) — qm-0215.
+- [IFAB — Law 16](https://www.theifab.com/laws/latest/the-goal-kick/) — qm-0211.
+- [FIBA — Official Basketball Rules 2024](https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf) — qm-0218, qm-0219, qm-0220, qm-0221.
+- [FIVB — Basic rules](https://www.fivb.com/volleyball/the-game/basic-rules/) — qm-0222, qm-0223.
+- [ITF — Rules of Tennis, apêndice do WTA 2026](https://www.itftennis.com/media/15607/wta-2026-rulebook.pdf) — qm-0224.
+- [Organização da Maratona de Sydney — distância oficial](https://www.tcssydneymarathon.com/marathon) — qm-0225.
+- [MoMA — The Persistence of Memory](https://www.moma.org/collection/works/79018) — qm-0226.
+- [MoMA — Les Demoiselles d'Avignon](https://www.moma.org/calendar/galleries/5696) — qm-0227.
+- [MoMA — Campbell's Soup Cans](https://www.moma.org/collection/works/79809?gclsrc=aw.ds) — qm-0228.
+- [MoMA — Water Lilies](https://www.moma.org/collection/works/80220) — qm-0229.
+- [MALBA — Abaporu](https://tienda.malba.org.ar/products/verboamerica-tarsila-do-amaral-abaporu) — qm-0230.
+- [Projeto Portinari — Guerra e Paz](https://www.portinari.org.br/projeto-portinari/realizacoes/103880/the-war-and-peace-project) — qm-0231.
+- [MoMA — Constructing Gender](https://www.moma.org/collection/terms/investigating-identity/constructing-gender) — qm-0232.
+- [MoMA — Collection](https://www.moma.org/collection/?with_images=true) — qm-0233.
+- [Infopédia — Cidadãos](https://www.infopedia.pt/dicionarios/lingua-portuguesa/cidad%C3%A3os) — qm-0234.
+- [Infopédia — Exceção](https://www.infopedia.pt/dicionarios/lingua-portuguesa/exce%C3%A7%C3%A3o) — qm-0235.
+- [Infopédia — Proparoxítono](https://www.infopedia.pt/dicionarios/lingua-portuguesa/Proparox%C3%ADtono) — qm-0236.
+- [Infopédia — Hiato](https://www.infopedia.pt/dicionarios/lingua-portuguesa/HIATO) — qm-0237.
+- [Infopédia — Porquê](https://www.infopedia.pt/dicionarios/lingua-portuguesa/porqu%C3%AA) — qm-0238.
+- [Ciberdúvidas — Pretérito mais-que-perfeito](https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/a-utilizacao-do-preterito-perfeito-e-do-preterito-mais-que-perfeito/29909) — qm-0239.
+- [Infopédia — Infeliz](https://www.infopedia.pt/dicionarios/lingua-portuguesa/infeliz) — qm-0240.
+- [Ciberdúvidas — Concordância sujeito-predicado](https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/concordancia-sujeito-predicado/1679) — qm-0241.
+- [Iphan — Samba de Roda do Estado da Bahia](https://bcr.iphan.gov.br/bens-culturais/samba-de-roda-do-reconcavo-baiano/) — qm-0248.
+- [Iphan — Pareceres de registro de bens culturais, vol. 1](https://bibliotecadigital.iphan.gov.br/items/0ef94d99-0d7f-49ec-b17f-296ca0aa932b) — qm-0242, qm-0247, qm-0249.
+- [Iphan — Paneleiras de Goiabeiras](https://bcr.iphan.gov.br/bens-culturais/oficio-das-paneleiras-de-goiabeiras/) — qm-0243.
+- [Iphan — Literatura de cordel](https://bcr.iphan.gov.br/bens-culturais/literatura-de-cordel/) — qm-0244.
+- [Iphan — Patrimônio imaterial do Piauí](https://www.gov.br/iphan/pt-br/superintendencias/piaui/patrimonio-imaterial) — qm-0245.
+- [Iphan — Renda irlandesa em Divina Pastora](https://sicg.iphan.gov.br/sicg/bemImaterial/rel/116/) — qm-0246.
+- [Bíblia — 1 Samuel 17](https://www.biblegateway.com/passage/?search=1Sam.17) — qm-0250.
+- [Bíblia — Êxodo 3 e 19–20](https://www.biblegateway.com/passage/?search=Exodus+3%2CExodus+19-20&version=NIV) — qm-0251, qm-0252, qm-0255.
+- [Bíblia — Daniel 6](https://search.biblegateway.com/passage/?search=Daniel+6&version=NIV) — qm-0253.
+- [Bíblia — Lucas 10](https://www.biblegateway.com/passage/?search=Luke+10&version=NIV) — qm-0254.
+- [IBM — DIMM e memória RAM](https://www.ibm.com/think/topics/dimm) — qm-0256.
+- [IBM — Flash versus SSD](https://www.ibm.com/think/topics/flash-vs-ssd-storage) — qm-0257.
+- [Intel — Execução de instruções](https://www.intel.com/content/www/us/en/developer/articles/technical/software-security-guidance/technical-documentation/hardware-behavior-related-to-speculative-execution.html) — qm-0258.
+- [IETF — RFC 3629](https://www.rfc-editor.org/info/rfc3629/) — qm-0259.
+- [SQLite — SELECT](https://www.sqlite.org/lang_select.html) — qm-0260, qm-0261.
+- [NOAA — Pacific Ocean](https://oceanservice.noaa.gov/facts/pacific.html) — qm-0270.
+- [NASA — The Eight-Thousanders](https://science.nasa.gov/earth/earth-observatory/the-eight-thousanders/) — qm-0272.
+- [Presidência — Lei 3.353/1888](https://planalto.gov.br/ccivil_03/leis/lim/lim3353.htm) — qm-0266.
+- [Élysée — 14 juillet](https://www.elysee.fr/la-presidence/la-fete-nationale-du-14-juillet) — qm-0268.
+- [Torre do Tombo — Ratificação de Tordesilhas](https://portal.arquivos.pt/record?id=oai%3APT%2FTT%3A4186002&s=%27xlgS7%27) — qm-0269.
+- [OpenStax — Prealgebra 2e](https://openstax.org/books/prealgebra-2e/pages/1-introduction) — qm-0273, qm-0274, qm-0278.
+- [Warner Bros. Discovery — Barbie, direção e roteiro](https://press.wbd.com/us/media-release/barbie-skates-past-500-million-worldwide?language_content_entity=en) — qm-0279.
+- [Pixar — Finding Nemo](https://www.pixar.com/finding-nemo) — qm-0281.
+- [Pixar — Ratatouille](https://www.pixar.com/ratatouille) — qm-0282.
+- [Pixar — Coco](https://www.pixar.com/coco) — qm-0283.
+- [Pixar — Inside Out](https://www.pixar.com/inside-out) — qm-0284, qm-0286.
+- [Pixar — WALL-E](https://www.pixar.com/wall-e) — qm-0285.
+- [Yamaha — P-225, 88 teclas](https://usa.yamaha.com/products/musical_instruments/pianos/p_series/p-225/index.html) — qm-0287.

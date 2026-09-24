@@ -1,0 +1,38 @@
+[
+  {
+    "ids": [
+      "facil-atualidades-10",
+      "medio-entretenimento-2"
+    ],
+    "reason": "texto semelhante: revisar",
+    "decision": "retained",
+    "reasonForRetention": "Enunciados consultam fatos distintos (por exemplo, categorias diferentes da mesma premiação). Não há igualdade de ID, factId ou texto. Revisão editorial mantém ambos."
+  },
+  {
+    "ids": [
+      "facil-atualidades-10",
+      "dificil-atualidades-11"
+    ],
+    "reason": "texto semelhante: revisar",
+    "decision": "retained",
+    "reasonForRetention": "Enunciados consultam fatos distintos (por exemplo, categorias diferentes da mesma premiação). Não há igualdade de ID, factId ou texto. Revisão editorial mantém ambos."
+  },
+  {
+    "ids": [
+      "facil-atualidades-10",
+      "dificil-atualidades-16"
+    ],
+    "reason": "texto semelhante: revisar",
+    "decision": "retained",
+    "reasonForRetention": "Enunciados consultam fatos distintos (por exemplo, categorias diferentes da mesma premiação). Não há igualdade de ID, factId ou texto. Revisão editorial mantém ambos."
+  },
+  {
+    "ids": [
+      "dificil-atualidades-11",
+      "dificil-atualidades-16"
+    ],
+    "reason": "texto semelhante: revisar",
+    "decision": "retained",
+    "reasonForRetention": "Enunciados consultam fatos distintos (por exemplo, categorias diferentes da mesma premiação). Não há igualdade de ID, factId ou texto. Revisão editorial mantém ambos."
+  }
+]

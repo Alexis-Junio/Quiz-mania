@@ -1,0 +1,344 @@
+{
+  "previous": 119,
+  "added": 88,
+  "total": 207,
+  "verifiedAt": "2026-09-14T00:00:00.000Z",
+  "topics": {
+    "geografia": {
+      "total": 10,
+      "facil": 3,
+      "medio": 4,
+      "dificil": 3
+    },
+    "ciencia": {
+      "total": 13,
+      "facil": 4,
+      "medio": 6,
+      "dificil": 3
+    },
+    "historia": {
+      "total": 10,
+      "facil": 2,
+      "medio": 5,
+      "dificil": 3
+    },
+    "futebol": {
+      "total": 10,
+      "facil": 4,
+      "medio": 3,
+      "dificil": 3
+    },
+    "tecnologia": {
+      "total": 10,
+      "facil": 4,
+      "medio": 3,
+      "dificil": 3
+    },
+    "geral": {
+      "total": 10,
+      "facil": 3,
+      "medio": 3,
+      "dificil": 4
+    },
+    "matematica": {
+      "total": 10,
+      "facil": 4,
+      "medio": 3,
+      "dificil": 3
+    },
+    "biblia": {
+      "total": 10,
+      "facil": 3,
+      "medio": 4,
+      "dificil": 3
+    },
+    "cultura-brasileira": {
+      "total": 10,
+      "facil": 4,
+      "medio": 3,
+      "dificil": 3
+    },
+    "curiosidades": {
+      "total": 12,
+      "facil": 6,
+      "medio": 3,
+      "dificil": 3
+    },
+    "filmes": {
+      "total": 10,
+      "facil": 2,
+      "medio": 5,
+      "dificil": 3
+    },
+    "series": {
+      "total": 10,
+      "facil": 3,
+      "medio": 3,
+      "dificil": 4
+    },
+    "animacoes": {
+      "total": 10,
+      "facil": 6,
+      "medio": 2,
+      "dificil": 2
+    },
+    "musica": {
+      "total": 10,
+      "facil": 3,
+      "medio": 5,
+      "dificil": 2
+    },
+    "internet": {
+      "total": 11,
+      "facil": 4,
+      "medio": 4,
+      "dificil": 3
+    },
+    "atualidades": {
+      "total": 11,
+      "facil": 3,
+      "medio": 4,
+      "dificil": 4
+    },
+    "esportes": {
+      "total": 10,
+      "facil": 3,
+      "medio": 4,
+      "dificil": 3
+    },
+    "portugues": {
+      "total": 10,
+      "facil": 3,
+      "medio": 4,
+      "dificil": 3
+    },
+    "artistas": {
+      "total": 10,
+      "facil": 2,
+      "medio": 4,
+      "dificil": 4
+    },
+    "games": {
+      "total": 10,
+      "facil": 4,
+      "medio": 3,
+      "dificil": 3
+    }
+  },
+  "batches": [
+    {
+      "batch": 1,
+      "ids": [
+        "qm-0201",
+        "qm-0202",
+        "qm-0203",
+        "qm-0204",
+        "qm-0205"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 2,
+      "ids": [
+        "qm-0206",
+        "qm-0207",
+        "qm-0208",
+        "qm-0209",
+        "qm-0210"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 3,
+      "ids": [
+        "qm-0211",
+        "qm-0212",
+        "qm-0213",
+        "qm-0214",
+        "qm-0215"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 4,
+      "ids": [
+        "qm-0216",
+        "qm-0217",
+        "qm-0218",
+        "qm-0219",
+        "qm-0220"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 5,
+      "ids": [
+        "qm-0221",
+        "qm-0222",
+        "qm-0223",
+        "qm-0224",
+        "qm-0225"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 6,
+      "ids": [
+        "qm-0226",
+        "qm-0227",
+        "qm-0228",
+        "qm-0229",
+        "qm-0230"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 7,
+      "ids": [
+        "qm-0231",
+        "qm-0232",
+        "qm-0233",
+        "qm-0234",
+        "qm-0235"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 8,
+      "ids": [
+        "qm-0236",
+        "qm-0237",
+        "qm-0238",
+        "qm-0239",
+        "qm-0240"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 9,
+      "ids": [
+        "qm-0241",
+        "qm-0242",
+        "qm-0243",
+        "qm-0244",
+        "qm-0245"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 10,
+      "ids": [
+        "qm-0246",
+        "qm-0247",
+        "qm-0248",
+        "qm-0249",
+        "qm-0250"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 11,
+      "ids": [
+        "qm-0251",
+        "qm-0252",
+        "qm-0253",
+        "qm-0254",
+        "qm-0255"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 12,
+      "ids": [
+        "qm-0256",
+        "qm-0257",
+        "qm-0258",
+        "qm-0259",
+        "qm-0260"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 13,
+      "ids": [
+        "qm-0261",
+        "qm-0262",
+        "qm-0263",
+        "qm-0264",
+        "qm-0265"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 14,
+      "ids": [
+        "qm-0266",
+        "qm-0267",
+        "qm-0268",
+        "qm-0269",
+        "qm-0270"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 15,
+      "ids": [
+        "qm-0271",
+        "qm-0272",
+        "qm-0273",
+        "qm-0274",
+        "qm-0275"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 16,
+      "ids": [
+        "qm-0276",
+        "qm-0277",
+        "qm-0278",
+        "qm-0279",
+        "qm-0280"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 17,
+      "ids": [
+        "qm-0281",
+        "qm-0282",
+        "qm-0283",
+        "qm-0284",
+        "qm-0285"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "batch": 18,
+      "ids": [
+        "qm-0286",
+        "qm-0287",
+        "qm-0288"
+      ],
+      "status": "approved",
+      "verifiedAt": "2026-09-14T00:00:00.000Z"
+    }
+  ]
+}

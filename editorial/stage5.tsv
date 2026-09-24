@@ -1,0 +1,89 @@
+# id|topic|level|sourceKey|question|correct|wrong1|wrong2|wrong3|explanation
+qm-0201|games|facil|mario|Nos jogos Super Mario, qual princesa governa o Reino dos Cogumelos?|Peach|Zelda|Samus|Daisy|Peach é a princesa do Reino dos Cogumelos.
+qm-0202|games|facil|mario|Nos jogos Super Mario, quem é o rei dos Koopas?|Bowser|Toad|Luigi|Yoshi|Bowser lidera os Koopas e costuma enfrentar Mario.
+qm-0203|games|medio|mario|Qual personagem de Super Mario cuida dos Lumas?|Rosalina|Pauline|Daisy|Birdo|Rosalina é a protetora dos Lumas.
+qm-0204|games|medio|zelda|Em The Legend of Zelda: Breath of the Wild (2017), qual é o nome do herói controlado pelo jogador?|Link|Zelda|Ganondorf|Impa|Link é o protagonista jogável dessa aventura.
+qm-0205|games|facil|zelda|Em Breath of the Wild (2017), qual reino deve ser salvo por Link?|Hyrule|Mushroom Kingdom|Midgar|Raccoon City|A aventura se passa no reino de Hyrule.
+qm-0206|games|dificil|zelda|Qual espada lendária é associada a Link no guia de Breath of the Wild (2017)?|Master Sword|Buster Sword|Gunblade|Keyblade|A Master Sword é a espada lendária de Link.
+qm-0207|games|medio|kirby|Em qual console portátil estreou Kirby's Dream Land em 1992?|Game Boy|Game Gear|Nintendo DS|PSP|Kirby's Dream Land foi lançado originalmente para Game Boy.
+qm-0208|games|dificil|kirbyadventure|Qual jogo de 1993 introduziu a habilidade de Kirby de copiar poderes dos inimigos?|Kirby's Adventure|Kirby's Dream Land|Kirby's Dream Course|Kirby Air Ride|Kirby's Adventure introduziu a habilidade de cópia.
+qm-0209|games|dificil|kirbygolf|Qual jogo de Kirby lançado originalmente para Super NES usa mecânicas semelhantes às do golfe?|Kirby's Dream Course|Kirby's Adventure|Kirby Air Ride|Kirby's Dream Land 2|Kirby's Dream Course combina Kirby e desafios inspirados no golfe.
+qm-0210|futebol|facil|cards|Nas regras IFAB consultadas em setembro de 2026, qual cartão indica expulsão?|Vermelho|Amarelo|Azul|Verde|O cartão vermelho comunica a expulsão.
+qm-0211|futebol|facil|goalkick|Pela regra IFAB consultada em setembro de 2026, se a bola sair inteira pela linha de meta, tocada por último pelo ataque, sem gol, qual reinício é aplicado normalmente?|Tiro de meta|Escanteio|Pênalti|Bola ao chão|O último toque do ataque nessa saída determina tiro de meta.
+qm-0212|futebol|medio|field|Pela regra IFAB consultada em setembro de 2026, a marca do pênalti fica a quantos metros do ponto médio entre as traves?|11|9|12|16|A marca penal fica a 11 metros da meta.
+qm-0213|futebol|dificil|field|Pela regra IFAB consultada em setembro de 2026, qual é a distância interna entre as traves de um gol de futebol de campo?|7,32 m|6,32 m|8,32 m|5,32 m|A largura interna regulamentar é de 7,32 metros.
+qm-0214|futebol|dificil|field|Pela regra IFAB consultada em setembro de 2026, qual é a altura da borda inferior do travessão ao chão?|2,44 m|2,00 m|2,74 m|3,05 m|O travessão fica a 2,44 metros do chão.
+qm-0215|futebol|medio|offside|Pela regra IFAB consultada em setembro de 2026, receber a bola diretamente de qual reinício não gera infração de impedimento?|Arremesso lateral|Tiro livre direto|Tiro livre indireto|Passe com bola rolando|Não há impedimento ao receber diretamente de um arremesso lateral.
+qm-0216|futebol|medio|cards|Pela regra IFAB consultada em setembro de 2026, o que ocorre ao receber a segunda advertência amarela na mesma partida?|Expulsão|Apenas advertência verbal|Cinco minutos fora|Nenhuma sanção adicional|Duas advertências na mesma partida resultam em expulsão.
+qm-0217|futebol|dificil|field|Pela regra IFAB consultada em setembro de 2026, quantos metros as linhas laterais da área penal avançam para dentro do campo?|16,5|5,5|11|18,5|A área penal se estende por 16,5 metros a partir da linha de meta.
+qm-0218|esportes|facil|fiba24|Pelas regras FIBA de 2024, quantos jogadores de cada equipe devem estar prontos em quadra para iniciar uma partida de basquete?|5|6|7|4|A partida começa com cinco jogadores prontos por equipe.
+qm-0219|esportes|medio|fiba24|Pelas regras FIBA de 2024, quanto dura cada quarto do tempo regulamentar?|10 minutos|12 minutos|15 minutos|8 minutos|São quatro quartos de dez minutos.
+qm-0220|esportes|dificil|fiba24|Pelas regras FIBA de 2024, qual é a duração de cada prorrogação?|5 minutos|3 minutos|10 minutos|12 minutos|Cada período extra dura cinco minutos.
+qm-0221|esportes|medio|fiba24|Pelas regras FIBA de 2024, qual é o limite inicial padrão para uma equipe tentar um arremesso após ganhar controle de bola viva?|24 segundos|14 segundos|30 segundos|8 segundos|O relógio de arremesso normalmente inicia com 24 segundos.
+qm-0222|esportes|facil|fivb|No voleibol de quadra, segundo a FIVB consultada em setembro de 2026, quantos toques uma equipe pode usar para devolver a bola, além do bloqueio?|3|2|4|5|A equipe dispõe de três toques, sem contar o contato de bloqueio.
+qm-0223|esportes|dificil|fivb|Segundo a FIVB consultada em setembro de 2026, em qual sentido ocorre a rotação da equipe quando ela conquista o direito de sacar?|Horário|Anti-horário|Diagonal|Livre escolha|Os jogadores rodam uma posição no sentido horário.
+qm-0224|esportes|medio|tennis|No sistema tradicional de pontuação do tênis, segundo as regras ITF de 2026, como é chamada a igualdade após cada lado ganhar três pontos no game?|Deuce|Love|Ace|Let|A igualdade em 40 a 40 é chamada de deuce.
+qm-0225|esportes|dificil|marathon|Qual é a distância oficial de uma maratona de rua, também usada na Maratona de Sydney?|42,195 km|40 km|21,0975 km|50 km|Uma maratona mede 42 quilômetros e 195 metros.
+qm-0226|artistas|medio|dali|Quem pintou A Persistência da Memória (1931)?|Salvador Dalí|Pablo Picasso|Joan Miró|Claude Monet|A obra dos relógios derretidos é de Salvador Dalí.
+qm-0227|artistas|dificil|picasso|Quem pintou Les Demoiselles d'Avignon (1907)?|Pablo Picasso|Henri Matisse|Edvard Munch|Paul Cézanne|Pablo Picasso pintou a obra em 1907.
+qm-0228|artistas|medio|warhol|Qual artista criou Campbell's Soup Cans (1962)?|Andy Warhol|Jackson Pollock|Roy Lichtenstein|Mark Rothko|A série de latas de sopa é de Andy Warhol.
+qm-0229|artistas|facil|monet|Qual pintor é o autor dos Nenúfares (Water Lilies) da coleção do MoMA?|Claude Monet|Vincent van Gogh|Salvador Dalí|Diego Rivera|Monet pintou a série de nenúfares.
+qm-0230|artistas|facil|abaporu|Quem pintou Abaporu (1928)?|Tarsila do Amaral|Anita Malfatti|Lygia Clark|Tomie Ohtake|Abaporu é uma obra de Tarsila do Amaral.
+qm-0231|artistas|medio|portinari|Quem criou os painéis Guerra e Paz oferecidos pelo Brasil à ONU?|Candido Portinari|Di Cavalcanti|Alfredo Volpi|Hélio Oiticica|Portinari criou os dois grandes painéis para a ONU.
+qm-0232|artistas|dificil|kahlo|Quem pintou Autorretrato com Cabelo Cortado (1940), da coleção do MoMA?|Frida Kahlo|Leonora Carrington|Remedios Varo|Georgia O'Keeffe|O autorretrato de 1940 é de Frida Kahlo.
+qm-0233|artistas|dificil|matisse|Quem pintou Dance (I), em 1909, obra da coleção do MoMA?|Henri Matisse|Piet Mondrian|Wassily Kandinsky|Paul Klee|Dance (I) foi pintada por Henri Matisse.
+qm-0234|portugues|facil|cidadaos|Qual é o plural padrão de cidadão?|Cidadãos|Cidadões|Cidadães|Cidadãoses|O plural registrado é cidadãos.
+qm-0235|portugues|facil|excecao|Qual grafia está correta no português brasileiro?|Exceção|Excessão|Esceção|Exseção|Exceção é a grafia correta.
+qm-0236|portugues|medio|proparoxitona|Uma palavra com sílaba tônica na antepenúltima sílaba é classificada como quê?|Proparoxítona|Oxítona|Paroxítona|Monossílabo átono|Proparoxítonas têm a antepenúltima sílaba tônica.
+qm-0237|portugues|medio|hiato|Como se chama o encontro de duas vogais que ficam em sílabas distintas, como em sa-í-da?|Hiato|Ditongo|Tritongo|Dígrafo|No hiato, as vogais pertencem a sílabas diferentes.
+qm-0238|portugues|dificil|porque|Em 'Não entendi o porquê da mudança', qual é a classe de porquê?|Substantivo|Preposição|Pronome pessoal|Verbo|Com artigo e sentido de motivo, porquê é substantivo.
+qm-0239|portugues|dificil|fizera|A forma verbal fizera pertence a qual tempo do indicativo?|Pretérito mais-que-perfeito|Pretérito imperfeito|Futuro do presente|Presente|Fizera indica uma ação anterior a outra passada.
+qm-0240|portugues|facil|infeliz|Qual palavra é antônimo de feliz, no sentido de contente?|Infeliz|Alegre|Satisfeito|Contente|Infeliz expressa a negação de felicidade nesse contexto.
+qm-0241|portugues|medio|concordancia|Complete segundo a concordância padrão: 'Nós ___ cedo ontem'.|Chegamos|Chegou|Chegaram|Cheguei|O pronome nós pede a primeira pessoa do plural.
+qm-0242|cultura-brasileira|facil|patrimonio|O complexo cultural Bumba Meu Boi registrado pelo Iphan está ligado especialmente a qual estado?|Maranhão|Paraná|Acre|Santa Catarina|O registro destaca o Bumba Meu Boi do Maranhão.
+qm-0243|cultura-brasileira|medio|paneleiras|Em qual cidade fica o bairro de Goiabeiras associado ao ofício tradicional das paneleiras?|Vitória|Salvador|Natal|Belém|As paneleiras de Goiabeiras atuam em Vitória, Espírito Santo.
+qm-0244|cultura-brasileira|medio|cordel|Qual técnica de gravura é tradicionalmente usada em muitas capas de folhetos de cordel?|Xilogravura|Holografia|Daguerreotipia|Serigrafia digital|Muitas capas são feitas com impressão a partir de matriz de madeira.
+qm-0245|cultura-brasileira|facil|cajuina|A cajuína tradicional é produzida a partir do suco de qual fruto?|Caju|Açaí|Maracujá|Umbu|A cajuína é feita com suco clarificado de caju.
+qm-0246|cultura-brasileira|dificil|renda|Qual município sergipano é referência do registro do modo de fazer renda irlandesa?|Divina Pastora|Caicó|Caruaru|Pirenópolis|O registro toma como referência o ofício em Divina Pastora.
+qm-0247|cultura-brasileira|dificil|patrimonio|A arte Kusiwa, registrada como patrimônio cultural brasileiro, pertence a qual povo indígena?|Wajãpi|Karajá|Xavante|Guarani Mbya|Kusiwa é a pintura corporal e arte gráfica dos Wajãpi.
+qm-0248|cultura-brasileira|medio|samba|A região do Recôncavo, ligada ao samba de roda registrado em 2004, fica em qual estado?|Bahia|Alagoas|Ceará|Goiás|O Recôncavo Baiano está na Bahia; o registro foi ampliado para o estado em 2024.
+qm-0249|cultura-brasileira|dificil|patrimonio|Qual bebida tradicional tem produção e práticas socioculturais registradas pelo Iphan no Piauí?|Cajuína|Chimarrão|Aluá de arroz|Caldo de cana|O registro piauiense trata da produção tradicional da cajuína.
+qm-0250|biblia|facil|davi|Segundo 1 Samuel 17, quem enfrentou Golias com uma funda?|Davi|Saul|Salomão|Sansão|Davi atingiu Golias com uma pedra lançada pela funda.
+qm-0251|biblia|facil|exodo|Segundo Êxodo 3, quem viu a sarça que ardia sem se consumir?|Moisés|Abraão|Jacó|Elias|A narrativa da sarça ardente apresenta o chamado de Moisés.
+qm-0252|biblia|medio|exodo|Segundo Êxodo 19, em qual monte Deus chamou Moisés durante a aliança com Israel?|Sinai|Carmelo|Sião|Tabor|Êxodo 19 situa o encontro no monte Sinai.
+qm-0253|biblia|medio|daniel|Segundo Daniel 6, em qual lugar Daniel foi lançado como punição por continuar orando?|Cova dos leões|Fornalha|Cisterna|Mar|Daniel foi lançado na cova dos leões.
+qm-0254|biblia|dificil|samaritano|Na parábola de Lucas 10, qual viajante socorreu o homem ferido depois que sacerdote e levita passaram?|Samaritano|Fariseu|Saduceu|Publicano|O samaritano cuidou do ferido e o levou a uma hospedaria.
+qm-0255|biblia|dificil|exodo|Segundo Êxodo 3:1, qual sogro de Moisés era sacerdote de Midiã?|Jetro|Labão|Melquisedeque|Eli|Jetro é apresentado como sogro de Moisés e sacerdote de Midiã.
+qm-0256|tecnologia|facil|ram|O que acontece normalmente com os dados da RAM volátil quando falta energia?|São perdidos|Viram arquivos PDF|Passam automaticamente ao SSD|São impressos|A RAM volátil precisa de energia para manter os dados.
+qm-0257|tecnologia|medio|ssd|Qual tecnologia de memória é usada tipicamente nos SSDs modernos descritos pela IBM?|NAND flash|Fita magnética|Disco óptico|Cartão perfurado|SSDs modernos geralmente armazenam dados em memória NAND flash.
+qm-0258|tecnologia|facil|cpu|Qual componente executa as instruções dos programas de uso geral em um computador?|CPU|Monitor|Teclado|Gabinete|A CPU é o processador responsável por executar instruções.
+qm-0259|tecnologia|dificil|utf8|Segundo a RFC 3629, quantos octetos podem codificar um valor escalar Unicode em UTF-8?|De 1 a 4|Sempre 2|Sempre 8|De 5 a 8|UTF-8 usa sequências de um a quatro octetos.
+qm-0260|tecnologia|medio|sql|Qual comando SQL é usado para consultar linhas de uma tabela?|SELECT|DELETE|DROP|ALTER|SELECT consulta dados sem, por si só, alterar a tabela.
+qm-0261|tecnologia|dificil|sql|Em uma consulta SELECT, qual cláusula filtra linhas antes do agrupamento?|WHERE|ORDER BY|LIMIT|DISTINCT|WHERE aplica a condição de seleção às linhas antes de GROUP BY.
+qm-0262|geral|facil|si|Qual é a unidade de base de massa no Sistema Internacional?|Quilograma|Litro|Newton|Metro|O quilograma é a unidade de base de massa do SI.
+qm-0263|geral|medio|si|Qual é a unidade de base de corrente elétrica no SI?|Ampere|Volt|Ohm|Watt|A corrente elétrica tem o ampere como unidade de base.
+qm-0264|geral|dificil|si|Qual é a unidade de base de intensidade luminosa no SI?|Candela|Lúmen|Lux|Joule|A intensidade luminosa é medida em candelas no SI.
+qm-0265|geral|dificil|si|Qual é a unidade de base de quantidade de substância no SI?|Mol|Grama|Pascal|Kelvin|O mol é a unidade de quantidade de substância.
+qm-0266|historia|facil|aurea|Em que ano a Lei Áurea declarou extinta a escravidão no Brasil?|1888|1822|1889|1850|A Lei 3.353 foi sancionada em 13 de maio de 1888.
+qm-0267|historia|medio|republica|Em que data foi proclamada a República no Brasil?|15 de novembro de 1889|7 de setembro de 1822|13 de maio de 1888|21 de abril de 1792|A proclamação da República ocorreu em 15 de novembro de 1889.
+qm-0268|historia|medio|bastille|Em que ano ocorreu a tomada da Bastilha, em Paris?|1789|1776|1815|1848|A tomada da Bastilha ocorreu em 14 de julho de 1789.
+qm-0269|historia|dificil|tordesilhas|Em que ano foi firmado o Tratado de Tordesilhas entre as coroas portuguesa e castelhana?|1494|1500|1580|1640|O Tratado de Tordesilhas foi firmado em 1494.
+qm-0270|geografia|facil|pacific|Qual é o maior oceano da Terra em área?|Pacífico|Atlântico|Índico|Ártico|O Pacífico é a maior bacia oceânica do planeta.
+qm-0271|geografia|medio|latitude|Qual é a latitude da linha do Equador geográfico?|0 grau|23,5 graus norte|66,5 graus sul|90 graus norte|A linha do Equador corresponde à latitude zero.
+qm-0272|geografia|medio|everest|Qual montanha tem o cume mais alto do mundo quando medido em relação ao nível do mar?|Everest|K2|Kilimanjaro|Aconcágua|O Everest tem a maior altitude de cume acima do nível do mar.
+qm-0273|matematica|facil|arithmetic|Quanto é 36 + 27?|63|53|73|61|36 + 20 = 56; somando 7, obtemos 63.
+qm-0274|matematica|facil|arithmetic|Qual é a representação decimal de 3/4?|0,75|0,34|0,25|1,33|Dividindo 3 por 4, obtemos 0,75.
+qm-0275|matematica|medio|percent|Quanto é 15% de 200?|30|15|20|45|15/100 × 200 = 30.
+qm-0276|matematica|medio|equations|Qual valor de x satisfaz 3x + 7 = 22?|5|3|7|9|Subtraindo 7, temos 3x = 15; dividindo por 3, x = 5.
+qm-0277|matematica|dificil|pythagoras|Um triângulo retângulo tem catetos de 5 cm e 12 cm. Quanto mede a hipotenusa?|13 cm|17 cm|7 cm|15 cm|Pelo teorema de Pitágoras, a hipotenusa é a raiz de 25 + 144, isto é, 13.
+qm-0278|matematica|dificil|arithmetic|Qual é o maior divisor comum de 48 e 18?|6|3|9|12|Os divisores comuns são 1, 2, 3 e 6; o maior é 6.
+qm-0279|filmes|medio|greta|Quem dirigiu Barbie (2023)?|Greta Gerwig|Sofia Coppola|Kathryn Bigelow|Chloé Zhao|Greta Gerwig dirigiu o filme Barbie de 2023.
+qm-0280|filmes|facil|oppenheimer|O protagonista histórico de Oppenheimer (2023) era um cientista de qual área?|Física|Botânica|Geologia|Zoologia|J. Robert Oppenheimer era físico e dirigiu o laboratório de Los Alamos.
+qm-0281|animacoes|facil|nemo|Em Procurando Nemo (2003), qual é o nome do pai de Nemo?|Marlin|Bruce|Gill|Nigel|Marlin é o pai que atravessa o oceano em busca de Nemo.
+qm-0282|animacoes|facil|remy|Em Ratatouille (2007), qual é o nome do rato que gosta de cozinhar?|Remy|Linguini|Gusteau|Skinner|Remy é o rato protagonista apaixonado por culinária.
+qm-0283|animacoes|medio|coco|Em Viva — A Vida É uma Festa (Coco, 2017), qual é o nome do menino protagonista?|Miguel|Héctor|Ernesto|Dante|Miguel é o menino que sonha em ser músico.
+qm-0284|animacoes|medio|inside|Em Divertida Mente (2015), para qual cidade Riley se muda com a família?|São Francisco|Seattle|Chicago|Boston|A mudança para São Francisco desencadeia a nova fase de Riley.
+qm-0285|animacoes|dificil|walle|Em WALL-E (2008), qual é o nome da nave em que vivem os humanos?|Axiom|Discovery|Nostromo|Enterprise|A nave de passageiros do filme se chama Axiom.
+qm-0286|animacoes|dificil|inside|Em Divertida Mente (2015), quem é o amigo imaginário de Riley?|Bing Bong|Anger|Fear|Jangles|Bing Bong é o amigo imaginário da infância de Riley.
+qm-0287|musica|facil|piano|Quantas teclas possui o piano digital Yamaha P-225, conforme a ficha oficial consultada em setembro de 2026?|88|61|76|49|O P-225 possui teclado de 88 teclas.
+qm-0288|musica|medio|staff|Na notação musical usual, qual clave fixa o Sol na segunda linha do pentagrama?|Clave de Sol|Clave de Fá|Clave de Dó na terceira linha|Clave de Dó na quarta linha|A clave de Sol usual indica o Sol na segunda linha.

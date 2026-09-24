@@ -1,0 +1,374 @@
+{
+  "brasilia": [
+    "IBGE — Brasília",
+    "https://www.ibge.gov.br/cidades-e-estados/df.html"
+  ],
+  "planets": [
+    "NASA — Planet sizes",
+    "https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/"
+  ],
+  "independencia": [
+    "Biblioteca Nacional — Independência",
+    "https://bndigital.bn.gov.br/dossies/gramaticas-e-dicionarios-do-portugues/linha-do-tempo/sobre-as-efemerides/1822-independencia-do-brasil/"
+  ],
+  "football": [
+    "IFAB — Law 3",
+    "https://www.theifab.com/laws/latest/the-players/"
+  ],
+  "whale": [
+    "NOAA — Blue whale",
+    "https://www.fisheries.noaa.gov/species/blue-whale"
+  ],
+  "mouse": [
+    "Microsoft — Mouse settings",
+    "https://support.microsoft.com/en-US/Windows/Hardware/Input-Devices/change-mouse-settings"
+  ],
+  "genesis": [
+    "Gênesis 6 — Bible Gateway",
+    "https://www.biblegateway.com/passage/?search=Genesis+6&version=NIV"
+  ],
+  "egypt": [
+    "Egypt State Information Service",
+    "https://africa.sis.gov.eg/english/egypt/basic-information/"
+  ],
+  "respiration": [
+    "OpenStax — Oxidative phosphorylation",
+    "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation"
+  ],
+  "flag": [
+    "Presidência — Bandeira nacional",
+    "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/simbolos-nacionais/bandeira/bandeira-nacional"
+  ],
+  "dolphin": [
+    "NOAA — Cetaceans",
+    "https://www.fisheries.noaa.gov/whales"
+  ],
+  "prince": [
+    "Site oficial O Pequeno Príncipe",
+    "https://www.lepetitprince.com/en/"
+  ],
+  "marvel": [
+    "Marvel — Adamantium",
+    "https://www.marvel.com/items/adamantium"
+  ],
+  "eleven": [
+    "Netflix — Stranger Things",
+    "https://about.netflix.com/en/news/stranger-things-5-prepare-for-one-last-adventure-with-our-final-season"
+  ],
+  "pixar": [
+    "Pixar — Our story",
+    "https://www.pixar.com/our-story"
+  ],
+  "taylor": [
+    "Taylor Swift — Shake It Off (Taylor's Version)",
+    "https://www.youtube.com/watch?v=mvVBuG4IOW4"
+  ],
+  "tiktok": [
+    "TikTok — Lançamento de 2018",
+    "https://newsroom.tiktok.com/musical-ly-and?lang=en"
+  ],
+  "simpsons": [
+    "FOX — The Simpsons",
+    "https://assets.fox.com/shows/upfronts/assets/Simpsons%2C%20The.pdf"
+  ],
+  "shrek": [
+    "DreamWorks — About",
+    "https://www.dreamworks.com/about"
+  ],
+  "guitar": [
+    "Yamaha — Six strings",
+    "https://www.yamaha.com/en/musical_instrument_guide/acoustic_guitar/mechanism/mechanism002.html"
+  ],
+  "hashtag": [
+    "X — Hashtags",
+    "https://help.x.com/en/using-x/how-to-use-hashtags"
+  ],
+  "frozen": [
+    "Disney — Frozen",
+    "https://movies.disney.com/frozen"
+  ],
+  "oscars26": [
+    "Academia — Oscar 2026",
+    "https://www.oscars.org/oscars/ceremonies/2026"
+  ],
+  "chameleon": [
+    "San Diego Zoo — Chameleon",
+    "https://animals.sandiegozoo.org/animals/chameleon"
+  ],
+  "threads": [
+    "Meta — Introducing Threads, 2023",
+    "https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/"
+  ],
+  "bat": [
+    "San Diego Zoo — Bat",
+    "https://animals.sandiegozoo.org/animals/bat"
+  ],
+  "mercury": [
+    "Royal Society of Chemistry — Mercury",
+    "https://periodic-table.rsc.org/element/80/mercury"
+  ],
+  "wednesday": [
+    "Netflix — Wednesday",
+    "https://www.netflix.com/tudum/articles/wednesday-season-3-release-date"
+  ],
+  "octopus": [
+    "Natural History Museum — Octopuses",
+    "https://www.nhm.ac.uk/discover/octopuses-keep-surprising-us-here-are-eight-examples-how.html"
+  ],
+  "uranus": [
+    "NASA — Uranus facts",
+    "https://science.nasa.gov/uranus/facts/"
+  ],
+  "html": [
+    "MDN — HTML",
+    "https://developer.mozilla.org/en-US/docs/Web/HTML"
+  ],
+  "rio": [
+    "Comitê Olímpico do Brasil — Rio 2016",
+    "https://www.cob.org.br/time-brasil/participacoes/2169-rio"
+  ],
+  "peter": [
+    "Mateus 26 — Bible Gateway",
+    "https://www.biblegateway.com/passage/?search=Matthew+26&version=NIV"
+  ],
+  "louvre": [
+    "Louvre — Mona Lisa",
+    "https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana"
+  ],
+  "gold": [
+    "Royal Society of Chemistry — Gold",
+    "https://periodic-table.rsc.org/element/79/gold"
+  ],
+  "seine": [
+    "Ville de Paris — La Seine",
+    "https://www.paris.fr/pages/la-seine-aurait-plus-de-14-000-ans-et-autres-anecdotes-surprenantes-sur-le-fleuve-parisien-19981"
+  ],
+  "deodoro": [
+    "Presidência — Deodoro da Fonseca",
+    "https://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/deodoro-fonseca/biografia"
+  ],
+  "adverb": [
+    "Infopédia — Rapidamente",
+    "https://www.infopedia.pt/dicionarios/lingua-portuguesa/rapidamente"
+  ],
+  "staff": [
+    "UFMA — Notação musical",
+    "https://musica.ufma.br/bordini/ext/unidades/unidade_01a.html"
+  ],
+  "oppenheimer": [
+    "Universal — Oppenheimer, elenco e direção",
+    "https://www.universalstudios.com/videos/uYPbbksJxIg/"
+  ],
+  "breaking": [
+    "AMC — Breaking Bad",
+    "https://www.amctv.la/blog/breaking-bad-vuelve-a-amc"
+  ],
+  "oscars20": [
+    "Academia — Oscar 2020",
+    "https://www.oscars.org/oscars/ceremonies/2020"
+  ],
+  "thriller": [
+    "Michael Jackson — Thriller",
+    "https://www.michaeljackson.com/albums/thriller/"
+  ],
+  "chrome": [
+    "Google — Chrome 10 years",
+    "https://blog.google/products-and-platforms/products/chrome/happy-10th-birthday-chrome-best-yet-come/"
+  ],
+  "stark": [
+    "George R. R. Martin — A Game of Thrones",
+    "https://georgerrmartin.com/grrm_book/a-game-of-thrones-5-book-bundle/"
+  ],
+  "barbie": [
+    "Warner Bros. Discovery — Barbie",
+    "https://press.wbd.com/us/media-release/hbo-max/barbie-asl/barbie-available-stream-exclusively-max-today"
+  ],
+  "queen": [
+    "Queen — História oficial",
+    "https://www.queenonline.com/queen"
+  ],
+  "gif": [
+    "W3C — GIF89a",
+    "https://www.w3.org/Graphics/GIF/spec-gif89a.txt"
+  ],
+  "succession": [
+    "HBO/WBD — Succession",
+    "https://press.wbd.com/ca/media-release/hbo-original-drama-series-succession-returns-its-fourth-season-march-26?language_content_entity=en"
+  ],
+  "dear": [
+    "Meta — Dear Algo, fevereiro de 2026",
+    "https://about.fb.com/news/2026/02/threads-dear-algo/"
+  ],
+  "webb": [
+    "NASA — Webb first images",
+    "https://science.nasa.gov/mission/webb/webbs-first-images/"
+  ],
+  "skin": [
+    "NCBI/InformedHealth — Skin",
+    "https://www.ncbi.nlm.nih.gov/books/NBK279255/"
+  ],
+  "https": [
+    "MDN — Transport Layer Security",
+    "https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Transport_Layer_Security"
+  ],
+  "hummingbird": [
+    "Sapir e Dudley — Experimento de voo, 2012",
+    "https://pubmed.ncbi.nlm.nih.gov/23014570/"
+  ],
+  "versailles": [
+    "Château de Versailles — Treaty 1919",
+    "https://en.chateauversailles.fr/discover/history/key-dates/treaty-versailles-1919"
+  ],
+  "neutron": [
+    "OpenStax — Electric charge",
+    "https://openstax.org/books/university-physics-volume-2/pages/5-1-electric-charge"
+  ],
+  "bering": [
+    "National Park Service — Bering",
+    "https://www.nps.gov/articles/bering.htm"
+  ],
+  "web": [
+    "CERN — Birth of the Web",
+    "https://home.cern/science/computing/the-birth-of-the-web/"
+  ],
+  "crime": [
+    "Hachette — Crime and Punishment",
+    "https://www.hachettebookgroup.com/titles/fyodor-dostoevsky/crime-and-punishment/9781454959663/"
+  ],
+  "acts": [
+    "Atos 11:26 — Bible Gateway",
+    "https://www.biblegateway.com/passage/?search=Acts+11%3A26&version=NIV"
+  ],
+  "carbon": [
+    "Royal Society of Chemistry — Carbon",
+    "https://periodic-table.rsc.org/element/6/carbon"
+  ],
+  "constantinople": [
+    "Britannica 1911 — Constantinople (domínio público)",
+    "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Constantinople"
+  ],
+  "descartes": [
+    "Stanford Encyclopedia — Descartes",
+    "https://plato.stanford.edu/entries/descartes-epistemology/"
+  ],
+  "astana": [
+    "Governo do Cazaquistão — Astana",
+    "https://www.gov.kz/memleket/entities/astana?lang=en"
+  ],
+  "rna": [
+    "OpenStax — RNA",
+    "https://openstax.org/books/microbiology/pages/10-3-structure-and-function-of-rna"
+  ],
+  "proxima": [
+    "NASA — Proxima Centauri",
+    "https://science.nasa.gov/asset/hubble/proxima-centauri/"
+  ],
+  "bong": [
+    "Criterion — Memories of Murder",
+    "https://www.criterion.com/current/posts/7361-memories-of-murder-in-the-killing-jar"
+  ],
+  "sopranos": [
+    "HBO — Tony Soprano",
+    "https://shop.hbo.com/collections/tony-soprano-merchandise"
+  ],
+  "vague": [
+    "BFI — Godard and Truffaut",
+    "https://www.bfi.org.uk/sight-and-sound/interviews/how-they-did-love-emmanuel-laurent-godard-truffaut"
+  ],
+  "miles": [
+    "Miles Davis — Kind of Blue",
+    "https://www.milesdavis.com/albums/kind-of-blue/"
+  ],
+  "bgp": [
+    "IETF — RFC 4271",
+    "https://www.rfc-editor.org/rfc/rfc4271"
+  ],
+  "twin": [
+    "Showtime — Twin Peaks",
+    "https://www.paramountpressexpress.com/showtime/releases/?view=47219"
+  ],
+  "samurai": [
+    "BFI — Kurosawa",
+    "https://www.bfi.org.uk/features/star-wars-conquered-cinema-hidden-fortress"
+  ],
+  "rite": [
+    "Boosey & Hawkes — The Rite of Spring",
+    "https://www.boosey.com/pages/Opera/catalogue/cat_detail?musicid=5253"
+  ],
+  "javascript": [
+    "Brendan Eich — ModernWeb 2015",
+    "https://brendaneich.github.io/ModernWeb.tw-2015/"
+  ],
+  "dark": [
+    "Netflix — Dark",
+    "https://media.netflix.com/en/only-on-netflix/80100172"
+  ],
+  "hydrogen": [
+    "NASA — Universe glossary",
+    "https://science.nasa.gov/universe/glossary/"
+  ],
+  "prefixes": [
+    "BIPM — SI prefixes",
+    "https://www.bipm.org/en/measurement-units/si-prefixes"
+  ],
+  "hyoid": [
+    "NCBI — Hyoid bone",
+    "https://www.ncbi.nlm.nih.gov/books/NBK539726/?report=printable"
+  ],
+  "dns": [
+    "IETF — RFC 1034",
+    "https://www.rfc-editor.org/rfc/rfc1034"
+  ],
+  "troposphere": [
+    "NOAA — Atmosphere terminology",
+    "https://gml.noaa.gov/infodata/terms.html"
+  ],
+  "si": [
+    "BIPM — SI base units",
+    "https://www.bipm.org/en/measurement-units/si-base-units"
+  ],
+  "frevo": [
+    "UNESCO — Frevo",
+    "https://ich.unesco.org/en/RL/frevo-performing-arts-of-the-carnival-of-recife-00603?lang=en"
+  ],
+  "luigi": [
+    "Nintendo — Mario characters",
+    "https://mario.nintendo.com/characters/"
+  ],
+  "vangogh": [
+    "MoMA — Vincent van Gogh",
+    "https://www.moma.org/collection/artists/2206"
+  ],
+  "cop30": [
+    "UNFCCC — COP30",
+    "https://unfccc.int/cop30"
+  ],
+  "woody": [
+    "Pixar — Toy Story",
+    "https://www.pixar.com/toy-story"
+  ],
+  "footballtime": [
+    "IFAB — Law 7",
+    "https://www.theifab.com/laws/latest/the-duration-of-the-match/"
+  ],
+  "basket": [
+    "FIBA — Facilitator handbook",
+    "https://assets.fiba.basketball/image/upload/documents-corporate-wabc-start-coaching-eng-facilitator-handbook.pdf"
+  ],
+  "cana": [
+    "João 2 — Bible Gateway",
+    "https://www.biblegateway.com/passage/?search=John2&version=NIV"
+  ],
+  "embora": [
+    "Ciberdúvidas — Concessiva",
+    "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/pese-embora-o-mau-tempo/21242"
+  ],
+  "pinocchio": [
+    "Collodi — Pinocchio, texto original",
+    "https://www.gutenberg.org/cache/epub/16865/pg16865-images.html"
+  ],
+  "russia": [
+    "ONU — Países por área, 1999",
+    "https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/files/documents/2020/Jan/un_1999_6billion.pdf"
+  ]
+}

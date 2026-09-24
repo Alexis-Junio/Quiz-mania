@@ -1,0 +1,12 @@
+{
+  "name": "quiz-mania-mobile",
+  "version": "1.3.0",
+  "private": true,
+  "scripts": {
+    "start": "node tools/serve.cjs",
+    "test": "node --test tests/baseline.test.js tests/core.test.js tests/stage4.test.js tests/stage5.test.js",
+    "build:bank": "node tools/build-stage5-bank.cjs",
+    "test:browser": "node tests/browser.cjs",
+    "check": "node --check app.js && node --check core.js && node --check storage.js && node --check questions.js && node --check statistics.js && node --check battle.js && node --check extras.js"
+  }
+}

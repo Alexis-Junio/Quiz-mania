@@ -1,0 +1,25 @@
+{
+  "verifiedAt": "2026-09-14T00:00:00.000Z",
+  "status": "approved",
+  "ids": [
+    "qm-0118",
+    "qm-0119",
+    "qm-0120",
+    "qm-0121",
+    "qm-0122"
+  ],
+  "levels": [
+    "facil",
+    "facil",
+    "dificil",
+    "dificil",
+    "dificil"
+  ],
+  "checks": [
+    "quatro alternativas distintas",
+    "uma resposta correta revisada",
+    "explicação",
+    "fonte quando aplicável",
+    "ID literal novo"
+  ]
+}

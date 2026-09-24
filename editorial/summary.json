@@ -1,0 +1,36 @@
+{
+  "reviewed": 102,
+  "approvedUnchanged": 68,
+  "corrected": 31,
+  "rejected": 3,
+  "added": 20,
+  "approvedTotal": 119,
+  "expired": 0,
+  "levels": {
+    "facil": 43,
+    "medio": 42,
+    "dificil": 34
+  },
+  "topics": {
+    "geografia": 7,
+    "ciencia": 13,
+    "historia": 6,
+    "futebol": 2,
+    "tecnologia": 4,
+    "geral": 6,
+    "matematica": 4,
+    "biblia": 4,
+    "cultura-brasileira": 2,
+    "curiosidades": 12,
+    "filmes": 8,
+    "series": 10,
+    "animacoes": 4,
+    "musica": 8,
+    "internet": 11,
+    "atualidades": 11,
+    "esportes": 2,
+    "portugues": 2,
+    "artistas": 2,
+    "games": 1
+  }
+}
