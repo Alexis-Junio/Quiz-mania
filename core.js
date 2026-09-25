@@ -85,12 +85,53 @@
     }
     return results;
   }
+  function expirationStatus(days) {
+    if (days <= 0) return 'vencida';
+    if (days <= 30) return 'urgente';
+    if (days <= 60) return 'atencao';
+    if (days <= 90) return 'informativo';
+    return 'normal';
+  }
+  function expirationInfo(bank, now = Date.now()) {
+    const approved = bank.filter(q => q.status === 'approved' && validDate(q.expiresAt));
+    if (!approved.length) return null;
+    const items = approved.map(q => {
+      const exp = Date.parse(q.expiresAt);
+      const days = Math.ceil((exp - now) / DAY);
+      return {id: q.id, topic: q.topic, level: q.level, expiresAt: q.expiresAt, days, status: expirationStatus(days)};
+    });
+    const expiring = items.filter(i => i.days <= 90).sort((a, b) => a.days - b.days);
+    if (!expiring.length) return null;
+    const nearest = expiring[0];
+    const byTopic = {};
+    for (const item of expiring) {
+      byTopic[item.topic] = byTopic[item.topic] || {count: 0, ids: [], levels: new Set(), nearestDays: item.days, nearestExpiresAt: item.expiresAt};
+      byTopic[item.topic].count++;
+      byTopic[item.topic].ids.push(item.id);
+      byTopic[item.topic].levels.add(item.level);
+    }
+    const topics = Object.entries(byTopic).map(([topic, info]) => ({
+      topic,
+      count: info.count,
+      ids: info.ids,
+      levels: [...info.levels].sort(),
+      days: info.nearestDays,
+      expiresAt: info.nearestExpiresAt,
+      status: expirationStatus(info.nearestDays)
+    })).sort((a, b) => a.days - b.days);
+    return {
+      nearest: {days: nearest.days, expiresAt: nearest.expiresAt, status: nearest.status},
+      topics,
+      total: expiring.length
+    };
+  }
   function diagnostics(bank, data, config, now = Date.now(), duplicatePairs = duplicates(bank)) {
     const state = available(bank, data, config, now);
     return {total: state.pool.length, blocked: state.blocked,
       remaining: new Set(state.remaining.map(q => q.factId)).size,
       duplicates: duplicatePairs, lowThemes: [...new Set(bank.map(q => q.t))].map(theme => ({theme,
-        count: select(bank, data, {...config, themes: [theme]}, 1, now).available})).filter(t => t.count < 10)};
+        count: select(bank, data, {...config, themes: [theme]}, 1, now).available})).filter(t => t.count < 10),
+      expiration: expirationInfo(bank, now)};
   }
-  return {DAY, points, normalize, playerId, configKey, shuffle, available, select, presented, resetHistory, recordGame, duplicates, diagnostics, validDate, editorialEligible};
+  return {DAY, points, normalize, playerId, configKey, shuffle, available, select, presented, resetHistory, recordGame, duplicates, diagnostics, validDate, editorialEligible, expirationStatus, expirationInfo};
 });

@@ -13,7 +13,7 @@
     body{padding-top:calc(18px + env(safe-area-inset-top));padding-left:max(15px,env(safe-area-inset-left));padding-right:max(15px,env(safe-area-inset-right))}
     .app{min-width:0;overflow-wrap:anywhere}.top{gap:10px}.player{min-width:0}.pill{flex-shrink:0}
     button,select,summary{touch-action:manipulation}button:focus-visible,summary:focus-visible,select:focus-visible{outline:3px solid var(--cyan);outline-offset:3px}
-    button:disabled{opacity:.75;cursor:not-allowed}.notice{padding:12px;border:1px solid var(--yellow);border-radius:12px;background:var(--panel);font-size:.85rem;line-height:1.5}
+    button:disabled{opacity:.75;cursor:not-allowed}.notice{padding:12px;border:1px solid var(--yellow);border-radius:12px;background:var(--panel);font-size:.85rem;line-height:1.5}.expiration-notice{padding:10px;border:1px solid var(--cyan);border-radius:10px;background:rgba(61,224,208,.08);font-size:.8rem;line-height:1.4;color:var(--cyan)}.expiration-notice[aria-live="polite"]{font-weight:600}
     .settings{margin-top:16px;font-size:.82rem;line-height:1.5}.settings summary{cursor:pointer;min-height:44px;padding:12px 0}.settings label{margin-top:10px}
     select{width:100%;min-height:48px;background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:8px;font:inherit}
     .theme-actions{display:flex;gap:8px;margin-bottom:8px}.theme-actions button{flex:1;min-height:44px;background:var(--panel2);border:1px solid var(--line);border-radius:10px;color:var(--text);font:inherit;font-size:.8rem;cursor:pointer}

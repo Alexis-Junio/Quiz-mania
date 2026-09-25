@@ -34,5 +34,23 @@
     "reason": "texto semelhante: revisar",
     "decision": "retained",
     "reasonForRetention": "Enunciados consultam fatos distintos (por exemplo, categorias diferentes da mesma premiação). Não há igualdade de ID, factId ou texto. Revisão editorial mantém ambos."
+  },
+  {
+    "ids": [
+      "facil-g-7",
+      "qm-0273"
+    ],
+    "reason": "texto semelhante: revisar",
+    "decision": "retained",
+    "reasonForRetention": "Fatos matemáticos distintos: multiplicação (7×8=56) vs adição (36+27=63). Operações e resultados diferentes. Não há igualdade de ID, factId ou texto. Revisão editorial mantém ambos."
+  },
+  {
+    "ids": [
+      "dificil-g-6",
+      "qm-0276"
+    ],
+    "reason": "texto semelhante: revisar",
+    "decision": "retained",
+    "reasonForRetention": "Fatos matemáticos distintos: potências e soma (2⁵+3³=59) vs equação linear (3x+7=22 → x=5). Conceitos e resolução diferentes. Não há igualdade de ID, factId ou texto. Revisão editorial mantém ambos."
   }
 ]

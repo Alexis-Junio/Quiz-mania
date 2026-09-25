@@ -70,6 +70,16 @@
     }
     const low = document.createElement('p'); low.textContent = d.lowThemes.length ? 'Temas com menos de 10 disponíveis neste nível: ' + d.lowThemes.map(t => `${themeLabels[t.theme]} (${t.count})`).join(', ') : 'Todos os temas possuem ao menos 10 perguntas disponíveis neste nível.';
     $('diagnostics').append(low);
+    if (d.expiration) {
+      const exp = document.createElement('p');
+      exp.className = 'expiration-notice';
+      exp.setAttribute('role', 'status');
+      exp.setAttribute('aria-live', 'polite');
+      const nearest = d.expiration.nearest;
+      const topicInfo = d.expiration.topics.map(t => `${themeLabels[t.topic] || t.topic}: ${t.count} ${t.count===1?'pergunta':'perguntas'} (${t.days} dias)`).join('; ');
+      exp.textContent = `Validade: ${topicInfo}. Próxima expiração em ${nearest.days} dias (${nearest.expiresAt.slice(0,10)}).`;
+      $('diagnostics').append(exp);
+    }
     const best = Object.hasOwn(store.data.best, C.playerId(config().player)) ? store.data.best[C.playerId(config().player)][level] || 0 : 0;
     const legacy = store.data.legacy.best[level];
     $('best').textContent = `Recorde pessoal neste nível: ${best} pontos.` + (legacy !== undefined ? ` Recorde legado compartilhado: ${legacy} pontos.` : '');
