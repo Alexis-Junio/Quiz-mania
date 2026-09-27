@@ -6,7 +6,17 @@
     "start": "node tools/serve.cjs",
     "test": "node --test tests/baseline.test.js tests/core.test.js tests/stage4.test.js tests/stage5.test.js",
     "build:bank": "node tools/build-stage5-bank.cjs",
+    "build:mobile": "node tools/build-mobile.cjs",
     "test:browser": "node tests/browser.cjs",
     "check": "node --check app.js && node --check core.js && node --check storage.js && node --check questions.js && node --check statistics.js && node --check battle.js && node --check extras.js"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/core": "^8.5.2"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.5.2",
+    "playwright": "^1.63.0"
   }
 }
