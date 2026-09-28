@@ -5664,4 +5664,505 @@
     "status": "approved",
     "referencePeriod": null
   }
+,
+  {
+    "c": "Geografia",
+    "q": "Qual região do Brasil é formada por nove estados?",
+    "o": [
+      "Sudeste",
+      "Norte",
+      "Nordeste",
+      "Sul"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0309",
+    "level": "facil",
+    "factId": "qm-0309",
+    "topic": "geografia",
+    "explanation": "Segundo o IBGE, a Região Nordeste é formada por nove estados.",
+    "source": {
+      "name": "IBGE Educa — Divisão Territorial",
+      "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/19637-divisao-territorial.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual bioma brasileiro é típico do clima semiárido do sertão nordestino?",
+    "o": [
+      "Caatinga",
+      "Pantanal",
+      "Pampa",
+      "Mata Atlântica"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0310",
+    "level": "facil",
+    "factId": "qm-0310",
+    "topic": "geografia",
+    "explanation": "O IBGE descreve a Caatinga como bioma típico do clima semiárido do sertão nordestino.",
+    "source": {
+      "name": "IBGE — Mapa de Biomas do Brasil",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/12789-asi-ibge-lanca-o-mapa-de-biomas-do-brasil-e-o-mapa-de-vegetacao-do-brasil-em-comemoracao-ao-dia-mundial-da-biodiversidade"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual bioma brasileiro é restrito ao estado do Rio Grande do Sul?",
+    "o": [
+      "Cerrado",
+      "Pantanal",
+      "Caatinga",
+      "Pampa"
+    ],
+    "a": 3,
+    "t": "geral",
+    "id": "qm-0311",
+    "level": "facil",
+    "factId": "qm-0311",
+    "topic": "geografia",
+    "explanation": "Na classificação dos biomas brasileiros do IBGE, o Pampa é restrito ao Rio Grande do Sul.",
+    "source": {
+      "name": "IBGE — Mapa de Biomas do Brasil",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/12789-asi-ibge-lanca-o-mapa-de-biomas-do-brasil-e-o-mapa-de-vegetacao-do-brasil-em-comemoracao-ao-dia-mundial-da-biodiversidade"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual é a capital do estado de Minas Gerais?",
+    "o": [
+      "Vitória",
+      "Belo Horizonte",
+      "Goiânia",
+      "Curitiba"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0312",
+    "level": "facil",
+    "factId": "qm-0312",
+    "topic": "geografia",
+    "explanation": "Belo Horizonte é a capital de Minas Gerais.",
+    "source": {
+      "name": "IBGE Educa — Divisão Territorial",
+      "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/19637-divisao-territorial.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual é o maior país da América do Sul em extensão territorial?",
+    "o": [
+      "Brasil",
+      "Argentina",
+      "Peru",
+      "Colômbia"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0313",
+    "level": "facil",
+    "factId": "qm-0313",
+    "topic": "geografia",
+    "explanation": "O Brasil é o maior país da América do Sul em extensão territorial.",
+    "source": {
+      "name": "IBGE Educa — O Brasil no Mundo",
+      "url": "https://educa.ibge.gov.br/criancas/brasil/2850-nosso-territorio/19638-o-brasil-no-mundo.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual oceano se estende da costa leste da África em direção à Austrália?",
+    "o": [
+      "Atlântico",
+      "Ártico",
+      "Índico",
+      "Pacífico"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0314",
+    "level": "facil",
+    "factId": "qm-0314",
+    "topic": "geografia",
+    "explanation": "O Oceano Índico se estende da costa leste da África em direção ao Sudeste Asiático e à Austrália.",
+    "source": {
+      "name": "NOAA — Climate of the Indian Ocean",
+      "url": "https://www.cpc.ncep.noaa.gov/products/international/ocean_monitoring/indian/IO_monitoring_fcsts/description.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual é o ponto culminante do Brasil?",
+    "o": [
+      "Pico 31 de Março",
+      "Pico da Neblina",
+      "Pico da Bandeira",
+      "Pico das Agulhas Negras"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0315",
+    "level": "facil",
+    "factId": "qm-0315",
+    "topic": "geografia",
+    "explanation": "O Pico da Neblina é o ponto mais alto do Brasil; o IBGE registra 2.995,30 metros na revisão divulgada em 2016.",
+    "source": {
+      "name": "IBGE — Pontos culminantes do Brasil",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/15275-geociencias-ibge-reve-as-altitudes-de-sete-pontos-culminantes"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2016"
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual rio compõe grande parte da fronteira entre os Estados Unidos e o México?",
+    "o": [
+      "Colorado",
+      "Mississippi",
+      "Yukon",
+      "Rio Grande"
+    ],
+    "a": 3,
+    "t": "geral",
+    "id": "qm-0316",
+    "level": "medio",
+    "factId": "qm-0316",
+    "topic": "geografia",
+    "explanation": "O Rio Grande, chamado Río Bravo no México, forma grande parte da fronteira internacional entre os dois países.",
+    "source": {
+      "name": "International Boundary and Water Commission — U.S.–Mexico Boundary",
+      "url": "https://www.ibwc.gov/about-us/"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual meridiano corresponde à longitude de 0°?",
+    "o": [
+      "Meridiano de Greenwich",
+      "Linha do Equador",
+      "Trópico de Câncer",
+      "Antimeridiano"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0317",
+    "level": "medio",
+    "factId": "qm-0317",
+    "topic": "geografia",
+    "explanation": "O meridiano principal, associado a Greenwich, corresponde à longitude de 0°.",
+    "source": {
+      "name": "NOAA — What is longitude?",
+      "url": "https://oceanservice.noaa.gov/facts/longitude.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "A Linha Internacional de Data segue aproximadamente qual longitude?",
+    "o": [
+      "0°",
+      "90° leste",
+      "180°",
+      "23,5° sul"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0318",
+    "level": "medio",
+    "factId": "qm-0318",
+    "topic": "geografia",
+    "explanation": "A Linha Internacional de Data segue aproximadamente o meridiano de 180°, com desvios para contornar fronteiras políticas.",
+    "source": {
+      "name": "NOAA — International Date Line",
+      "url": "https://oceanservice.noaa.gov/facts/international-date-line.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual é o maior corpo de água interior do mundo por área superficial?",
+    "o": [
+      "Lago Baikal",
+      "Mar Cáspio",
+      "Lago Superior",
+      "Mar de Aral"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0319",
+    "level": "medio",
+    "factId": "qm-0319",
+    "topic": "geografia",
+    "explanation": "Por área superficial, o Mar Cáspio é o maior corpo de água interior do planeta.",
+    "source": {
+      "name": "NASA Earth Observatory — Caspian Sea",
+      "url": "https://science.nasa.gov/earth/earth-observatory/caspian-sea-44253/"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual local marca o ponto mais oriental do Brasil continental?",
+    "o": [
+      "Arroio Chuí",
+      "Monte Caburaí",
+      "Nascente do rio Moa",
+      "Ponta do Seixas"
+    ],
+    "a": 3,
+    "t": "geral",
+    "id": "qm-0320",
+    "level": "medio",
+    "factId": "qm-0320",
+    "topic": "geografia",
+    "explanation": "A Ponta do Seixas, em João Pessoa, Paraíba, é o ponto mais oriental do território brasileiro.",
+    "source": {
+      "name": "IBGE Educa — Pontos extremos",
+      "url": "https://educa.ibge.gov.br/criancas/voce-sabia/23101-pontos-extremos.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Como se chama a linha de relevo que separa duas bacias de drenagem?",
+    "o": [
+      "Divisor de águas",
+      "Estuário",
+      "Delta",
+      "Meandro"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0321",
+    "level": "medio",
+    "factId": "qm-0321",
+    "topic": "geografia",
+    "explanation": "Cristas e áreas elevadas que separam a drenagem de bacias vizinhas formam um divisor de águas.",
+    "source": {
+      "name": "USGS — Watersheds and Drainage Basins",
+      "url": "https://www.usgs.gov/water-science-school/science/watersheds-and-drainage-basins"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Em uma ilha montanhosa exposta a ventos úmidos predominantes, qual lado tende a receber mais chuva?",
+    "o": [
+      "Sotavento",
+      "Fundo dos vales",
+      "Barlavento",
+      "Planície abrigada"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0322",
+    "level": "medio",
+    "factId": "qm-0322",
+    "topic": "geografia",
+    "explanation": "O lado de barlavento recebe o ar úmido que sobe o relevo, resfria e favorece condensação e precipitação.",
+    "source": {
+      "name": "NOAA — Windward and leeward",
+      "url": "https://oceanservice.noaa.gov/facts/windward-leeward.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "No Hemisfério Sul, em que direção o efeito de Coriolis desvia o movimento do ar em larga escala?",
+    "o": [
+      "Para a direita",
+      "Para a esquerda",
+      "Sempre em direção ao Equador",
+      "Sempre em direção aos polos"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0323",
+    "level": "dificil",
+    "factId": "qm-0323",
+    "topic": "geografia",
+    "explanation": "Devido à rotação da Terra, o movimento do ar é desviado para a esquerda no Hemisfério Sul.",
+    "source": {
+      "name": "NOAA — The Coriolis Effect",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents1.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual característica define uma bacia endorreica?",
+    "o": [
+      "Todo o escoamento alcança diretamente o oceano",
+      "Ela existe apenas em regiões glaciais",
+      "Sua drenagem principal precisa estar abaixo do nível do mar",
+      "Ela não possui saída superficial para um sistema fluvial externo"
+    ],
+    "a": 3,
+    "t": "geral",
+    "id": "qm-0324",
+    "level": "dificil",
+    "factId": "qm-0324",
+    "topic": "geografia",
+    "explanation": "Uma bacia endorreica, ou fechada, não possui saída superficial que leve sua água para um sistema de drenagem externo.",
+    "source": {
+      "name": "USGS — Drainage Area",
+      "url": "https://water.usgs.gov/themes/hydrofabric/drainage-area/"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual placa tectônica mergulha sob a Placa Sul-Americana ao longo de grande parte da margem oeste da América do Sul?",
+    "o": [
+      "Placa de Nazca",
+      "Placa de Cocos",
+      "Placa do Caribe",
+      "Placa Scotia"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0325",
+    "level": "dificil",
+    "factId": "qm-0325",
+    "topic": "geografia",
+    "explanation": "A Placa de Nazca sofre subducção sob a Placa Sul-Americana; essa convergência está ligada à formação dos Andes e à atividade sísmica regional.",
+    "source": {
+      "name": "USGS — Seismotectonics of South America",
+      "url": "https://www.usgs.gov/publications/seismicity-earth-1900-2013-seismotectonics-south-america-nazca-plate-region"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Qual corrente oceânica fria flui para o norte ao longo da costa oeste da África Austral?",
+    "o": [
+      "Corrente das Agulhas",
+      "Corrente do Brasil",
+      "Corrente de Benguela",
+      "Corrente de Moçambique"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0326",
+    "level": "dificil",
+    "factId": "qm-0326",
+    "topic": "geografia",
+    "explanation": "A Corrente de Benguela é fria e flui para o norte ao longo da costa oeste da África Austral.",
+    "source": {
+      "name": "South African Government — Geography and climate",
+      "url": "https://www.gov.za/geography-climate"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Em termos ideais de longitude, uma diferença de 30° corresponde a quantas horas de diferença no tempo solar?",
+    "o": [
+      "1 hora",
+      "2 horas",
+      "3 horas",
+      "4 horas"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0327",
+    "level": "dificil",
+    "factId": "qm-0327",
+    "topic": "geografia",
+    "explanation": "A Terra gira 360° em 24 horas, equivalendo a 15° por hora; portanto, 30° correspondem a 2 horas.",
+    "source": {
+      "name": "NOAA — What is longitude?",
+      "url": "https://oceanservice.noaa.gov/facts/longitude.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geografia",
+    "q": "Quais são os dois países da América do Sul que não fazem fronteira terrestre com o Brasil?",
+    "o": [
+      "Peru e Bolívia",
+      "Colômbia e Venezuela",
+      "Uruguai e Paraguai",
+      "Chile e Equador"
+    ],
+    "a": 3,
+    "t": "geral",
+    "id": "qm-0328",
+    "level": "dificil",
+    "factId": "qm-0328",
+    "topic": "geografia",
+    "explanation": "O Brasil faz fronteira com dez países e territórios sul-americanos; Chile e Equador são os dois países sul-americanos que não fazem fronteira terrestre com o Brasil.",
+    "source": {
+      "name": "IBGE Educa — Conheça o Brasil: Território",
+      "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/20591-introducao.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
