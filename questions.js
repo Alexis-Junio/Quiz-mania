@@ -5163,4 +5163,505 @@
     "status": "approved",
     "referencePeriod": null
   }
+,
+  {
+    "c": "Biologia",
+    "q": "Qual organela é responsável pela síntese de proteínas nas células?",
+    "o": [
+      "Núcleo",
+      "Ribossomo",
+      "Mitocôndria",
+      "Aparelho de Golgi"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0289",
+    "level": "facil",
+    "factId": "qm-0289",
+    "topic": "ciencia",
+    "explanation": "Os ribossomos são as organelas responsáveis pela síntese de proteínas nas células.",
+    "source": {
+      "name": "OpenStax — Protein Synthesis",
+      "url": "https://openstax.org/books/biology-2e/pages/9-4-translation"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Química",
+    "q": "Qual é a fórmula química da água?",
+    "o": [
+      "H2O",
+      "CO2",
+      "O2",
+      "H2SO4"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0290",
+    "level": "facil",
+    "factId": "qm-0290",
+    "topic": "ciencia",
+    "explanation": "A fórmula química da água é H2O, dois átomos de hidrogênio e um de oxigênio.",
+    "source": {
+      "name": "IUPAC — Water",
+      "url": "https://iupac.org/what-we-do/water/"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Física",
+    "q": "Qual é a velocidade da luz no vácuo, aproximadamente?",
+    "o": [
+      "300.000 km/s",
+      "150.000 km/s",
+      "500.000 km/s",
+      "1.000.000 km/s"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0291",
+    "level": "facil",
+    "factId": "qm-0291",
+    "topic": "ciencia",
+    "explanation": "A velocidade da luz no vácuo é aproximadamente 300.000 km/s (299.792.458 m/s).",
+    "source": {
+      "name": "NIST — Speed of Light",
+      "url": "https://physics.nist.gov/cgi-bin/cuu/Value?c"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Astronomia",
+    "q": "Qual é o planeta mais próximo do Sol?",
+    "o": [
+      "Vênus",
+      "Mercúrio",
+      "Marte",
+      "Terra"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0292",
+    "level": "facil",
+    "factId": "qm-0292",
+    "topic": "ciencia",
+    "explanation": "Mercúrio é o planeta mais próximo do Sol, orbitando a uma distância média de 58 milhões de km.",
+    "source": {
+      "name": "NASA — Mercury",
+      "url": "https://science.nasa.gov/mercury/"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geologia",
+    "q": "Qual é a camada mais externa da Terra?",
+    "o": [
+      "Núcleo",
+      "Manto",
+      "Crosta",
+      "Núcleo interno"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0293",
+    "level": "facil",
+    "factId": "qm-0293",
+    "topic": "ciencia",
+    "explanation": "A crosta terrestre é a camada mais externa e sólida da Terra.",
+    "source": {
+      "name": "USGS — Earth's Structure",
+      "url": "https://www.usgs.gov/faqs/what-structure-earth"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Química",
+    "q": "Qual gás é o mais abundante na atmosfera terrestre?",
+    "o": [
+      "Oxigênio",
+      "Nitrogênio",
+      "Argônio",
+      "Dióxido de carbono"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0294",
+    "level": "facil",
+    "factId": "qm-0294",
+    "topic": "ciencia",
+    "explanation": "O nitrogênio compõe cerca de 78% da atmosfera terrestre.",
+    "source": {
+      "name": "NASA — Earth's Atmosphere",
+      "url": "https://www.nasa.gov/earth-atmosphere"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Biologia",
+    "q": "Qual molécula carrega a informação genética nas células?",
+    "o": [
+      "RNA",
+      "DNA",
+      "Proteína",
+      "Lipídio"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0295",
+    "level": "facil",
+    "factId": "qm-0295",
+    "topic": "ciencia",
+    "explanation": "O DNA (ácido desoxirribonucleico) armazena a informação genética hereditária.",
+    "source": {
+      "name": "NHGRI — DNA",
+      "url": "https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Física",
+    "q": "Qual é a unidade SI de força?",
+    "o": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0296",
+    "level": "medio",
+    "factId": "qm-0296",
+    "topic": "ciencia",
+    "explanation": "O newton (N) é a unidade SI de força, definida como kg·m/s².",
+    "source": {
+      "name": "BIPM — SI Units",
+      "url": "https://www.bipm.org/en/measurement-units/si-force"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Química",
+    "q": "Quantos prótons tem um átomo de carbono?",
+    "o": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0297",
+    "level": "medio",
+    "factId": "qm-0297",
+    "topic": "ciencia",
+    "explanation": "O número atômico do carbono é 6, correspondendo a 6 prótons.",
+    "source": {
+      "name": "Royal Society of Chemistry — Carbon",
+      "url": "https://periodic-table.rsc.org/element/6/carbon"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Biologia",
+    "q": "Qual é a unidade básica da vida?",
+    "o": [
+      "Tecido",
+      "Órgão",
+      "Célula",
+      "Sistema"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0298",
+    "level": "medio",
+    "factId": "qm-0298",
+    "topic": "ciencia",
+    "explanation": "A célula é considerada a unidade estrutural e funcional básica dos seres vivos.",
+    "source": {
+      "name": "OpenStax — Cell Theory",
+      "url": "https://openstax.org/books/biology-2e/pages/3-1-cell-theory"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Química",
+    "q": "Qual é o pH de uma solução neutra a 25°C?",
+    "o": [
+      "0",
+      "7",
+      "14",
+      "1"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0299",
+    "level": "medio",
+    "factId": "qm-0299",
+    "topic": "ciencia",
+    "explanation": "A escala de pH vai de 0 a 14; 7 é neutro a 25°C.",
+    "source": {
+      "name": "Khan Academy — pH Scale",
+      "url": "https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/ph-scale/v/ph-scale"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Astronomia",
+    "q": "Qual é a maior lua do Sistema Solar?",
+    "o": [
+      "Ganimedes",
+      "Titã",
+      "Calisto",
+      "Lua"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0300",
+    "level": "medio",
+    "factId": "qm-0300",
+    "topic": "ciencia",
+    "explanation": "Ganimedes, lua de Júpiter, é a maior lua do Sistema Solar, maior até que o planeta Mercúrio.",
+    "source": {
+      "name": "NASA — Ganymede",
+      "url": "https://science.nasa.gov/jupiter/moons/ganymede/"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Física",
+    "q": "Qual lei descreve a relação entre pressão e volume de um gás a temperatura constante?",
+    "o": [
+      "Lei de Charles",
+      "Lei de Boyle",
+      "Lei de Gay-Lussac",
+      "Lei dos Gases Ideais"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0301",
+    "level": "medio",
+    "factId": "qm-0301",
+    "topic": "ciencia",
+    "explanation": "A lei de Boyle estabelece que, a temperatura constante, a pressão de um gás é inversamente proporcional ao seu volume.",
+    "source": {
+      "name": "NASA — Boyle's Law",
+      "url": "https://www.grc.nasa.gov/www/k-12/airplane/boyle.html"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Química",
+    "q": "Qual elemento tem símbolo químico Fe?",
+    "o": [
+      "Ferro",
+      "Fósforo",
+      "Flúor",
+      "Francio"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0302",
+    "level": "medio",
+    "factId": "qm-0302",
+    "topic": "ciencia",
+    "explanation": "Fe é o símbolo químico do ferro, derivado do latim ferrum.",
+    "source": {
+      "name": "Royal Society of Chemistry — Iron",
+      "url": "https://periodic-table.rsc.org/element/26/iron"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Biologia",
+    "q": "Qual é o nome do ciclo bioquímico que fixa carbono na fotossíntese?",
+    "o": [
+      "Ciclo de Krebs",
+      "Ciclo de Calvin",
+      "Ciclo da ureia",
+      "Ciclo do ácido cítrico"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0303",
+    "level": "dificil",
+    "factId": "qm-0303",
+    "topic": "ciencia",
+    "explanation": "O ciclo de Calvin (ou ciclo de Calvin-Benson) é o conjunto de reações que fixa CO2 em compostos orgânicos durante a fotossíntese.",
+    "source": {
+      "name": "OpenStax — Calvin Cycle",
+      "url": "https://openstax.org/books/biology-2e/pages/8-2-the-calvin-cycle"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Física",
+    "q": "Qual partícula mediatória da força eletromagnética é seu próprio antipartícula?",
+    "o": [
+      "Elétron",
+      "Fóton",
+      "Próton",
+      "Nêutron"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0304",
+    "level": "dificil",
+    "factId": "qm-0304",
+    "topic": "ciencia",
+    "explanation": "O fóton é seu próprio antipartícula e mediatório da força eletromagnética; possui carga zero e spin 1.",
+    "source": {
+      "name": "CERN — Standard Model",
+      "url": "https://home.cern/science/physics/standard-model"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Química",
+    "q": "Qual é o estado de oxidação do cromo no dicromato de potássio (K2Cr2O7)?",
+    "o": [
+      "+2",
+      "+3",
+      "+6",
+      "+7"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0305",
+    "level": "dificil",
+    "factId": "qm-0305",
+    "topic": "ciencia",
+    "explanation": "No K2Cr2O7, cada Cr está no estado de oxidação +6. Cada O é -2 (total -14), cada K é +1 (total +2). Soma zero: 2x + 2 - 14 = 0 → x = +6.",
+    "source": {
+      "name": "IUPAC — Oxidation States",
+      "url": "https://iupac.org/oxidation-state/"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Química",
+    "q": "Qual é o nome do composto H2SO4?",
+    "o": [
+      "Ácido clorídrico",
+      "Ácido sulfúrico",
+      "Ácido nítrico",
+      "Ácido acético"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0306",
+    "level": "dificil",
+    "factId": "qm-0306",
+    "topic": "ciencia",
+    "explanation": "H2SO4 é a fórmula do ácido sulfúrico, um ácido forte amplamente usado na indústria.",
+    "source": {
+      "name": "PubChem — Sulfuric Acid",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/1118"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Física",
+    "q": "Qual é a constante de Planck (aproximada)?",
+    "o": [
+      "6,63 × 10⁻³⁴ J·s",
+      "6,02 × 10²³ mol⁻¹",
+      "1,6 × 10⁻¹⁹ C",
+      "3,00 × 10⁸ m/s"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0307",
+    "level": "dificil",
+    "factId": "qm-0307",
+    "topic": "ciencia",
+    "explanation": "A constante de Planck h ≈ 6,626 × 10⁻³⁴ J·s é fundamental na mecânica quântica.",
+    "source": {
+      "name": "NIST — Planck Constant",
+      "url": "https://physics.nist.gov/cgi-bin/cuu/Value?h"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Biologia",
+    "q": "Qual processo celular ocorre no citoplasma e não requer oxigênio?",
+    "o": [
+      "Fotossíntese",
+      "Fermentação",
+      "Respiração aeróbica",
+      "Ciclo de Krebs"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0308",
+    "level": "dificil",
+    "factId": "qm-0308",
+    "topic": "ciencia",
+    "explanation": "A fermentação ocorre no citoplasma anaerobicamente, produzindo ATP sem oxigênio.",
+    "source": {
+      "name": "OpenStax — Fermentation",
+      "url": "https://openstax.org/books/biology-2e/pages/7-5-fermentation"
+    },
+    "verifiedAt": "2026-09-14T00:00:00.000Z",
+    "expiresAt": "2027-09-14T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);

@@ -7,10 +7,13 @@ function data(){const d=S.fresh();S.createProfile(d,'Alexis',now,()=> 'a');S.cre
 const ids=['p-a','p-b'];
 function pair(b,q,choices){b.begin(q);b.ready();let v=b.view();b.answer(choices[v.turn]);b.ready();v=b.view();return b.answer(choices[v.turn]);}
 test('etapa 4 preservada integralmente e 88 novas perguntas válidas',()=>{
- assert.equal(bank.length,207);for(const q of previous)assert.deepEqual(bank.find(n=>n.id===q.id),q);
- assert.equal(new Set(bank.map(q=>q.id)).size,207);assert.equal(new Set(bank.map(q=>q.factId)).size,207);
- for(const q of bank)assert.ok(C.editorialEligible(q,now),q.id);
- for(const q of bank.slice(previous.length))assert.ok(q.source?.url&&q.explanation&&q.verifiedAt&&q.expiresAt);
+  // Verifica que as 207 perguntas originais da Etapa 4/5 continuam preservadas e válidas
+  for(const q of previous)assert.deepEqual(bank.find(n=>n.id===q.id),q);
+  assert.equal(new Set(bank.map(q=>q.id)).size,bank.length);
+  assert.equal(new Set(bank.map(q=>q.factId)).size,bank.length);
+  for(const q of bank)assert.ok(C.editorialEligible(q,now),q.id);
+  // Verifica que as perguntas adicionadas após a Etapa 5 túm campos obrigatórios
+  for(const q of bank.slice(previous.length))assert.ok(q.source?.url&&q.explanation&&q.verifiedAt&&q.expiresAt);
 });
 test('todos os 20 assuntos têm dez utilizáveis e os três níveis',()=>{
  const topics=[...new Set(bank.map(q=>q.topic))];assert.equal(topics.length,20);
