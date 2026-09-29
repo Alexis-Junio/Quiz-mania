@@ -6165,4 +6165,505 @@
     "status": "approved",
     "referencePeriod": null
   }
+,
+  {
+    "c": "História",
+    "q": "Qual sistema de escrita do Egito Antigo teve sua decifração fortemente auxiliada pela Pedra de Roseta?",
+    "o": [
+      "Cuneiforme",
+      "Hieróglifos egípcios",
+      "Linear B",
+      "Alfabeto fenício"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0329",
+    "level": "facil",
+    "factId": "qm-0329",
+    "topic": "historia",
+    "explanation": "A Pedra de Roseta foi uma pista decisiva para que estudiosos conseguissem decifrar os hieróglifos egípcios.",
+    "source": {
+      "name": "British Museum — The Rosetta Stone",
+      "url": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "História",
+    "q": "Qual rei inglês colocou seu selo na Magna Carta em 1215?",
+    "o": [
+      "Henrique VIII",
+      "João",
+      "Ricardo III",
+      "Eduardo III"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0330",
+    "level": "facil",
+    "factId": "qm-0330",
+    "topic": "historia",
+    "explanation": "O rei João da Inglaterra colocou seu selo na Magna Carta em Runnymede, em 1215.",
+    "source": {
+      "name": "U.S. National Archives — Magna Carta",
+      "url": "https://www.archives.gov/exhibits/featured-documents/magna-carta"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1215"
+  },
+  {
+    "c": "História",
+    "q": "Antes de sua independência, qual era o nome da colônia francesa que se tornou o Haiti?",
+    "o": [
+      "Saint-Domingue",
+      "Nova França",
+      "Martinica",
+      "Guadalupe"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0331",
+    "level": "facil",
+    "factId": "qm-0331",
+    "topic": "historia",
+    "explanation": "Antes da independência, o território do Haiti era a colônia francesa de Saint-Domingue.",
+    "source": {
+      "name": "U.S. Office of the Historian — Haitian Revolution",
+      "url": "https://history.state.gov/milestones/1784-1800/haitian-rev"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1791-1804"
+  },
+  {
+    "c": "História",
+    "q": "As ruínas de Great Zimbabwe são associadas principalmente a qual povo?",
+    "o": [
+      "Zulu",
+      "Shona",
+      "Maasai",
+      "Tuareg"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0332",
+    "level": "facil",
+    "factId": "qm-0332",
+    "topic": "historia",
+    "explanation": "A UNESCO identifica Great Zimbabwe como um testemunho da civilização Shona entre os séculos XI e XV.",
+    "source": {
+      "name": "UNESCO — Great Zimbabwe National Monument",
+      "url": "https://whc.unesco.org/en/list/364/"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "séculos XI-XV"
+  },
+  {
+    "c": "História",
+    "q": "Timbuktu tornou-se historicamente um importante centro de difusão de qual tradição cultural e religiosa?",
+    "o": [
+      "Budista",
+      "Hindu",
+      "Islâmica",
+      "Xintoísta"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0333",
+    "level": "facil",
+    "factId": "qm-0333",
+    "topic": "historia",
+    "explanation": "Nos séculos XV e XVI, Timbuktu foi um importante centro de difusão da cultura islâmica e de estudos corânicos.",
+    "source": {
+      "name": "UNESCO — Timbuktu",
+      "url": "https://whc.unesco.org/en/list/119"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "séculos XV-XVI"
+  },
+  {
+    "c": "História",
+    "q": "Qual transformação política de 1868 marcou o início de uma ampla modernização do Japão?",
+    "o": [
+      "Restauração Meiji",
+      "Revolta dos Boxers",
+      "Revolução Xinhai",
+      "Guerra Boshin de 1905"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0334",
+    "level": "facil",
+    "factId": "qm-0334",
+    "topic": "historia",
+    "explanation": "A Restauração Meiji, em 1868, encerrou o longo governo feudal do xogunato Tokugawa e iniciou profundas reformas no Japão.",
+    "source": {
+      "name": "Government of Japan — The Origin of Japan’s Modernization",
+      "url": "https://www.japan.go.jp/tomodachi/2018/spring2018/the_origin_of_japans_modernization.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1868"
+  },
+  {
+    "c": "História",
+    "q": "Qual documento dos Estados Unidos foi adotado pelo Congresso Continental em 4 de julho de 1776?",
+    "o": [
+      "Constituição dos Estados Unidos",
+      "Declaração de Independência",
+      "Bill of Rights",
+      "Artigos da Confederação"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0335",
+    "level": "facil",
+    "factId": "qm-0335",
+    "topic": "historia",
+    "explanation": "A Declaração de Independência dos Estados Unidos foi oficialmente adotada em 4 de julho de 1776.",
+    "source": {
+      "name": "U.S. National Archives — Declaration of Independence",
+      "url": "https://www.archives.gov/milestone-documents/declaration-of-independence"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1776"
+  },
+  {
+    "c": "História",
+    "q": "Quais governantes chegaram ao acordo de tolerância religiosa conhecido como Édito de Milão, em 313?",
+    "o": [
+      "Constantino e Licínio",
+      "Diocleciano e Galério",
+      "Teodósio e Honório",
+      "Augusto e Tibério"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0336",
+    "level": "medio",
+    "factId": "qm-0336",
+    "topic": "historia",
+    "explanation": "O acordo de 313 conhecido como Édito de Milão foi firmado por Constantino e Licínio e ampliou a liberdade de culto no Império Romano.",
+    "source": {
+      "name": "Fordham University — Medieval Sourcebook: The Edict of Milan",
+      "url": "https://sourcebooks.web.fordham.edu/source/edict-milan.asp"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "313"
+  },
+  {
+    "c": "História",
+    "q": "Qual imperador ordenou a grande compilação jurídica que ficou conhecida como Corpus Juris Civilis?",
+    "o": [
+      "Heráclio",
+      "Justiniano I",
+      "Teodósio II",
+      "Leão III"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0337",
+    "level": "medio",
+    "factId": "qm-0337",
+    "topic": "historia",
+    "explanation": "O Corpus Juris Civilis reúne grandes compilações do direito romano organizadas por ordem do imperador Justiniano I no século VI.",
+    "source": {
+      "name": "University of Chicago — Corpus Juris Civilis",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Corpus_Juris_Civilis.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "século VI"
+  },
+  {
+    "c": "História",
+    "q": "Qual lei brasileira de 1871 declarou livres os filhos de mulheres escravizadas nascidos a partir de sua vigência?",
+    "o": [
+      "Lei Eusébio de Queirós",
+      "Lei do Ventre Livre",
+      "Lei dos Sexagenários",
+      "Lei Áurea"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0338",
+    "level": "medio",
+    "factId": "qm-0338",
+    "topic": "historia",
+    "explanation": "A Lei do Ventre Livre, de 28 de setembro de 1871, determinou a liberdade dos filhos de mulheres escravizadas nascidos a partir de sua vigência, sob as condições previstas pela própria lei.",
+    "source": {
+      "name": "Arquivo Nacional — Legislação abolicionista no Império",
+      "url": "https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/temas-oitocentistas/legislacao-abolicionista-no-imperio/"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1871"
+  },
+  {
+    "c": "História",
+    "q": "Quem redigiu o primeiro rascunho da Declaração de Independência dos Estados Unidos?",
+    "o": [
+      "George Washington",
+      "Benjamin Franklin",
+      "Thomas Jefferson",
+      "James Madison"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0339",
+    "level": "medio",
+    "factId": "qm-0339",
+    "topic": "historia",
+    "explanation": "Thomas Jefferson redigiu o primeiro rascunho; John Adams e Benjamin Franklin fizeram alterações antes da apresentação ao Congresso.",
+    "source": {
+      "name": "U.S. National Archives — Creating the Declaration",
+      "url": "https://www.archives.gov/founding-docs/timeline"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1776"
+  },
+  {
+    "c": "História",
+    "q": "Em que data Abraham Lincoln emitiu a Proclamação de Emancipação que entrou em vigor durante a Guerra Civil dos Estados Unidos?",
+    "o": [
+      "1º de janeiro de 1863",
+      "4 de julho de 1863",
+      "9 de abril de 1865",
+      "6 de dezembro de 1865"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0340",
+    "level": "medio",
+    "factId": "qm-0340",
+    "topic": "historia",
+    "explanation": "Abraham Lincoln emitiu a Proclamação de Emancipação em 1º de janeiro de 1863.",
+    "source": {
+      "name": "U.S. National Archives — Emancipation Proclamation",
+      "url": "https://www.archives.gov/milestone-documents/emancipation-proclamation"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1863"
+  },
+  {
+    "c": "História",
+    "q": "Em que ano ocorreu a Crise dos Mísseis de Cuba, uma das confrontações mais perigosas da Guerra Fria?",
+    "o": [
+      "1948",
+      "1956",
+      "1962",
+      "1973"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0341",
+    "level": "medio",
+    "factId": "qm-0341",
+    "topic": "historia",
+    "explanation": "A Crise dos Mísseis de Cuba ocorreu em outubro de 1962, envolvendo diretamente Estados Unidos e União Soviética.",
+    "source": {
+      "name": "U.S. Office of the Historian — Cuban Missile Crisis",
+      "url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1962"
+  },
+  {
+    "c": "História",
+    "q": "Qual personagem denunciou formalmente a conspiração conhecida como Inconfidência Mineira às autoridades coloniais?",
+    "o": [
+      "Cláudio Manuel da Costa",
+      "Joaquim Silvério dos Reis",
+      "Tomás Antônio Gonzaga",
+      "José Álvares Maciel"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0342",
+    "level": "medio",
+    "factId": "qm-0342",
+    "topic": "historia",
+    "explanation": "Joaquim Silvério dos Reis formalizou a denúncia da conspiração ao governador Visconde de Barbacena em 1789.",
+    "source": {
+      "name": "Portal MG — História de Minas Gerais",
+      "url": "https://www.mg.gov.br/pagina/historia"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1789"
+  },
+  {
+    "c": "História",
+    "q": "Na Conferência de Wannsee, em janeiro de 1942, qual era o principal objetivo da reunião de altos funcionários nazistas?",
+    "o": [
+      "Negociar um armistício com os Aliados",
+      "Coordenar a implementação da chamada 'Solução Final'",
+      "Planejar a invasão da União Soviética",
+      "Organizar a rendição da França"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0343",
+    "level": "dificil",
+    "factId": "qm-0343",
+    "topic": "historia",
+    "explanation": "A Conferência de Wannsee reuniu altos funcionários para discutir e coordenar a implementação da chamada 'Solução Final', o plano nazista de assassinato sistemático dos judeus europeus.",
+    "source": {
+      "name": "United States Holocaust Memorial Museum — Wannsee Conference",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/wannsee-conference-and-the-final-solution"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1942"
+  },
+  {
+    "c": "História",
+    "q": "Qual padrão de assentamento dos tijolos foi usado por Brunelleschi na cúpula de Santa Maria del Fiore para ajudar na estabilidade da estrutura?",
+    "o": [
+      "Espinha de peixe",
+      "Opus reticulatum",
+      "Arcos concêntricos contínuos",
+      "Fileiras verticais paralelas"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0344",
+    "level": "dificil",
+    "factId": "qm-0344",
+    "topic": "historia",
+    "explanation": "A cúpula de Brunelleschi utiliza tijolos dispostos em padrão de espinha de peixe, técnica visível na própria estrutura.",
+    "source": {
+      "name": "Opera di Santa Maria del Fiore — Brunelleschi's Dome",
+      "url": "https://duomo.firenze.it/en/40/dome"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1420-1436"
+  },
+  {
+    "c": "História",
+    "q": "Segundo evidências arqueológicas de Great Zimbabwe, qual achado demonstra contatos comerciais de longa distância com a Ásia?",
+    "o": [
+      "Porcelana da China e da Pérsia",
+      "Moedas astecas de prata",
+      "Runas escandinavas em madeira",
+      "Cerâmica inca dos Andes"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0345",
+    "level": "dificil",
+    "factId": "qm-0345",
+    "topic": "historia",
+    "explanation": "Escavações em Great Zimbabwe encontraram, entre outros objetos, contas de vidro e porcelanas da China e da Pérsia, evidenciando comércio de longa distância.",
+    "source": {
+      "name": "UNESCO — Great Zimbabwe National Monument",
+      "url": "https://whc.unesco.org/en/list/364/"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "séculos XI-XV"
+  },
+  {
+    "c": "História",
+    "q": "Qual diplomata austríaco teve papel de liderança no Congresso de Viena de 1814-1815?",
+    "o": [
+      "Charles-Maurice de Talleyrand",
+      "Klemens von Metternich",
+      "Robert Stewart, visconde Castlereagh",
+      "Karl August von Hardenberg"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0346",
+    "level": "dificil",
+    "factId": "qm-0346",
+    "topic": "historia",
+    "explanation": "O ministro das Relações Exteriores austríaco Klemens von Metternich teve papel central e de liderança no Congresso de Viena.",
+    "source": {
+      "name": "Federal Chancellery of Austria — The Congress of Vienna",
+      "url": "https://www.bundeskanzleramt.gv.at/en/federal-chancellery/visit-us/history/the-congress-of-vienna.html"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1814-1815"
+  },
+  {
+    "c": "História",
+    "q": "Entre os condenados à morte na Inconfidência Mineira, quem foi o único que não teve a pena comutada para degredo?",
+    "o": [
+      "Tomás Antônio Gonzaga",
+      "Cláudio Manuel da Costa",
+      "Joaquim José da Silva Xavier, o Tiradentes",
+      "Alvarenga Peixoto"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0347",
+    "level": "dificil",
+    "factId": "qm-0347",
+    "topic": "historia",
+    "explanation": "Tiradentes foi o único entre os condenados à morte que não recebeu indulto ou comutação da pena para degredo.",
+    "source": {
+      "name": "Arquivo Nacional — Joaquim José da Silva Xavier",
+      "url": "https://historialuso.arquivonacional.gov.br/index.php/hlb/2055-gloss%C3%A1rio/2092-x/5550-xavier-joaquim-jose-da-silva-1746-1792"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1792"
+  },
+  {
+    "c": "História",
+    "q": "A Paz de Vestfália, concluída em 1648, encerrou principalmente qual grande conflito europeu?",
+    "o": [
+      "Guerra dos Cem Anos",
+      "Guerra dos Sete Anos",
+      "Guerra dos Trinta Anos",
+      "Guerra da Sucessão Espanhola"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0348",
+    "level": "dificil",
+    "factId": "qm-0348",
+    "topic": "historia",
+    "explanation": "A Paz de Vestfália de 1648 encerrou a Guerra dos Trinta Anos, conflito que havia começado em 1618.",
+    "source": {
+      "name": "Oxford Academic — Peace of Westphalia (1648)",
+      "url": "https://academic.oup.com/reference/62360/reference-article-abstract/554562314"
+    },
+    "verifiedAt": "2026-09-28T00:00:00.000Z",
+    "expiresAt": "2027-09-28T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1648"
+  }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
