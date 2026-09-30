@@ -8109,4 +8109,505 @@
     "status": "approved",
     "referencePeriod": null
   }
+,
+  {
+    "c": "Geral",
+    "q": "Como se chama uma palavra ou frase que pode ser lida da mesma forma da esquerda para a direita e da direita para a esquerda?",
+    "o": [
+      "Anagrama",
+      "Palíndromo",
+      "Acróstico",
+      "Homônimo"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0409",
+    "level": "facil",
+    "factId": "qm-0409",
+    "topic": "geral",
+    "explanation": "Palíndromo é uma palavra, frase ou sequência que mantém a mesma leitura em sentidos opostos, desconsiderando convenções como espaços e pontuação quando aplicável.",
+    "source": {
+      "name": "Merriam-Webster — Palindrome",
+      "url": "https://www.merriam-webster.com/dictionary/palindrome"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Quantos pontos formam uma célula Braille tradicional?",
+    "o": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0410",
+    "level": "facil",
+    "factId": "qm-0410",
+    "topic": "geral",
+    "explanation": "A célula Braille tradicional é formada por seis posições de pontos organizadas em duas colunas de três.",
+    "source": {
+      "name": "American Foundation for the Blind — What Is Braille?",
+      "url": "https://www.afb.org/blindness-and-low-vision/braille/what-braille"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "No sistema de algarismos romanos, qual valor representa a letra L?",
+    "o": [
+      "10",
+      "50",
+      "100",
+      "500"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0411",
+    "level": "facil",
+    "factId": "qm-0411",
+    "topic": "geral",
+    "explanation": "No sistema de algarismos romanos, L representa o valor 50.",
+    "source": {
+      "name": "Encyclopaedia Britannica — Roman numeral",
+      "url": "https://www.britannica.com/topic/Roman-numeral"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Quantas letras possui o alfabeto grego?",
+    "o": [
+      "22",
+      "24",
+      "26",
+      "28"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0412",
+    "level": "facil",
+    "factId": "qm-0412",
+    "topic": "geral",
+    "explanation": "O alfabeto grego possui 24 letras, de alfa a ômega.",
+    "source": {
+      "name": "Encyclopaedia Britannica — Greek alphabet",
+      "url": "https://www.britannica.com/topic/Greek-alphabet"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Quantos dígitos possui um ISBN-13?",
+    "o": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "a": 3,
+    "t": "geral",
+    "id": "qm-0413",
+    "level": "facil",
+    "factId": "qm-0413",
+    "topic": "geral",
+    "explanation": "O ISBN moderno possui 13 dígitos e identifica de forma padronizada edições e formatos de publicações.",
+    "source": {
+      "name": "International ISBN Agency — What is an ISBN?",
+      "url": "https://www.isbn-international.org/content/what-isbn"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Quem criou a língua planejada Esperanto?",
+    "o": [
+      "L. L. Zamenhof",
+      "J. R. R. Tolkien",
+      "Umberto Eco",
+      "Noam Chomsky"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0414",
+    "level": "facil",
+    "factId": "qm-0414",
+    "topic": "geral",
+    "explanation": "O Esperanto foi criado por L. L. Zamenhof e apresentado publicamente no fim do século XIX.",
+    "source": {
+      "name": "Encyclopaedia Britannica — Esperanto",
+      "url": "https://www.britannica.com/topic/Esperanto"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1887"
+  },
+  {
+    "c": "Geral",
+    "q": "Quantas casas possui um tabuleiro padrão de xadrez?",
+    "o": [
+      "56",
+      "64",
+      "72",
+      "81"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0415",
+    "level": "facil",
+    "factId": "qm-0415",
+    "topic": "geral",
+    "explanation": "O tabuleiro de xadrez tem 8 linhas por 8 colunas, totalizando 64 casas.",
+    "source": {
+      "name": "FIDE — Laws of Chess",
+      "url": "https://handbook.fide.com/chapter/E012023"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Quem criou o sistema de Classificação Decimal de Dewey?",
+    "o": [
+      "Melvil Dewey",
+      "Johannes Gutenberg",
+      "Samuel Morse",
+      "Louis Braille"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0416",
+    "level": "medio",
+    "factId": "qm-0416",
+    "topic": "geral",
+    "explanation": "Melvil Dewey desenvolveu a Classificação Decimal de Dewey, sistema amplamente usado para organizar acervos de bibliotecas.",
+    "source": {
+      "name": "Encyclopaedia Britannica — Melvil Dewey",
+      "url": "https://www.britannica.com/biography/Melvil-Dewey"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1876"
+  },
+  {
+    "c": "Geral",
+    "q": "No alfabeto radiotelefônico da ICAO, qual palavra representa a letra J?",
+    "o": [
+      "Juliett",
+      "Joker",
+      "Jupiter",
+      "Justice"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0417",
+    "level": "medio",
+    "factId": "qm-0417",
+    "topic": "geral",
+    "explanation": "No alfabeto radiotelefônico internacional padronizado pela ICAO, a letra J é representada por Juliett.",
+    "source": {
+      "name": "ICAO — Radiotelephony Spelling Alphabet",
+      "url": "https://www.icao.int/sites/default/files/postalhistory/annex_10_aeronautical_telecommunications.htm"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Qual sequência representa o sinal de socorro SOS em código Morse internacional?",
+    "o": [
+      "--- ... ---",
+      "... --- ...",
+      "... ... ---",
+      "--- --- ..."
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0418",
+    "level": "medio",
+    "factId": "qm-0418",
+    "topic": "geral",
+    "explanation": "Em código Morse internacional, SOS é representado por três pontos, três traços e três pontos: ... --- ....",
+    "source": {
+      "name": "ITU — Recommendation M.1677: International Morse code",
+      "url": "https://www.itu.int/rec/R-REC-M.1677"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "No calendário gregoriano, um ano terminado em 00 só é bissexto quando é divisível por qual número?",
+    "o": [
+      "100",
+      "200",
+      "400",
+      "800"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0419",
+    "level": "medio",
+    "factId": "qm-0419",
+    "topic": "geral",
+    "explanation": "No calendário gregoriano, anos divisíveis por 100 não são bissextos, exceto quando também são divisíveis por 400.",
+    "source": {
+      "name": "Encyclopaedia Britannica — Gregorian calendar",
+      "url": "https://www.britannica.com/topic/Gregorian-calendar"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "No Sistema Internacional, o prefixo micro representa qual fator?",
+    "o": [
+      "10⁻³",
+      "10⁻⁶",
+      "10⁻⁹",
+      "10⁶"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0420",
+    "level": "medio",
+    "factId": "qm-0420",
+    "topic": "geral",
+    "explanation": "O prefixo micro, símbolo µ, representa o fator 10⁻⁶.",
+    "source": {
+      "name": "BIPM — SI Brochure",
+      "url": "https://www.bipm.org/en/publications/si-brochure"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Como se chama uma frase que contém todas as letras de um alfabeto?",
+    "o": [
+      "Palíndromo",
+      "Pangrama",
+      "Anagrama",
+      "Acrônimo"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0421",
+    "level": "medio",
+    "factId": "qm-0421",
+    "topic": "geral",
+    "explanation": "Pangrama é uma frase ou sentença que usa todas as letras de um alfabeto.",
+    "source": {
+      "name": "Merriam-Webster — Pangram",
+      "url": "https://www.merriam-webster.com/dictionary/pangram"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Quantos versos possui tradicionalmente um soneto?",
+    "o": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0422",
+    "level": "medio",
+    "factId": "qm-0422",
+    "topic": "geral",
+    "explanation": "O soneto é uma forma poética tradicional composta por 14 versos.",
+    "source": {
+      "name": "Poetry Foundation — Sonnet",
+      "url": "https://www.poetryfoundation.org/education/glossary/sonnet"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Quais são as dimensões do papel A4 segundo a série ISO A?",
+    "o": [
+      "200 × 280 mm",
+      "210 × 297 mm",
+      "216 × 279 mm",
+      "220 × 310 mm"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0423",
+    "level": "dificil",
+    "factId": "qm-0423",
+    "topic": "geral",
+    "explanation": "O formato A4 da série ISO A mede 210 mm por 297 mm.",
+    "source": {
+      "name": "ISO — ISO 216 Writing paper and certain classes of printed matter",
+      "url": "https://www.iso.org/standard/36631.html"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Na numeração padrão do Braille, qual número identifica o ponto superior da coluna direita?",
+    "o": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0424",
+    "level": "dificil",
+    "factId": "qm-0424",
+    "topic": "geral",
+    "explanation": "Na célula Braille, os pontos da coluna esquerda são 1, 2 e 3; os da direita são 4, 5 e 6. O ponto superior direito é o 4.",
+    "source": {
+      "name": "American Foundation for the Blind — What Is Braille?",
+      "url": "https://www.afb.org/blindness-and-low-vision/braille/what-braille"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Segundo a ISO 8601, qual dia é considerado o primeiro da semana?",
+    "o": [
+      "Domingo",
+      "Segunda-feira",
+      "Sexta-feira",
+      "Sábado"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0425",
+    "level": "dificil",
+    "factId": "qm-0425",
+    "topic": "geral",
+    "explanation": "Na representação de semanas da ISO 8601, a semana começa na segunda-feira.",
+    "source": {
+      "name": "ISO — ISO 8601 Date and time format",
+      "url": "https://www.iso.org/iso-8601-date-and-time-format.html"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "No padrão de radiotelefonia da ICAO, como é pronunciado em inglês o algarismo 9?",
+    "o": [
+      "Nine",
+      "Niner",
+      "Ninety",
+      "Nain"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0426",
+    "level": "dificil",
+    "factId": "qm-0426",
+    "topic": "geral",
+    "explanation": "Na radiotelefonia padronizada pela ICAO, o algarismo 9 é pronunciado 'niner' para aumentar a clareza da comunicação.",
+    "source": {
+      "name": "ICAO — Aeronautical Telecommunications",
+      "url": "https://www.icao.int/sites/default/files/postalhistory/annex_10_aeronautical_telecommunications.htm"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Qual é o código Morse internacional da letra Q?",
+    "o": [
+      "--.-",
+      "-.-.",
+      "---.",
+      "..-."
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0427",
+    "level": "dificil",
+    "factId": "qm-0427",
+    "topic": "geral",
+    "explanation": "No código Morse internacional, a letra Q é representada por dois traços, um ponto e um traço: --.-.",
+    "source": {
+      "name": "ITU — Recommendation M.1677: International Morse code",
+      "url": "https://www.itu.int/rec/R-REC-M.1677"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Geral",
+    "q": "Como se chama o símbolo tipográfico ¶?",
+    "o": [
+      "Cedilha",
+      "Pilcrow",
+      "Interrobang",
+      "Dagger"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0428",
+    "level": "dificil",
+    "factId": "qm-0428",
+    "topic": "geral",
+    "explanation": "O símbolo ¶ é chamado de pilcrow e é tradicionalmente usado para marcar parágrafos.",
+    "source": {
+      "name": "Merriam-Webster — Pilcrow",
+      "url": "https://www.merriam-webster.com/dictionary/pilcrow"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);

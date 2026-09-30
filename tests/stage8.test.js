@@ -285,8 +285,10 @@ function getNewTecnologia(){
   });
 }
 
-test('stage8b6: banco total tem 327 perguntas',()=>{
-  assert.equal(bank.length,327);
+// ===== 8B.6 TECNOLOGIA CHECKPOINT =====
+test('stage8b6: banco total apos 8B.6 tem 327 perguntas',()=>{
+  const stage8b6Bank = bank.slice(0,327);
+  assert.equal(stage8b6Bank.length,327);
 });
 
 test('stage8b6: IDs qm-0389 a qm-0408 presentes exatamente uma vez',()=>{
@@ -346,6 +348,114 @@ test('stage8b6: 100 perguntas anteriores da Etapa 8 preservadas',()=>{
   assert.equal(tecnologia.filter(q=>q.level==='dificil').length,6);
 });
 
+// ===== 8B.7 GERAL CHECKPOINT =====
+// Helper to get the 20 new geral questions (8B.7)
+function getNewGeral(){
+  return bank.filter(q => {
+    const match=q.id.match(/^qm-0(\d+)$/);
+    if(!match)return false;
+    const num=parseInt(match[1]);
+    return q.topic==='geral' && num>=409 && num<=428;
+  });
+}
+
+test('stage8b7: banco total tem 347 perguntas',()=>{
+  assert.equal(bank.length,347);
+});
+
+test('stage8b7: IDs qm-0409 a qm-0428 presentes exatamente uma vez',()=>{
+  const ids=bank.map(q=>q.id);
+  for(let i=409;i<=428;i++){
+    const id=`qm-${i.toString().padStart(4,'0')}`;
+    const count=ids.filter(x=>x===id).length;
+    assert.equal(count,1,`ID ${id} deve aparecer exatamente uma vez`);
+  }
+});
+
+test('stage8b7: 20 perguntas novas de geral',()=>{
+  const nova= getNewGeral();
+  assert.equal(nova.length,20);
+});
+
+test('stage8b7: distribuicao 7 facil, 7 medio, 6 dificil em geral',()=>{
+  const nova= getNewGeral();
+  const facil=nova.filter(q=>q.level==='facil').length;
+  const medio=nova.filter(q=>q.level==='medio').length;
+  const dificil=nova.filter(q=>q.level==='dificil').length;
+  assert.equal(facil,7,`Esperado 7 facil, encontrado ${facil}`);
+  assert.equal(medio,7,`Esperado 7 medio, encontrado ${medio}`);
+  assert.equal(dificil,6,`Esperado 6 dificil, encontrado ${dificil}`);
+});
+
+test('stage8b7: 120 perguntas anteriores da Etapa 8 preservadas',()=>{
+  const ciencia= getNewCiencia();
+  const geo= getNewGeografia();
+  const historia= getNewHistoria();
+  const matematica= getNewMatematica();
+  const biblia= getNewBiblia();
+  const tecnologia= getNewTecnologia();
+  assert.equal(ciencia.length,20);
+  assert.equal(geo.length,20);
+  assert.equal(historia.length,20);
+  assert.equal(matematica.length,20);
+  assert.equal(biblia.length,20);
+  assert.equal(tecnologia.length,20);
+  assert.equal(ciencia.filter(q=>q.level==='facil').length,7);
+  assert.equal(ciencia.filter(q=>q.level==='medio').length,7);
+  assert.equal(ciencia.filter(q=>q.level==='dificil').length,6);
+  assert.equal(geo.filter(q=>q.level==='facil').length,7);
+  assert.equal(geo.filter(q=>q.level==='medio').length,7);
+  assert.equal(geo.filter(q=>q.level==='dificil').length,6);
+  assert.equal(historia.filter(q=>q.level==='facil').length,7);
+  assert.equal(historia.filter(q=>q.level==='medio').length,7);
+  assert.equal(historia.filter(q=>q.level==='dificil').length,6);
+  assert.equal(matematica.filter(q=>q.level==='facil').length,7);
+  assert.equal(matematica.filter(q=>q.level==='medio').length,7);
+  assert.equal(matematica.filter(q=>q.level==='dificil').length,6);
+  assert.equal(biblia.filter(q=>q.level==='facil').length,7);
+  assert.equal(biblia.filter(q=>q.level==='medio').length,7);
+  assert.equal(biblia.filter(q=>q.level==='dificil').length,6);
+  assert.equal(tecnologia.filter(q=>q.level==='facil').length,7);
+  assert.equal(tecnologia.filter(q=>q.level==='medio').length,7);
+  assert.equal(tecnologia.filter(q=>q.level==='dificil').length,6);
+});
+
+test('stage8: topic geral para as 20 novas',()=>{
+  const nova= getNewGeral();
+  for(const q of nova){
+    assert.equal(q.topic,'geral',`${q.id}: topic deve ser geral`);
+  }
+});
+
+test('stage8: schema valido para as 20 novas perguntas de geral',()=>{
+  const nova= getNewGeral();
+  for(const q of nova){
+    assert.ok(q.c,`${q.id}: deve ter categoria`);
+    assert.ok(q.q,`${q.id}: deve ter enunciado`);
+    assert.ok(q.o,`${q.id}: deve ter alternativas`);
+    assert.ok(Array.isArray(q.o),`${q.id}: alternativas devem ser array`);
+    assert.equal(q.o.length,4,`${q.id}: deve ter 4 alternativas`);
+    assert.ok(Number.isInteger(q.a),`${q.id}: deve ter indice correto`);
+    assert.ok(q.a>=0 && q.a<=3,`${q.id}: indice deve estar entre 0 e 3`);
+    assert.ok(q.t,`${q.id}: deve ter tipo`);
+    assert.ok(q.id,`${q.id}: deve ter ID`);
+    assert.ok(q.level,`${q.id}: deve ter nivel`);
+    assert.ok(q.factId,`${q.id}: deve ter factId`);
+    assert.equal(q.topic,'geral',`${q.id}: topic deve ser geral`);
+    assert.ok(q.explanation,`${q.id}: deve ter explicacao`);
+    assert.ok(q.source,`${q.id}: deve ter fonte`);
+    assert.ok(q.source?.name,`${q.id}: fonte deve ter nome`);
+    assert.ok(q.source?.url,`${q.id}: fonte deve ter URL`);
+    assert.ok(q.verifiedAt,`${q.id}: deve ter verifiedAt`);
+    assert.ok(q.expiresAt,`${q.id}: deve ter expiresAt`);
+    assert.equal(q.status,'approved',`${q.id}: status deve ser approved`);
+    assert.ok(q.hasOwnProperty('referencePeriod'),`${q.id}: deve ter referencePeriod`);
+    assert.ok(q.o[q.a],`${q.id}: alternativa correta deve existir`);
+    assert.ok(q.source.url.startsWith('https://'),`${q.id}: URL deve ser HTTPS`);
+  }
+});
+
+// ===== COMMON VALIDATIONS =====
 test('stage8: topic tecnologia para as 20 novas',()=>{
   const nova= getNewTecnologia();
   for(const q of nova){
