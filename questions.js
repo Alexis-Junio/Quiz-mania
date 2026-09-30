@@ -9109,5 +9109,505 @@
     "expiresAt": "2027-09-30T00:00:00.000Z",
     "status": "approved",
     "referencePeriod": "1902"
+  },
+  {
+    "c": "Português",
+    "q": "Qual é o plural de papel?",
+    "o": [
+      "Papéis",
+      "Papels",
+      "Papéus",
+      "Papeles"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0449",
+    "level": "facil",
+    "factId": "qm-0449",
+    "topic": "portugues",
+    "explanation": "O plural padrão de papel é papéis, com alteração gráfica e acento para conservar a pronúncia adequada.",
+    "source": {
+      "name": "Academia Brasileira de Letras — VOLP",
+      "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Qual é o feminino de ator?",
+    "o": [
+      "Atriz",
+      "Atora",
+      "Atoresa",
+      "Atrora"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0450",
+    "level": "facil",
+    "factId": "qm-0450",
+    "topic": "portugues",
+    "explanation": "O feminino de ator é atriz.",
+    "source": {
+      "name": "Academia Brasileira de Letras — VOLP",
+      "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Qual destas formas está grafada corretamente no português brasileiro?",
+    "o": [
+      "Enxergar",
+      "Enchergar",
+      "Enxergarh",
+      "Encherga"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0451",
+    "level": "facil",
+    "factId": "qm-0451",
+    "topic": "portugues",
+    "explanation": "A grafia correta do verbo é enxergar.",
+    "source": {
+      "name": "Academia Brasileira de Letras — VOLP",
+      "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Qual destas palavras é oxítona?",
+    "o": [
+      "Árvore",
+      "Lápis",
+      "Café",
+      "Médico"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0452",
+    "level": "facil",
+    "factId": "qm-0452",
+    "topic": "portugues",
+    "explanation": "Café é oxítona porque sua sílaba tônica é a última: fé.",
+    "source": {
+      "name": "Academia Brasileira de Letras — VOLP",
+      "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Quantas sílabas tem a palavra 'saudade'?",
+    "o": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0453",
+    "level": "facil",
+    "factId": "qm-0453",
+    "topic": "portugues",
+    "explanation": "Saudade divide-se em sau-da-de, totalizando três sílabas.",
+    "source": {
+      "name": "Infopédia — Saudade",
+      "url": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/saudade"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Na palavra 'infeliz', qual elemento funciona como prefixo?",
+    "o": [
+      "in-",
+      "-feliz",
+      "-liz",
+      "fe-"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0454",
+    "level": "facil",
+    "factId": "qm-0454",
+    "topic": "portugues",
+    "explanation": "Em infeliz, o prefixo in- acrescenta sentido de negação à base feliz.",
+    "source": {
+      "name": "Infopédia — Infeliz",
+      "url": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/infeliz"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Na frase 'O menino chegou', qual palavra funciona como artigo definido?",
+    "o": [
+      "O",
+      "Menino",
+      "Chegou",
+      "Nenhuma"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0455",
+    "level": "facil",
+    "factId": "qm-0455",
+    "topic": "portugues",
+    "explanation": "Na frase, 'O' determina o substantivo 'menino' e funciona como artigo definido.",
+    "source": {
+      "name": "Câmara dos Deputados — Manual de Redação",
+      "url": "https://seac.alesc.sc.gov.br/wp-content/uploads/2019/08/manual_redacao_dos_deputados.pdf"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Complete segundo a norma-padrão: 'Vou ___ escola todos os dias.'",
+    "o": [
+      "à",
+      "ao",
+      "da",
+      "de"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0456",
+    "level": "medio",
+    "factId": "qm-0456",
+    "topic": "portugues",
+    "explanation": "Em 'vou à escola', ocorre a fusão da preposição a, exigida pelo verbo ir, com o artigo feminino a.",
+    "source": {
+      "name": "Capes — Redação Oficial: revisão gramatical",
+      "url": "https://educapes.capes.gov.br/bitstream/capes/401192/1/RedacaoOficial-3ed-web-atualizado.pdf"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Em 'Entreguei-lhe o documento', a palavra 'lhe' é classificada como quê?",
+    "o": [
+      "Pronome pessoal oblíquo átono",
+      "Pronome demonstrativo",
+      "Artigo definido",
+      "Advérbio"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0457",
+    "level": "medio",
+    "factId": "qm-0457",
+    "topic": "portugues",
+    "explanation": "'Lhe' é um pronome pessoal oblíquo átono empregado junto ao verbo.",
+    "source": {
+      "name": "Câmara dos Deputados — Manual de Redação",
+      "url": "https://seac.alesc.sc.gov.br/wp-content/uploads/2019/08/manual_redacao_dos_deputados.pdf"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Na frase 'O livro que comprei é novo', a palavra 'que' é classificada como quê?",
+    "o": [
+      "Pronome relativo",
+      "Pronome possessivo",
+      "Conjunção adversativa",
+      "Preposição"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0458",
+    "level": "medio",
+    "factId": "qm-0458",
+    "topic": "portugues",
+    "explanation": "Nesse contexto, 'que' retoma o antecedente 'livro' e introduz uma oração relativa, funcionando como pronome relativo.",
+    "source": {
+      "name": "Câmara dos Deputados — Manual de Redação",
+      "url": "https://seac.alesc.sc.gov.br/wp-content/uploads/2019/08/manual_redacao_dos_deputados.pdf"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Em 'Meu livro está na mesa', a palavra 'meu' é classificada como quê?",
+    "o": [
+      "Pronome possessivo",
+      "Pronome relativo",
+      "Advérbio",
+      "Conjunção"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0459",
+    "level": "medio",
+    "factId": "qm-0459",
+    "topic": "portugues",
+    "explanation": "'Meu' é pronome possessivo porque expressa relação de posse em relação ao substantivo 'livro'.",
+    "source": {
+      "name": "Câmara dos Deputados — Manual de Redação",
+      "url": "https://seac.alesc.sc.gov.br/wp-content/uploads/2019/08/manual_redacao_dos_deputados.pdf"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Qual forma completa corretamente a pergunta segundo a norma-padrão: '___ você vai depois daqui?'",
+    "o": [
+      "Aonde",
+      "Onde",
+      "Donde",
+      "Daonde"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0460",
+    "level": "medio",
+    "factId": "qm-0460",
+    "topic": "portugues",
+    "explanation": "Com o verbo ir, que indica movimento e rege a preposição a, emprega-se 'aonde'.",
+    "source": {
+      "name": "Câmara dos Deputados — Manual de Redação",
+      "url": "https://seac.alesc.sc.gov.br/wp-content/uploads/2019/08/manual_redacao_dos_deputados.pdf"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Em 'Os alunos estudaram bastante', qual é o núcleo do sujeito?",
+    "o": [
+      "Alunos",
+      "Os",
+      "Estudaram",
+      "Bastante"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0461",
+    "level": "medio",
+    "factId": "qm-0461",
+    "topic": "portugues",
+    "explanation": "O sujeito é 'Os alunos', e seu núcleo é o substantivo 'alunos'.",
+    "source": {
+      "name": "Câmara dos Deputados — Manual de Redação",
+      "url": "https://seac.alesc.sc.gov.br/wp-content/uploads/2019/08/manual_redacao_dos_deputados.pdf"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Em 'Maria e João chegaram cedo', o sujeito é classificado como quê?",
+    "o": [
+      "Composto",
+      "Simples",
+      "Oculto",
+      "Indeterminado"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0462",
+    "level": "medio",
+    "factId": "qm-0462",
+    "topic": "portugues",
+    "explanation": "O sujeito é composto porque possui dois núcleos: Maria e João.",
+    "source": {
+      "name": "Câmara dos Deputados — Manual de Redação",
+      "url": "https://seac.alesc.sc.gov.br/wp-content/uploads/2019/08/manual_redacao_dos_deputados.pdf"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Segundo a norma-padrão, qual forma é adequada para indicar existência de vários problemas?",
+    "o": [
+      "Houve muitos problemas",
+      "Houveram muitos problemas",
+      "Haviam muitos problemas",
+      "Houveram-se muitos problemas"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0463",
+    "level": "dificil",
+    "factId": "qm-0463",
+    "topic": "portugues",
+    "explanation": "No sentido de existir, o verbo haver é impessoal e permanece na terceira pessoa do singular: 'houve muitos problemas'.",
+    "source": {
+      "name": "FUNAG — Concordância verbal",
+      "url": "https://funag.gov.br/manual/index.php?title=Concord%C3%A2ncia_verbal"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "No sentido de 'ver', qual construção com o verbo assistir segue a regência prescrita pela norma-padrão?",
+    "o": [
+      "Assistir ao filme",
+      "Assistir o filme",
+      "Assistir no filme",
+      "Assistir pelo filme"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0464",
+    "level": "dificil",
+    "factId": "qm-0464",
+    "topic": "portugues",
+    "explanation": "No sentido de ver ou presenciar, a norma-padrão prescreve o verbo assistir com a preposição a: 'assistir ao filme'.",
+    "source": {
+      "name": "Câmara dos Deputados — Manual de Redação",
+      "url": "https://seac.alesc.sc.gov.br/wp-content/uploads/2019/08/manual_redacao_dos_deputados.pdf"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Na expressão 'Ela ficou meio cansada', por que 'meio' permanece no masculino singular?",
+    "o": [
+      "Porque funciona como advérbio",
+      "Porque concorda com 'ela'",
+      "Porque é artigo",
+      "Porque é pronome relativo"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0465",
+    "level": "dificil",
+    "factId": "qm-0465",
+    "topic": "portugues",
+    "explanation": "Em 'meio cansada', 'meio' equivale a 'um pouco' e funciona como advérbio, portanto é invariável.",
+    "source": {
+      "name": "Manual de Redação e Estilo — TCE-MG",
+      "url": "https://escoladecontas.tce.mg.gov.br/arquivos_diversos/Manual%20de%20Reda%C3%A7%C3%A3o%20e%20Estilo%20-%20Revista%20do%20TCEMG.pdf"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Em 'o autor cuja obra venceu o prêmio', o pronome 'cuja' expressa principalmente qual relação?",
+    "o": [
+      "Posse",
+      "Lugar",
+      "Tempo",
+      "Causa"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0466",
+    "level": "dificil",
+    "factId": "qm-0466",
+    "topic": "portugues",
+    "explanation": "'Cujo' e suas flexões são pronomes relativos possessivos e estabelecem relação de posse entre termos.",
+    "source": {
+      "name": "Manual de Redação e Estilo — TCE-MG",
+      "url": "https://escoladecontas.tce.mg.gov.br/arquivos_diversos/Manual%20de%20Reda%C3%A7%C3%A3o%20e%20Estilo%20-%20Revista%20do%20TCEMG.pdf"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Na forma verbal 'dir-se-á', qual fenômeno de colocação pronominal ocorre?",
+    "o": [
+      "Mesóclise",
+      "Próclise",
+      "Ênclise",
+      "Elipse"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0467",
+    "level": "dificil",
+    "factId": "qm-0467",
+    "topic": "portugues",
+    "explanation": "Em 'dir-se-á', o pronome átono aparece no interior da forma verbal do futuro, caracterizando mesóclise.",
+    "source": {
+      "name": "Ciberdúvidas — Próclise após o 'que'",
+      "url": "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/proclise-apos-o-que/10071"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Português",
+    "q": "Qual é a função do acento em 'pôde', em contraste com 'pode'?",
+    "o": [
+      "Distinguir o passado do presente",
+      "Marcar plural",
+      "Indicar crase",
+      "Formar um advérbio"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0468",
+    "level": "dificil",
+    "factId": "qm-0468",
+    "topic": "portugues",
+    "explanation": "O acento diferencial distingue 'pôde', forma do pretérito perfeito, de 'pode', forma do presente do indicativo.",
+    "source": {
+      "name": "Senado Federal — Acordo Ortográfico da Língua Portuguesa",
+      "url": "https://legis.senado.gov.br/norma/410669/publicacao/15745373"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
   }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
