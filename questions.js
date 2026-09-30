@@ -8609,5 +8609,505 @@
     "expiresAt": "2027-09-30T00:00:00.000Z",
     "status": "approved",
     "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Em qual cidade ocorre a principal procissão do Círio de Nossa Senhora de Nazaré?",
+    "o": [
+      "Belém",
+      "Manaus",
+      "São Luís",
+      "Recife"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0429",
+    "level": "facil",
+    "factId": "qm-0429",
+    "topic": "cultura-brasileira",
+    "explanation": "O Círio de Nossa Senhora de Nazaré tem sua principal celebração em Belém, no Pará.",
+    "source": {
+      "name": "Iphan — Patrimônio Imaterial no Pará",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/para/patrimonio-imaterial"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "O carimbó é uma forma de expressão musical especialmente associada a qual estado brasileiro?",
+    "o": [
+      "Pará",
+      "Ceará",
+      "Goiás",
+      "Santa Catarina"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0430",
+    "level": "facil",
+    "factId": "qm-0430",
+    "topic": "cultura-brasileira",
+    "explanation": "O carimbó é uma das formas de expressão musical mais significativas do estado do Pará.",
+    "source": {
+      "name": "Iphan — Patrimônio Imaterial no Pará",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/para/patrimonio-imaterial"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "O Tambor de Crioula é uma manifestação tradicional de qual estado brasileiro?",
+    "o": [
+      "Maranhão",
+      "Paraná",
+      "Acre",
+      "Espírito Santo"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0431",
+    "level": "facil",
+    "factId": "qm-0431",
+    "topic": "cultura-brasileira",
+    "explanation": "O Tambor de Crioula é uma forma de expressão de matriz afro-brasileira fortemente ligada ao Maranhão.",
+    "source": {
+      "name": "Iphan — Patrimônio Imaterial no Maranhão",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/maranhao/patrimonio-imaterial"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Em que estado se concentra a tradição do Maracatu Nação, também chamado de Maracatu de Baque Virado?",
+    "o": [
+      "Pernambuco",
+      "Amazonas",
+      "Rio Grande do Sul",
+      "Mato Grosso"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0432",
+    "level": "facil",
+    "factId": "qm-0432",
+    "topic": "cultura-brasileira",
+    "explanation": "O Maracatu Nação é uma manifestação cultural ligada à Região Metropolitana do Recife, em Pernambuco.",
+    "source": {
+      "name": "Iphan — Plano de Salvaguarda do Maracatu Nação",
+      "url": "https://www.gov.br/iphan/pt-br/assuntos/noticias/conheca-o-plano-de-salvaguarda-do-maracatu-nacao"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "O modo tradicional de fazer a viola de cocho é encontrado em quais dois estados brasileiros?",
+    "o": [
+      "Mato Grosso e Mato Grosso do Sul",
+      "Bahia e Sergipe",
+      "Pará e Amapá",
+      "Paraná e Santa Catarina"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0433",
+    "level": "facil",
+    "factId": "qm-0433",
+    "topic": "cultura-brasileira",
+    "explanation": "O modo de fazer a viola de cocho é uma tradição encontrada tanto em Mato Grosso quanto em Mato Grosso do Sul.",
+    "source": {
+      "name": "Iphan — Patrimônio Imaterial no Mato Grosso do Sul",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/mato-grosso-do-sul/patrimonio-imaterial"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "O Fandango Caiçara ocorre tradicionalmente no litoral de quais dois estados?",
+    "o": [
+      "Paraná e São Paulo",
+      "Bahia e Sergipe",
+      "Ceará e Piauí",
+      "Rio de Janeiro e Espírito Santo"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0434",
+    "level": "facil",
+    "factId": "qm-0434",
+    "topic": "cultura-brasileira",
+    "explanation": "O Fandango Caiçara ocorre no litoral norte do Paraná e no litoral sul de São Paulo.",
+    "source": {
+      "name": "Iphan — Patrimônio Imaterial no Paraná",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/parana/patrimonio-imaterial"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Em qual cidade fica o Teatro Amazonas?",
+    "o": [
+      "Manaus",
+      "Belém",
+      "Porto Velho",
+      "Boa Vista"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0435",
+    "level": "facil",
+    "factId": "qm-0435",
+    "topic": "cultura-brasileira",
+    "explanation": "O Teatro Amazonas fica em Manaus e é um dos principais marcos culturais e arquitetônicos da cidade.",
+    "source": {
+      "name": "Iphan — Manaus (AM)",
+      "url": "https://www.gov.br/iphan/pt-br/patrimonio-cultural/patrimonio-material/bens-tombados/conjuntos-urbanos-tombados-cidades-historicas/norte/manaus-am"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "O Jongo reconhecido pelo Iphan como patrimônio cultural brasileiro está associado a qual região do país?",
+    "o": [
+      "Sudeste",
+      "Norte",
+      "Centro-Oeste",
+      "Sul"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0436",
+    "level": "medio",
+    "factId": "qm-0436",
+    "topic": "cultura-brasileira",
+    "explanation": "O bem registrado é denominado Jongo no Sudeste e está ligado a comunidades negras dessa região.",
+    "source": {
+      "name": "Iphan — Registro do Jongo no Sudeste",
+      "url": "https://bcr.iphan.gov.br/acoes-de-salvaguarda/registro-do-jongo-no-sudeste-como-patrimonio-cultural-do-brasil/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Em qual capital brasileira o Ofício das Baianas de Acarajé é amplamente disseminado?",
+    "o": [
+      "Salvador",
+      "Curitiba",
+      "Goiânia",
+      "Florianópolis"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0437",
+    "level": "medio",
+    "factId": "qm-0437",
+    "topic": "cultura-brasileira",
+    "explanation": "O Iphan destaca Salvador como um dos principais espaços de disseminação do Ofício das Baianas de Acarajé.",
+    "source": {
+      "name": "Iphan — Patrimônio Imaterial na Bahia",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/bahia/patrimonio-imaterial"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Quem esculpiu os Profetas do Santuário do Bom Jesus de Matosinhos, em Congonhas?",
+    "o": [
+      "Aleijadinho",
+      "Mestre Ataíde",
+      "Victor Meirelles",
+      "Pedro Américo"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0438",
+    "level": "medio",
+    "factId": "qm-0438",
+    "topic": "cultura-brasileira",
+    "explanation": "As esculturas dos Profetas de Congonhas são obras de Antônio Francisco Lisboa, o Aleijadinho.",
+    "source": {
+      "name": "Iphan — Minas Gerais",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/minas-gerais"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Em que ano foi inaugurado o Teatro Amazonas?",
+    "o": [
+      "1878",
+      "1889",
+      "1896",
+      "1905"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0439",
+    "level": "medio",
+    "factId": "qm-0439",
+    "topic": "cultura-brasileira",
+    "explanation": "O Teatro Amazonas foi inaugurado em 1896, durante o período de prosperidade ligado ao ciclo da borracha.",
+    "source": {
+      "name": "Iphan — Manaus (AM)",
+      "url": "https://www.gov.br/iphan/pt-br/patrimonio-cultural/patrimonio-material/bens-tombados/conjuntos-urbanos-tombados-cidades-historicas/norte/manaus-am"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1896"
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "O Tambor de Crioula do Maranhão é praticado especialmente em louvor a qual santo?",
+    "o": [
+      "São Benedito",
+      "São Jorge",
+      "São Pedro",
+      "São Sebastião"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0440",
+    "level": "medio",
+    "factId": "qm-0440",
+    "topic": "cultura-brasileira",
+    "explanation": "Segundo o Iphan, o Tambor de Crioula é praticado especialmente em louvor a São Benedito.",
+    "source": {
+      "name": "Iphan — Patrimônio Imaterial no Maranhão",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/maranhao/patrimonio-imaterial"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Quais são as duas classificações principais do Fandango Caiçara mencionadas pelo Iphan?",
+    "o": [
+      "Batido e bailado ou valsado",
+      "Solto e dobrado",
+      "Lento e corrido",
+      "Cantado e instrumental"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0441",
+    "level": "medio",
+    "factId": "qm-0441",
+    "topic": "cultura-brasileira",
+    "explanation": "O Iphan descreve o Fandango Caiçara como classificado em batido e bailado ou valsado.",
+    "source": {
+      "name": "Iphan — Patrimônio Imaterial no Paraná",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/parana/patrimonio-imaterial"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Por qual outro nome o Maracatu Nação também é conhecido?",
+    "o": [
+      "Maracatu de Baque Virado",
+      "Maracatu de Roda",
+      "Maracatu de Viola",
+      "Maracatu Serrano"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0442",
+    "level": "medio",
+    "factId": "qm-0442",
+    "topic": "cultura-brasileira",
+    "explanation": "O Maracatu Nação também é conhecido como Maracatu de Baque Virado.",
+    "source": {
+      "name": "Iphan — Plano de Salvaguarda do Maracatu Nação",
+      "url": "https://www.gov.br/iphan/pt-br/assuntos/noticias/conheca-o-plano-de-salvaguarda-do-maracatu-nacao"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Em qual momento de outubro ocorre tradicionalmente o ponto alto do Círio de Nazaré?",
+    "o": [
+      "No segundo domingo",
+      "Na primeira segunda-feira",
+      "No último sábado",
+      "No dia 31"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0443",
+    "level": "dificil",
+    "factId": "qm-0443",
+    "topic": "cultura-brasileira",
+    "explanation": "O clímax do Círio de Nazaré ocorre tradicionalmente na procissão do segundo domingo de outubro.",
+    "source": {
+      "name": "Iphan — Patrimônio Mundial no Pará",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/para/patrimonio-mundial"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "O Modo de Fazer a Viola de Cocho foi inscrito pelo Iphan em qual Livro de Registro?",
+    "o": [
+      "Livro dos Saberes",
+      "Livro das Celebrações",
+      "Livro dos Lugares",
+      "Livro das Formas de Expressão"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0444",
+    "level": "dificil",
+    "factId": "qm-0444",
+    "topic": "cultura-brasileira",
+    "explanation": "O Modo de Fazer a Viola de Cocho foi registrado no Livro dos Saberes.",
+    "source": {
+      "name": "Iphan — Mato Grosso do Sul",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/mato-grosso-do-sul"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2005"
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Em quais quatro estados o Jongo no Sudeste está presente segundo o Iphan?",
+    "o": [
+      "Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo",
+      "Bahia, Sergipe, Alagoas e Pernambuco",
+      "Paraná, Santa Catarina, Rio Grande do Sul e São Paulo",
+      "Goiás, Mato Grosso, Mato Grosso do Sul e Minas Gerais"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0445",
+    "level": "dificil",
+    "factId": "qm-0445",
+    "topic": "cultura-brasileira",
+    "explanation": "O Iphan registra a presença do Jongo no Sudeste em Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo.",
+    "source": {
+      "name": "Iphan — Registro do Jongo no Sudeste",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/rio-de-janeiro/patrimonio-imaterial"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Segundo o Iphan, a origem do acarajé está ligada a qual região da África Ocidental?",
+    "o": [
+      "Golfo de Benim",
+      "Vale do Nilo",
+      "Magrebe",
+      "Cabo da Boa Esperança"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0446",
+    "level": "dificil",
+    "factId": "qm-0446",
+    "topic": "cultura-brasileira",
+    "explanation": "O Iphan informa que o acarajé tem origem no Golfo de Benim, na África Ocidental.",
+    "source": {
+      "name": "Iphan — Patrimônio Imaterial na Bahia",
+      "url": "https://www.gov.br/iphan/pt-br/superintendencias/bahia/patrimonio-imaterial"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Qual material tornou Mestre Vitalino conhecido por retratar a vida e a cultura do agreste?",
+    "o": [
+      "Barro",
+      "Mármore",
+      "Bronze",
+      "Vidro"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0447",
+    "level": "dificil",
+    "factId": "qm-0447",
+    "topic": "cultura-brasileira",
+    "explanation": "Mestre Vitalino ficou conhecido por retratar em barro sua terra, sua gente e cenas do cotidiano do agreste.",
+    "source": {
+      "name": "Museus.gov.br — Casa-Museu Mestre Vitalino",
+      "url": "https://visite.museus.gov.br/instituicoes/casa-museu-mestre-vitalino/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Cultura Brasileira",
+    "q": "Segundo a bibliografia da Academia Brasileira de Letras, em que ano foi publicado Os Sertões, de Euclides da Cunha?",
+    "o": [
+      "1897",
+      "1902",
+      "1907",
+      "1910"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0448",
+    "level": "dificil",
+    "factId": "qm-0448",
+    "topic": "cultura-brasileira",
+    "explanation": "A bibliografia de Euclides da Cunha na Academia Brasileira de Letras registra Os Sertões como publicado em 1902.",
+    "source": {
+      "name": "Academia Brasileira de Letras — Euclides da Cunha: bibliografia",
+      "url": "https://www.academia.org.br/academicos/euclides-da-cunha/bibliografia"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1902"
   }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
