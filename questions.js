@@ -7608,4 +7608,505 @@
     "status": "approved",
     "referencePeriod": null
   }
+,
+  {
+    "c": "Tecnologia",
+    "q": "Qual código de status HTTP indica que um recurso não foi encontrado?",
+    "o": [
+      "200",
+      "301",
+      "404",
+      "500"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0389",
+    "level": "facil",
+    "factId": "qm-0389",
+    "topic": "tecnologia",
+    "explanation": "O código HTTP 404 significa que o servidor não encontrou o recurso solicitado.",
+    "source": {
+      "name": "MDN — 404 Not Found",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/404"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Qual comando do Git cria uma cópia local de um repositório existente?",
+    "o": [
+      "git clone",
+      "git commit",
+      "git merge",
+      "git status"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0390",
+    "level": "facil",
+    "factId": "qm-0390",
+    "topic": "tecnologia",
+    "explanation": "O comando git clone cria uma cópia de um repositório em um novo diretório.",
+    "source": {
+      "name": "Git — git-clone Documentation",
+      "url": "https://git-scm.com/docs/git-clone"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Qual serviço da internet traduz nomes de domínio, como example.com, em endereços IP?",
+    "o": [
+      "DNS",
+      "FTP",
+      "SMTP",
+      "SSH"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0391",
+    "level": "facil",
+    "factId": "qm-0391",
+    "topic": "tecnologia",
+    "explanation": "O DNS associa nomes de domínio a informações como endereços IP usados para localizar serviços na rede.",
+    "source": {
+      "name": "ICANN — Domain Name System",
+      "url": "https://www.icann.org/resources/pages/dns-2012-02-25-en"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Em Python, qual par de símbolos é usado normalmente para escrever uma lista literal?",
+    "o": [
+      "( )",
+      "[ ]",
+      "{ }",
+      "< >"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0392",
+    "level": "facil",
+    "factId": "qm-0392",
+    "topic": "tecnologia",
+    "explanation": "Em Python, listas literais são escritas entre colchetes, como [1, 2, 3].",
+    "source": {
+      "name": "Python Documentation — Lists",
+      "url": "https://docs.python.org/3/tutorial/introduction.html#lists"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Na autenticação multifator, qual é a ideia principal?",
+    "o": [
+      "Usar dois ou mais fatores de categorias diferentes",
+      "Trocar a senha a cada acesso",
+      "Usar duas senhas iguais",
+      "Entrar apenas por reconhecimento facial"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0393",
+    "level": "facil",
+    "factId": "qm-0393",
+    "topic": "tecnologia",
+    "explanation": "Autenticação multifator combina dois ou mais fatores de autenticação, como algo que você sabe, possui ou é.",
+    "source": {
+      "name": "NIST — Digital Identity Guidelines: Authentication",
+      "url": "https://pages.nist.gov/800-63-4/sp800-63b.html"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Qual protocolo criptográfico é usado para proteger a comunicação do HTTPS?",
+    "o": [
+      "TLS",
+      "FTP",
+      "DHCP",
+      "SNMP"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0394",
+    "level": "facil",
+    "factId": "qm-0394",
+    "topic": "tecnologia",
+    "explanation": "HTTPS é HTTP protegido por TLS, que fornece confidencialidade e integridade à comunicação.",
+    "source": {
+      "name": "MDN — HTTPS",
+      "url": "https://developer.mozilla.org/en-US/docs/Glossary/HTTPS"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Qual protocolo é usado normalmente para fornecer automaticamente configuração de rede, como endereço IP, a um dispositivo?",
+    "o": [
+      "DHCP",
+      "HTTP",
+      "IMAP",
+      "SFTP"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0395",
+    "level": "facil",
+    "factId": "qm-0395",
+    "topic": "tecnologia",
+    "explanation": "O DHCP foi projetado para fornecer parâmetros de configuração de rede automaticamente aos hosts.",
+    "source": {
+      "name": "IETF — RFC 2131: Dynamic Host Configuration Protocol",
+      "url": "https://www.rfc-editor.org/rfc/rfc2131"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Quantos bits possui um endereço IPv4?",
+    "o": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0396",
+    "level": "medio",
+    "factId": "qm-0396",
+    "topic": "tecnologia",
+    "explanation": "O cabeçalho IPv4 define endereços de origem e destino com 32 bits.",
+    "source": {
+      "name": "IETF — RFC 791: Internet Protocol",
+      "url": "https://www.rfc-editor.org/rfc/rfc791"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "No formato JSON, um objeto é formado principalmente por quê?",
+    "o": [
+      "Pares nome-valor",
+      "Apenas números binários",
+      "Linhas e colunas fixas",
+      "Comandos SQL"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0397",
+    "level": "medio",
+    "factId": "qm-0397",
+    "topic": "tecnologia",
+    "explanation": "A especificação JSON define objeto como uma coleção não ordenada de pares nome-valor.",
+    "source": {
+      "name": "IETF — RFC 8259: JSON",
+      "url": "https://www.rfc-editor.org/rfc/rfc8259"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Em um banco de dados relacional, qual restrição é usada para identificar unicamente cada linha de uma tabela?",
+    "o": [
+      "PRIMARY KEY",
+      "ORDER BY",
+      "GROUP BY",
+      "VIEW"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0398",
+    "level": "medio",
+    "factId": "qm-0398",
+    "topic": "tecnologia",
+    "explanation": "Uma PRIMARY KEY identifica de forma única as linhas de uma tabela.",
+    "source": {
+      "name": "SQLite — CREATE TABLE: PRIMARY KEY",
+      "url": "https://www.sqlite.org/lang_createtable.html#primkeyconst"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Quantos bits possui o valor de saída do algoritmo SHA-256?",
+    "o": [
+      "128",
+      "160",
+      "256",
+      "512"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0399",
+    "level": "medio",
+    "factId": "qm-0399",
+    "topic": "tecnologia",
+    "explanation": "SHA-256 pertence à família SHA-2 e produz um resumo de mensagem de 256 bits.",
+    "source": {
+      "name": "NIST — FIPS 180-4 Secure Hash Standard",
+      "url": "https://csrc.nist.gov/pubs/fips/180-4/upd1/final"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Qual prática é recomendada pela OWASP para reduzir o risco de SQL Injection ao enviar valores para consultas?",
+    "o": [
+      "Consultas parametrizadas",
+      "Concatenar diretamente a entrada do usuário",
+      "Desativar índices",
+      "Usar apenas letras maiúsculas no SQL"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0400",
+    "level": "medio",
+    "factId": "qm-0400",
+    "topic": "tecnologia",
+    "explanation": "A OWASP recomenda consultas preparadas com parâmetros como defesa principal contra SQL Injection.",
+    "source": {
+      "name": "OWASP — SQL Injection Prevention Cheat Sheet",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Qual método HTTP é definido principalmente para solicitar a transferência de uma representação atual de um recurso?",
+    "o": [
+      "GET",
+      "DELETE",
+      "PATCH",
+      "CONNECT"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0401",
+    "level": "medio",
+    "factId": "qm-0401",
+    "topic": "tecnologia",
+    "explanation": "O método GET solicita a transferência de uma representação atual do recurso de destino.",
+    "source": {
+      "name": "IETF — RFC 9110: GET",
+      "url": "https://www.rfc-editor.org/rfc/rfc9110.html#name-get"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "No Git, qual comando mostra o estado dos arquivos da árvore de trabalho e da área de staging?",
+    "o": [
+      "git status",
+      "git tag",
+      "git bisect",
+      "git gc"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0402",
+    "level": "medio",
+    "factId": "qm-0402",
+    "topic": "tecnologia",
+    "explanation": "git status mostra o estado da árvore de trabalho e da área de staging.",
+    "source": {
+      "name": "Git — git-status Documentation",
+      "url": "https://git-scm.com/docs/git-status"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Qual é a sequência clássica do three-way handshake usado para estabelecer uma conexão TCP?",
+    "o": [
+      "SYN, SYN-ACK, ACK",
+      "ACK, SYN, FIN",
+      "SYN, FIN, ACK",
+      "FIN, FIN-ACK, ACK"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0403",
+    "level": "dificil",
+    "factId": "qm-0403",
+    "topic": "tecnologia",
+    "explanation": "O estabelecimento normal de uma conexão TCP usa a troca SYN, SYN-ACK e ACK.",
+    "source": {
+      "name": "IETF — RFC 9293: Transmission Control Protocol",
+      "url": "https://www.rfc-editor.org/rfc/rfc9293.html"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "No HTTP/2, qual recurso permite intercalar múltiplos fluxos independentes dentro de uma única conexão?",
+    "o": [
+      "Multiplexação de streams",
+      "NAT estático",
+      "Fragmentação IPv4",
+      "Polling obrigatório"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0404",
+    "level": "dificil",
+    "factId": "qm-0404",
+    "topic": "tecnologia",
+    "explanation": "HTTP/2 multiplexa vários streams independentes dentro de uma mesma conexão.",
+    "source": {
+      "name": "IETF — RFC 9113: HTTP/2",
+      "url": "https://www.rfc-editor.org/rfc/rfc9113.html"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "No DNS, qual tipo de registro indica os servidores responsáveis por receber e-mail para um domínio?",
+    "o": [
+      "MX",
+      "PTR",
+      "TXT",
+      "AAAA"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0405",
+    "level": "dificil",
+    "factId": "qm-0405",
+    "topic": "tecnologia",
+    "explanation": "Registros MX, de mail exchange, especificam os hosts que atuam como servidores de correio para um domínio.",
+    "source": {
+      "name": "IETF — RFC 1035: Domain Names",
+      "url": "https://www.rfc-editor.org/rfc/rfc1035"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Na codificação Base64 padrão, quantos caracteres são usados para representar cada grupo completo de 3 bytes de entrada?",
+    "o": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0406",
+    "level": "dificil",
+    "factId": "qm-0406",
+    "topic": "tecnologia",
+    "explanation": "Base64 divide 24 bits, ou 3 bytes, em quatro grupos de 6 bits, produzindo 4 caracteres.",
+    "source": {
+      "name": "IETF — RFC 4648: Base-N Encodings",
+      "url": "https://www.rfc-editor.org/rfc/rfc4648"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Em IPv4, quantos endereços existem ao todo em um bloco CIDR /24?",
+    "o": [
+      "64",
+      "128",
+      "256",
+      "512"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0407",
+    "level": "dificil",
+    "factId": "qm-0407",
+    "topic": "tecnologia",
+    "explanation": "Um prefixo /24 deixa 8 bits para os endereços do bloco; 2⁸ = 256 endereços no total.",
+    "source": {
+      "name": "IETF — RFC 4632: Classless Inter-domain Routing",
+      "url": "https://www.rfc-editor.org/rfc/rfc4632"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Tecnologia",
+    "q": "Qual é o maior valor de ponto de código definido no espaço de códigos Unicode?",
+    "o": [
+      "U+FFFF",
+      "U+10FFFF",
+      "U+FFFFFF",
+      "U+7FFFFFFF"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0408",
+    "level": "dificil",
+    "factId": "qm-0408",
+    "topic": "tecnologia",
+    "explanation": "O espaço de códigos Unicode vai de U+0000 até U+10FFFF.",
+    "source": {
+      "name": "Unicode Consortium — Glossary: Code Point",
+      "url": "https://www.unicode.org/glossary/#code_point"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
