@@ -9609,5 +9609,505 @@
     "expiresAt": "2027-09-30T00:00:00.000Z",
     "status": "approved",
     "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Qual criatura hostil do Minecraft se aproxima silenciosamente e explode perto do jogador?",
+    "o": [
+      "Creeper",
+      "Enderman",
+      "Villager",
+      "Snow Golem"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0469",
+    "level": "facil",
+    "factId": "qm-0469",
+    "topic": "games",
+    "explanation": "O Creeper é uma criatura hostil do Minecraft conhecida por se aproximar silenciosamente e explodir quando chega perto do jogador.",
+    "source": {
+      "name": "Minecraft — Tudo o que você precisa saber sobre criaturas",
+      "url": "https://www.minecraft.net/pt-br/article/minecraft-mobs"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Em God of War (2018), qual é o nome do filho de Kratos?",
+    "o": [
+      "Atreus",
+      "Baldur",
+      "Týr",
+      "Mimir"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0470",
+    "level": "facil",
+    "factId": "qm-0470",
+    "topic": "games",
+    "explanation": "Em God of War (2018), Kratos viaja ao lado de seu filho Atreus.",
+    "source": {
+      "name": "PlayStation — God of War",
+      "url": "https://www.playstation.com/pt-br/games/god-of-war/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2018"
+  },
+  {
+    "c": "Games",
+    "q": "Na série Halo, como é conhecido o Spartan-117?",
+    "o": [
+      "Master Chief",
+      "Arbiter",
+      "Cortana",
+      "Captain Keyes"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0471",
+    "level": "facil",
+    "factId": "qm-0471",
+    "topic": "games",
+    "explanation": "Spartan-117 é o soldado conhecido como Master Chief, figura central da série Halo.",
+    "source": {
+      "name": "Xbox — Halo: The Master Chief Collection",
+      "url": "https://www.xbox.com/en-US/games/halo-the-master-chief-collection"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Quais são os dois personagens principais destacados em The Last of Us Part I?",
+    "o": [
+      "Joel e Ellie",
+      "Abby e Lev",
+      "Tommy e Maria",
+      "Tess e Bill"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0472",
+    "level": "facil",
+    "factId": "qm-0472",
+    "topic": "games",
+    "explanation": "Joel e Ellie formam a dupla central de The Last of Us Part I.",
+    "source": {
+      "name": "PlayStation — The Last of Us",
+      "url": "https://www.playstation.com/pt-br/the-last-of-us/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Qual é o nome da caçadora de recompensas protagonista da série Metroid?",
+    "o": [
+      "Samus Aran",
+      "Zelda",
+      "Bayonetta",
+      "Rivet"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0473",
+    "level": "facil",
+    "factId": "qm-0473",
+    "topic": "games",
+    "explanation": "Samus Aran é a caçadora de recompensas protagonista da série Metroid.",
+    "source": {
+      "name": "Nintendo — Metroid Dread",
+      "url": "https://www.nintendo.com/us/whatsnew/suit-up-as-samus-in-metroid-dread-available-now/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Em Splatoon 3, como se chama a espécie semelhante a lula controlada pelo jogador?",
+    "o": [
+      "Inkling",
+      "Pikmin",
+      "Lombax",
+      "Koopa"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0474",
+    "level": "facil",
+    "factId": "qm-0474",
+    "topic": "games",
+    "explanation": "Splatoon 3 descreve o personagem controlado como um Inkling semelhante a uma lula.",
+    "source": {
+      "name": "Nintendo — Splatoon 3",
+      "url": "https://www.nintendo.com/store/products/splatoon-3-switch/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Como se chamam as pequenas criaturas semelhantes a plantas que o jogador guia em Pikmin 4?",
+    "o": [
+      "Pikmin",
+      "Chao",
+      "Lumas",
+      "Toads"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0475",
+    "level": "facil",
+    "factId": "qm-0475",
+    "topic": "games",
+    "explanation": "Pikmin 4 apresenta pequenas criaturas semelhantes a plantas chamadas Pikmin, que possuem habilidades distintas.",
+    "source": {
+      "name": "Nintendo — Pikmin 4",
+      "url": "https://www.nintendo.com/us/store/products/pikmin-4-117531/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Em Splatoon 3, quantos jogadores há em cada equipe nas batalhas padrão 4-contra-4?",
+    "o": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0476",
+    "level": "medio",
+    "factId": "qm-0476",
+    "topic": "games",
+    "explanation": "As batalhas padrão destacadas na página oficial de Splatoon 3 são disputadas em equipes de quatro jogadores contra quatro.",
+    "source": {
+      "name": "Nintendo — Splatoon 3",
+      "url": "https://www.nintendo.com/store/products/splatoon-3-switch/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "ASTRO BOT, lançado em 2024, é exclusivo de qual console?",
+    "o": [
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Nintendo Switch"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0477",
+    "level": "medio",
+    "factId": "qm-0477",
+    "topic": "games",
+    "explanation": "ASTRO BOT é um jogo lançado para PlayStation 5.",
+    "source": {
+      "name": "PlayStation — ASTRO BOT",
+      "url": "https://www.playstation.com/pt-br/games/astro-bot/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2024"
+  },
+  {
+    "c": "Games",
+    "q": "Em Ratchet & Clank: Em Uma Outra Dimensão, qual é o nome da Lombax de outra dimensão?",
+    "o": [
+      "Rivet",
+      "Kit",
+      "Angela",
+      "Talwyn"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0478",
+    "level": "medio",
+    "factId": "qm-0478",
+    "topic": "games",
+    "explanation": "Rivet é apresentada como uma nova Lombax misteriosa vinda de outra dimensão.",
+    "source": {
+      "name": "PlayStation — Ratchet & Clank: Em Uma Outra Dimensão",
+      "url": "https://www.playstation.com/pt-br/games/ratchet-and-clank-rift-apart/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Em Metroid Dread, em qual planeta Samus investiga uma transmissão misteriosa?",
+    "o": [
+      "ZDR",
+      "SR388",
+      "Tallon IV",
+      "Zebes"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0479",
+    "level": "medio",
+    "factId": "qm-0479",
+    "topic": "games",
+    "explanation": "Em Metroid Dread, Samus é atraída ao planeta ZDR após uma transmissão misteriosa.",
+    "source": {
+      "name": "Nintendo — Metroid Dread",
+      "url": "https://www.nintendo.com/us/whatsnew/suit-up-as-samus-in-metroid-dread-available-now/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "No Minecraft, qual modo permite construir sem as restrições típicas de sobrevivência?",
+    "o": [
+      "Criativo",
+      "Sobrevivência",
+      "Aventura",
+      "Espectador"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0480",
+    "level": "medio",
+    "factId": "qm-0480",
+    "topic": "games",
+    "explanation": "O modo Criativo permite construir sem as restrições típicas encontradas no modo Sobrevivência.",
+    "source": {
+      "name": "Minecraft — O que é Minecraft?",
+      "url": "https://www.minecraft.net/pt-br/about-minecraft"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Quantos jogos compõem Halo: The Master Chief Collection segundo a página oficial do Xbox?",
+    "o": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0481",
+    "level": "medio",
+    "factId": "qm-0481",
+    "topic": "games",
+    "explanation": "A página oficial do Xbox informa que The Master Chief Collection reúne seis jogos em uma única experiência.",
+    "source": {
+      "name": "Xbox — Halo: The Master Chief Collection",
+      "url": "https://www.xbox.com/en-US/games/halo-the-master-chief-collection"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Em Cyberpunk 2077, qual é o nome da megalópole onde se passa a aventura?",
+    "o": [
+      "Night City",
+      "Liberty City",
+      "Vice City",
+      "Rapture"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0482",
+    "level": "medio",
+    "factId": "qm-0482",
+    "topic": "games",
+    "explanation": "Cyberpunk 2077 se passa em Night City, descrita oficialmente como uma grande megalópole.",
+    "source": {
+      "name": "Cyberpunk 2077 — Site oficial",
+      "url": "https://www.cyberpunk.net/us/en/cyberpunk-2077"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Em Metroid Dread, o que significa a sigla E.M.M.I.?",
+    "o": [
+      "Extraplanetary Multiform Mobile Identifiers",
+      "Experimental Mechanical Mission Interfaces",
+      "Extraterrestrial Mobile Mapping Instruments",
+      "Enhanced Modular Machine Intelligence"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0483",
+    "level": "dificil",
+    "factId": "qm-0483",
+    "topic": "games",
+    "explanation": "E.M.M.I. significa Extraplanetary Multiform Mobile Identifiers, nome dos robôs de pesquisa presentes em Metroid Dread.",
+    "source": {
+      "name": "Nintendo — Metroid Dread",
+      "url": "https://www.nintendo.com/us/whatsnew/suit-up-as-samus-in-metroid-dread-available-now/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Quantos bots podem ser resgatados em ASTRO BOT segundo a página oficial do PlayStation?",
+    "o": [
+      "300",
+      "150",
+      "200",
+      "500"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0484",
+    "level": "dificil",
+    "factId": "qm-0484",
+    "topic": "games",
+    "explanation": "A página oficial informa que ASTRO BOT possui 300 bots para resgatar.",
+    "source": {
+      "name": "PlayStation — ASTRO BOT",
+      "url": "https://www.playstation.com/pt-br/games/astro-bot/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2024"
+  },
+  {
+    "c": "Games",
+    "q": "Em Elden Ring, como são chamados os fragmentos do Elden Ring reivindicados pelos semideuses?",
+    "o": [
+      "Great Runes",
+      "Elden Shards",
+      "Grace Stones",
+      "Golden Seals"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0485",
+    "level": "dificil",
+    "factId": "qm-0485",
+    "topic": "games",
+    "explanation": "Os semideuses reivindicaram fragmentos do Elden Ring conhecidos como Great Runes.",
+    "source": {
+      "name": "Bandai Namco — Elden Ring",
+      "url": "https://www.bandainamcoent.com/games/elden-ring"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Em Elden Ring, como é chamada a guerra provocada pela disputa em torno das Great Runes?",
+    "o": [
+      "The Shattering",
+      "The Sundering",
+      "The Great Collapse",
+      "The Golden War"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0486",
+    "level": "dificil",
+    "factId": "qm-0486",
+    "topic": "games",
+    "explanation": "A guerra desencadeada pela disputa e pelo poder das Great Runes é chamada de The Shattering.",
+    "source": {
+      "name": "Bandai Namco — Elden Ring",
+      "url": "https://www.bandainamcoent.com/games/elden-ring"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Games",
+    "q": "Em que data Portal foi lançado originalmente no Steam?",
+    "o": [
+      "10 de outubro de 2007",
+      "18 de abril de 2011",
+      "16 de novembro de 2004",
+      "17 de novembro de 2009"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0487",
+    "level": "dificil",
+    "factId": "qm-0487",
+    "topic": "games",
+    "explanation": "A página oficial de Portal no Steam registra o lançamento em 10 de outubro de 2007.",
+    "source": {
+      "name": "Steam — Portal",
+      "url": "https://store.steampowered.com/app/400/Portal/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2007"
+  },
+  {
+    "c": "Games",
+    "q": "Qual estúdio desenvolveu ASTRO BOT?",
+    "o": [
+      "Team ASOBI",
+      "Insomniac Games",
+      "Naughty Dog",
+      "Guerrilla Games"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0488",
+    "level": "dificil",
+    "factId": "qm-0488",
+    "topic": "games",
+    "explanation": "ASTRO BOT foi desenvolvido pela Team ASOBI, integrante da PlayStation Studios.",
+    "source": {
+      "name": "PlayStation — ASTRO BOT",
+      "url": "https://www.playstation.com/pt-br/games/astro-bot/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2024"
   }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
