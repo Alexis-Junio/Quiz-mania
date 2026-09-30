@@ -7107,4 +7107,505 @@
     "status": "approved",
     "referencePeriod": null
   }
+,
+  {
+    "c": "Bíblia",
+    "q": "Segundo Gênesis 37, qual filho de Jacó recebeu de seu pai uma túnica especial?",
+    "o": [
+      "José",
+      "Benjamim",
+      "Judá",
+      "Rúben"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0369",
+    "level": "facil",
+    "factId": "qm-0369",
+    "topic": "biblia",
+    "explanation": "Gênesis 37 relata que Israel, também chamado Jacó, amava José de modo especial e lhe deu uma túnica especial.",
+    "source": {
+      "name": "Gênesis 37 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Genesis+37&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Josué 6, as muralhas de qual cidade caíram após o povo seguir as instruções dadas a Josué?",
+    "o": [
+      "Jerusalém",
+      "Jericó",
+      "Betel",
+      "Hebrom"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0370",
+    "level": "facil",
+    "factId": "qm-0370",
+    "topic": "biblia",
+    "explanation": "Josué 6 narra a queda das muralhas de Jericó depois que Israel cumpriu as instruções dadas por Deus.",
+    "source": {
+      "name": "Josué 6 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Joshua+6&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Jonas 1, qual profeta foi engolido por um grande peixe depois de ser lançado ao mar?",
+    "o": [
+      "Amós",
+      "Jonas",
+      "Oséias",
+      "Miquéias"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0371",
+    "level": "facil",
+    "factId": "qm-0371",
+    "topic": "biblia",
+    "explanation": "Jonas 1 relata que, depois de ser lançado ao mar, Jonas foi engolido por um grande peixe.",
+    "source": {
+      "name": "Jonas 1 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Jonah+1&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Rute 1, como se chamava a sogra que Rute decidiu acompanhar?",
+    "o": [
+      "Marta",
+      "Noemi",
+      "Sara",
+      "Raquel"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0372",
+    "level": "facil",
+    "factId": "qm-0372",
+    "topic": "biblia",
+    "explanation": "Rute decidiu permanecer com sua sogra Noemi e acompanhá-la em seu retorno.",
+    "source": {
+      "name": "Rute 1 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Ruth+1&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Mateus 2, quais presentes são mencionados como oferecidos pelos magos a Jesus?",
+    "o": [
+      "Ouro, prata e bronze",
+      "Ouro, incenso e mirra",
+      "Pão, vinho e azeite",
+      "Incenso, azeite e prata"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0373",
+    "level": "facil",
+    "factId": "qm-0373",
+    "topic": "biblia",
+    "explanation": "Mateus 2 menciona ouro, incenso e mirra entre os presentes oferecidos pelos magos.",
+    "source": {
+      "name": "Mateus 2 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Matthew+2&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Lucas 19, quem subiu em uma árvore para conseguir ver Jesus passar?",
+    "o": [
+      "Bartimeu",
+      "Zaqueu",
+      "Nicodemos",
+      "Jairo"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0374",
+    "level": "facil",
+    "factId": "qm-0374",
+    "topic": "biblia",
+    "explanation": "Lucas 19 relata que Zaqueu subiu numa figueira-brava para conseguir ver Jesus.",
+    "source": {
+      "name": "Lucas 19 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Luke+19&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo João 11, quem Jesus chamou para fora do túmulo depois de estar morto havia quatro dias?",
+    "o": [
+      "Lázaro",
+      "Estêvão",
+      "Jairo",
+      "Bartimeu"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0375",
+    "level": "facil",
+    "factId": "qm-0375",
+    "topic": "biblia",
+    "explanation": "João 11 relata que Lázaro estava morto havia quatro dias quando Jesus o chamou para fora do túmulo.",
+    "source": {
+      "name": "João 11 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=John+11&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Juízes 7, com quantos homens Gideão ficou para enfrentar o exército midianita?",
+    "o": [
+      "100",
+      "300",
+      "600",
+      "1.000"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0376",
+    "level": "medio",
+    "factId": "qm-0376",
+    "topic": "biblia",
+    "explanation": "Juízes 7 relata que o grupo de Gideão foi reduzido a 300 homens.",
+    "source": {
+      "name": "Juízes 7 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Judges+7&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo 1 Reis 18, qual profeta confrontou os profetas de Baal no monte Carmelo?",
+    "o": [
+      "Eliseu",
+      "Elias",
+      "Isaías",
+      "Jeremias"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0377",
+    "level": "medio",
+    "factId": "qm-0377",
+    "topic": "biblia",
+    "explanation": "1 Reis 18 relata o confronto de Elias com os profetas de Baal no monte Carmelo.",
+    "source": {
+      "name": "1 Reis 18 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=1+Kings+18&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo 2 Reis 5, quantas vezes Naamã mergulhou no rio Jordão antes de ser curado?",
+    "o": [
+      "3",
+      "5",
+      "7",
+      "12"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0378",
+    "level": "medio",
+    "factId": "qm-0378",
+    "topic": "biblia",
+    "explanation": "Naamã mergulhou sete vezes no Jordão, conforme a orientação recebida por meio de Eliseu.",
+    "source": {
+      "name": "2 Reis 5 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=2+Kings+5&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Ester 2, qual era o nome hebraico de Ester?",
+    "o": [
+      "Hadassa",
+      "Miriã",
+      "Débora",
+      "Abigail"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0379",
+    "level": "medio",
+    "factId": "qm-0379",
+    "topic": "biblia",
+    "explanation": "Ester 2 informa que Ester também era conhecida pelo nome hebraico Hadassa.",
+    "source": {
+      "name": "Ester 2 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Esther+2&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Neemias 2, as muralhas de qual cidade Neemias decidiu reconstruir?",
+    "o": [
+      "Samaria",
+      "Belém",
+      "Jerusalém",
+      "Jericó"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0380",
+    "level": "medio",
+    "factId": "qm-0380",
+    "topic": "biblia",
+    "explanation": "Neemias 2 descreve o plano de Neemias para reconstruir as muralhas de Jerusalém.",
+    "source": {
+      "name": "Neemias 2 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Nehemiah+2&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Atos 9, para qual cidade Saulo viajava quando teve a visão de Jesus?",
+    "o": [
+      "Jerusalém",
+      "Damasco",
+      "Antioquia",
+      "Tarso"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0381",
+    "level": "medio",
+    "factId": "qm-0381",
+    "topic": "biblia",
+    "explanation": "Atos 9 relata que Saulo seguia para Damasco quando uma luz do céu o cercou e ele ouviu a voz de Jesus.",
+    "source": {
+      "name": "Atos 9 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Acts+9&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Atos 16, em qual cidade Paulo e Silas foram presos depois da libertação de uma jovem escravizada?",
+    "o": [
+      "Éfeso",
+      "Corinto",
+      "Filipos",
+      "Tessalônica"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0382",
+    "level": "medio",
+    "factId": "qm-0382",
+    "topic": "biblia",
+    "explanation": "Atos 16 situa a prisão de Paulo e Silas em Filipos.",
+    "source": {
+      "name": "Atos 16 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Acts+16&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Gênesis 14, Melquisedeque era rei de qual cidade?",
+    "o": [
+      "Salém",
+      "Siquém",
+      "Hebrom",
+      "Gerar"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0383",
+    "level": "dificil",
+    "factId": "qm-0383",
+    "topic": "biblia",
+    "explanation": "Gênesis 14 identifica Melquisedeque como rei de Salém e sacerdote do Deus Altíssimo.",
+    "source": {
+      "name": "Gênesis 14 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Genesis+14&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Números 22, qual animal falou com Balaão durante sua viagem?",
+    "o": [
+      "Cavalo",
+      "Camelo",
+      "Jumenta",
+      "Ovelha"
+    ],
+    "a": 2,
+    "t": "geral",
+    "id": "qm-0384",
+    "level": "dificil",
+    "factId": "qm-0384",
+    "topic": "biblia",
+    "explanation": "Números 22 relata que Deus permitiu que a jumenta de Balaão falasse.",
+    "source": {
+      "name": "Números 22 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Numbers+22&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Juízes 4, qual mulher matou Sísera usando uma estaca de tenda?",
+    "o": [
+      "Débora",
+      "Jael",
+      "Rute",
+      "Mical"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0385",
+    "level": "dificil",
+    "factId": "qm-0385",
+    "topic": "biblia",
+    "explanation": "Juízes 4 relata que Jael matou Sísera usando uma estaca de tenda.",
+    "source": {
+      "name": "Juízes 4 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Judges+4&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo 2 Samuel 6, quem morreu depois de tocar na arca de Deus quando os bois tropeçaram?",
+    "o": [
+      "Uzá",
+      "Obede-Edom",
+      "Abiatar",
+      "Joabe"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0386",
+    "level": "dificil",
+    "factId": "qm-0386",
+    "topic": "biblia",
+    "explanation": "2 Samuel 6 relata que Uzá estendeu a mão para segurar a arca e morreu naquele momento.",
+    "source": {
+      "name": "2 Samuel 6 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=2+Samuel+6&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Atos 18, qual casal explicou a Apolo com maior precisão o caminho de Deus?",
+    "o": [
+      "Ananias e Safira",
+      "Priscila e Áquila",
+      "Félix e Drusila",
+      "Herodes e Berenice"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0387",
+    "level": "dificil",
+    "factId": "qm-0387",
+    "topic": "biblia",
+    "explanation": "Atos 18 relata que Priscila e Áquila ouviram Apolo e lhe explicaram com maior precisão o caminho de Deus.",
+    "source": {
+      "name": "Atos 18 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Acts+18&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Bíblia",
+    "q": "Segundo Atos 20, qual jovem caiu de uma janela do terceiro andar durante um longo discurso de Paulo?",
+    "o": [
+      "Tíquico",
+      "Êutico",
+      "Trófimo",
+      "Aristarco"
+    ],
+    "a": 1,
+    "t": "geral",
+    "id": "qm-0388",
+    "level": "dificil",
+    "factId": "qm-0388",
+    "topic": "biblia",
+    "explanation": "Atos 20 relata que Êutico, vencido pelo sono, caiu da janela do terceiro andar enquanto Paulo falava.",
+    "source": {
+      "name": "Atos 20 — Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=Acts+20&version=NIV"
+    },
+    "verifiedAt": "2026-09-29T00:00:00.000Z",
+    "expiresAt": "2027-09-29T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
