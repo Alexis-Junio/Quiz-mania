@@ -11109,5 +11109,505 @@
     "expiresAt": "2027-10-01T00:00:00.000Z",
     "status": "approved",
     "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Carros (2006), qual é o nome do carro de corrida protagonista?",
+    "o": [
+      "Relâmpago McQueen",
+      "Mate",
+      "Doc Hudson",
+      "Chick Hicks"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0529",
+    "level": "facil",
+    "factId": "qm-0529",
+    "topic": "animacoes",
+    "explanation": "Relâmpago McQueen é o jovem carro de corrida protagonista de Carros.",
+    "source": {
+      "name": "Pixar — Cars",
+      "url": "https://www.pixar.com/cars"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2006"
+  },
+  {
+    "c": "Animações",
+    "q": "Em Up (2009), qual é o nome do idoso que viaja com sua casa presa a balões?",
+    "o": [
+      "Carl Fredricksen",
+      "Russell",
+      "Charles Muntz",
+      "Dug"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0530",
+    "level": "facil",
+    "factId": "qm-0530",
+    "topic": "animacoes",
+    "explanation": "Carl Fredricksen prende milhares de balões à casa e parte em uma aventura pela América do Sul.",
+    "source": {
+      "name": "Pixar — Up",
+      "url": "https://www.pixar.com/upfilm"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2009"
+  },
+  {
+    "c": "Animações",
+    "q": "Em Monstros S.A., quem é o melhor amigo e assistente de Sulley?",
+    "o": [
+      "Mike Wazowski",
+      "Randall Boggs",
+      "Waternoose",
+      "Roz"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0531",
+    "level": "facil",
+    "factId": "qm-0531",
+    "topic": "animacoes",
+    "explanation": "Mike Wazowski é o melhor amigo, colega de trabalho e companheiro de Sulley.",
+    "source": {
+      "name": "Pixar — Monsters, Inc.",
+      "url": "https://www.pixar.com/monsters-inc"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Red: Crescer é uma Fera, em que animal Mei se transforma quando fica muito emocionada?",
+    "o": [
+      "Panda-vermelho gigante",
+      "Raposa",
+      "Tigre",
+      "Urso-polar"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0532",
+    "level": "facil",
+    "factId": "qm-0532",
+    "topic": "animacoes",
+    "explanation": "Mei se transforma em um panda-vermelho gigante quando suas emoções ficam intensas.",
+    "source": {
+      "name": "Pixar — Turning Red",
+      "url": "https://www.pixar.com/turning-red"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Luca (2021), qual é o nome do amigo de Luca que também é um monstro marinho?",
+    "o": [
+      "Alberto Scorfano",
+      "Ercole Visconti",
+      "Massimo Marcovaldo",
+      "Lorenzo Paguro"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0533",
+    "level": "facil",
+    "factId": "qm-0533",
+    "topic": "animacoes",
+    "explanation": "Alberto Scorfano é o amigo aventureiro de Luca e, assim como ele, também é um monstro marinho.",
+    "source": {
+      "name": "Pixar — Luca",
+      "url": "https://www.pixar.com/luca"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2021"
+  },
+  {
+    "c": "Animações",
+    "q": "Qual é o nome do panda protagonista de Kung Fu Panda?",
+    "o": [
+      "Po",
+      "Shifu",
+      "Tai Lung",
+      "Oogway"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0534",
+    "level": "facil",
+    "factId": "qm-0534",
+    "topic": "animacoes",
+    "explanation": "Po é o protagonista de Kung Fu Panda e precisa abraçar quem realmente é para se tornar o verdadeiro Guerreiro Dragão.",
+    "source": {
+      "name": "DreamWorks — Kung Fu Panda",
+      "url": "https://www.dreamworks.com/movies/kung-fu-panda"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Homem-Aranha no Aranhaverso, qual adolescente do Brooklyn assume o papel de Homem-Aranha?",
+    "o": [
+      "Miles Morales",
+      "Peter Parker",
+      "Gwen Stacy",
+      "Miguel O'Hara"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0535",
+    "level": "facil",
+    "factId": "qm-0535",
+    "topic": "animacoes",
+    "explanation": "O filme apresenta Miles Morales, um adolescente do Brooklyn, como um dos heróis capazes de usar a máscara do Homem-Aranha.",
+    "source": {
+      "name": "Sony Pictures Animation — Spider-Man: Into the Spider-Verse",
+      "url": "https://www.sonypicturesanimation.com/projects/films/spider-man-spider-verse"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Soul, qual é a profissão de Joe Gardner no início do filme?",
+    "o": [
+      "Professor de música",
+      "Médico",
+      "Jornalista",
+      "Chef de cozinha"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0536",
+    "level": "medio",
+    "factId": "qm-0536",
+    "topic": "animacoes",
+    "explanation": "Joe Gardner trabalha como professor de banda em uma escola e sonha em viver profissionalmente do jazz.",
+    "source": {
+      "name": "Pixar — Soul",
+      "url": "https://www.pixar.com/soul"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Os Incríveis, qual é o principal superpoder de Flecha?",
+    "o": [
+      "Supervelocidade",
+      "Invisibilidade",
+      "Elasticidade",
+      "Superforça"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0537",
+    "level": "medio",
+    "factId": "qm-0537",
+    "topic": "animacoes",
+    "explanation": "Flecha, filho de Bob e Helen Parr, possui o poder de correr em supervelocidade.",
+    "source": {
+      "name": "Pixar — The Incredibles",
+      "url": "https://www.pixar.com/the-incredibles"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Monstros S.A., como se chama a cidade onde vivem Sulley e Mike?",
+    "o": [
+      "Monstrópolis",
+      "Radiator Springs",
+      "Portorosso",
+      "Metroville"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0538",
+    "level": "medio",
+    "factId": "qm-0538",
+    "topic": "animacoes",
+    "explanation": "Sulley e Mike vivem e trabalham em Monstrópolis, cidade do mundo dos monstros.",
+    "source": {
+      "name": "Pixar — Monsters, Inc.",
+      "url": "https://www.pixar.com/monsters-inc"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Carros, em qual pequena cidade Relâmpago McQueen acaba se perdendo?",
+    "o": [
+      "Radiator Springs",
+      "Motor City",
+      "Hill Valley",
+      "Monstrópolis"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0539",
+    "level": "medio",
+    "factId": "qm-0539",
+    "topic": "animacoes",
+    "explanation": "Relâmpago McQueen se perde em Radiator Springs, onde conhece personagens que mudam sua visão sobre a vida.",
+    "source": {
+      "name": "Pixar — Cars",
+      "url": "https://www.pixar.com/cars"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Up, qual é o nome do escoteiro mirim que viaja acidentalmente com Carl?",
+    "o": [
+      "Russell",
+      "Dug",
+      "Kevin",
+      "Muntz"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0540",
+    "level": "medio",
+    "factId": "qm-0540",
+    "topic": "animacoes",
+    "explanation": "Russell é o garoto de oito anos que acaba viajando com Carl Fredricksen.",
+    "source": {
+      "name": "Pixar — Up",
+      "url": "https://www.pixar.com/upfilm"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Luca, qual é o nome da cidade fictícia da Riviera Italiana onde acontece boa parte da história?",
+    "o": [
+      "Portorosso",
+      "Monterosso",
+      "Bellagio",
+      "Ravello"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0541",
+    "level": "medio",
+    "factId": "qm-0541",
+    "topic": "animacoes",
+    "explanation": "A história de Luca se passa em Portorosso, uma cidade fictícia inspirada na Riviera Italiana.",
+    "source": {
+      "name": "Pixar — Luca",
+      "url": "https://www.pixar.com/luca"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Red: Crescer é uma Fera, qual é o nome da boy band favorita de Mei e suas amigas?",
+    "o": [
+      "4*Town",
+      "5ive",
+      "Boyz 4 Now",
+      "The Hex Girls"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0542",
+    "level": "medio",
+    "factId": "qm-0542",
+    "topic": "animacoes",
+    "explanation": "Mei e suas amigas são fãs da boy band fictícia 4*Town.",
+    "source": {
+      "name": "Pixar — Turning Red",
+      "url": "https://www.pixar.com/turning-red"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Carros, qual é o modelo e ano de Doc Hudson?",
+    "o": [
+      "Hudson Hornet 1951",
+      "Ford Mustang 1967",
+      "Chevrolet Bel Air 1957",
+      "Plymouth Fury 1958"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0543",
+    "level": "dificil",
+    "factId": "qm-0543",
+    "topic": "animacoes",
+    "explanation": "A Pixar descreve Doc Hudson como um Hudson Hornet de 1951.",
+    "source": {
+      "name": "Pixar — Cars",
+      "url": "https://www.pixar.com/cars"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1951"
+  },
+  {
+    "c": "Animações",
+    "q": "Em Monstros S.A., qual habilidade especial de Randall Boggs o ajuda a se esconder?",
+    "o": [
+      "Camuflagem semelhante à de um camaleão",
+      "Teletransporte",
+      "Invisibilidade permanente",
+      "Mudança de tamanho"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0544",
+    "level": "dificil",
+    "factId": "qm-0544",
+    "topic": "animacoes",
+    "explanation": "Randall possui habilidades de camuflagem comparadas às de um camaleão.",
+    "source": {
+      "name": "Pixar — Monsters, Inc.",
+      "url": "https://www.pixar.com/monsters-inc"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Em Soul, como se chama o lugar onde novas almas recebem personalidade antes de irem para a Terra?",
+    "o": [
+      "The Great Before",
+      "The Great Beyond",
+      "You Zone",
+      "Soul Station"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0545",
+    "level": "dificil",
+    "factId": "qm-0545",
+    "topic": "animacoes",
+    "explanation": "The Great Before é o lugar fantástico onde novas almas desenvolvem personalidades, peculiaridades e interesses antes de ir para a Terra.",
+    "source": {
+      "name": "Pixar — Soul",
+      "url": "https://www.pixar.com/soul"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Quais três diretores são creditados em Homem-Aranha no Aranhaverso?",
+    "o": [
+      "Bob Persichetti, Peter Ramsey e Rodney Rothman",
+      "Phil Lord, Chris Miller e Peter Ramsey",
+      "Brad Bird, Pete Docter e Lee Unkrich",
+      "Dean DeBlois, Chris Sanders e Kirk DeMicco"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0546",
+    "level": "dificil",
+    "factId": "qm-0546",
+    "topic": "animacoes",
+    "explanation": "A Sony Pictures Animation credita Bob Persichetti, Peter Ramsey e Rodney Rothman como diretores do filme.",
+    "source": {
+      "name": "Sony Pictures Animation — Spider-Man: Into the Spider-Verse",
+      "url": "https://www.sonypicturesanimation.com/projects/films/spider-man-spider-verse"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Animações",
+    "q": "Quem dirigiu Luca (2021), da Pixar?",
+    "o": [
+      "Enrico Casarosa",
+      "Domee Shi",
+      "Dan Scanlon",
+      "Peter Sohn"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0547",
+    "level": "dificil",
+    "factId": "qm-0547",
+    "topic": "animacoes",
+    "explanation": "Luca foi dirigido por Enrico Casarosa.",
+    "source": {
+      "name": "Pixar — Our Story",
+      "url": "https://www.pixar.com/our-story"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2021"
+  },
+  {
+    "c": "Animações",
+    "q": "Quem dirigiu Red: Crescer é uma Fera (2022), da Pixar?",
+    "o": [
+      "Domee Shi",
+      "Enrico Casarosa",
+      "Kemp Powers",
+      "Angus MacLane"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0548",
+    "level": "dificil",
+    "factId": "qm-0548",
+    "topic": "animacoes",
+    "explanation": "Red: Crescer é uma Fera foi dirigido por Domee Shi.",
+    "source": {
+      "name": "Pixar — Our Story",
+      "url": "https://www.pixar.com/our-story"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2022"
   }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
