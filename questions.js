@@ -13109,5 +13109,505 @@
     "expiresAt": "2027-10-01T00:00:00.000Z",
     "status": "approved",
     "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Qual nome Berners-Lee escolheu para o projeto entre World Wide Web, Information Mesh, Mine of Information e Information Mine?",
+    "o": [
+      "World Wide Web",
+      "Information Mesh",
+      "Mine of Information",
+      "Information Mine"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0609",
+    "level": "facil",
+    "factId": "qm-0609",
+    "topic": "internet",
+    "explanation": "Tim Berners-Lee escolheu o nome World Wide Web para o projeto que viria a se tornar a World Wide Web.",
+    "source": {
+      "name": "W3C — A Little History of the World Wide Web",
+      "url": "https://www.w3.org/People/Berners-Lee/History.html"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Qual era o endereço do primeiro site da World Wide Web?",
+    "o": [
+      "info.cern.ch",
+      "www.w3.org",
+      "home.cern",
+      "web.archive.org"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0610",
+    "level": "facil",
+    "factId": "qm-0610",
+    "topic": "internet",
+    "explanation": "O CERN registra info.cern.ch como o endereço do primeiro site e primeiro servidor Web.",
+    "source": {
+      "name": "CERN — A short history of the Web",
+      "url": "https://home.cern/science/computing/birth-web/short-history-web"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Quem escolheu o símbolo @ para separar o usuário do destino em endereços de e-mail de rede?",
+    "o": [
+      "Ray Tomlinson",
+      "Tim Berners-Lee",
+      "Jon Postel",
+      "Larry Page"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0611",
+    "level": "facil",
+    "factId": "qm-0611",
+    "topic": "internet",
+    "explanation": "Ray Tomlinson escolheu o símbolo @ ao desenvolver o primeiro sistema de e-mail em rede da ARPANET.",
+    "source": {
+      "name": "Internet Hall of Fame — Raymond Tomlinson",
+      "url": "https://www.internethalloffame.org/official-biography-raymond-tomlinson/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1971"
+  },
+  {
+    "c": "Internet",
+    "q": "O domínio de topo .br é classificado como quê?",
+    "o": [
+      "ccTLD de código de país",
+      "gTLD genérico",
+      "Subdomínio privado",
+      "Protocolo de rede"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0612",
+    "level": "facil",
+    "factId": "qm-0612",
+    "topic": "internet",
+    "explanation": "A IANA classifica .br como um country-code top-level domain, ou ccTLD, correspondente ao Brasil.",
+    "source": {
+      "name": "IANA — .BR Domain Delegation Data",
+      "url": "https://www.iana.org/domains/root/db/.br.html"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Qual arquivo de um site pode informar aos rastreadores quais áreas podem ou não ser rastreadas?",
+    "o": [
+      "robots.txt",
+      "sitemap.xml",
+      "index.html",
+      "manifest.json"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0613",
+    "level": "facil",
+    "factId": "qm-0613",
+    "topic": "internet",
+    "explanation": "O arquivo robots.txt contém regras que orientam rastreadores sobre quais partes de um site podem ser acessadas para rastreamento.",
+    "source": {
+      "name": "Google Search Central — Criar e enviar um arquivo robots.txt",
+      "url": "https://developers.google.com/crawling/docs/robots-txt/create-robots-txt?hl=pt-BR"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "No domínio whois.icann.org, qual parte representa o domínio de topo?",
+    "o": [
+      "org",
+      "icann",
+      "whois",
+      "www"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0614",
+    "level": "facil",
+    "factId": "qm-0614",
+    "topic": "internet",
+    "explanation": "Na hierarquia apresentada pela ICANN, org é o domínio de topo, icann é o segundo nível e whois é o terceiro nível.",
+    "source": {
+      "name": "ICANN — About Domain Names",
+      "url": "https://www.icann.org/resources/pages/about-domain-names-2018-08-30-en"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Como se chamava o primeiro navegador gráfico criado por Tim Berners-Lee?",
+    "o": [
+      "WorldWideWeb",
+      "Mosaic",
+      "Netscape Navigator",
+      "Lynx"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0615",
+    "level": "facil",
+    "factId": "qm-0615",
+    "topic": "internet",
+    "explanation": "Tim Berners-Lee escreveu em 1990 o primeiro navegador gráfico, chamado WorldWideWeb.",
+    "source": {
+      "name": "W3C — Tim Berners-Lee FAQ",
+      "url": "https://www.w3.org/People/Berners-Lee/FAQ.html"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1990"
+  },
+  {
+    "c": "Internet",
+    "q": "Em que data a ARPANET realizou a transição planejada de NCP para TCP/IP?",
+    "o": [
+      "1º de janeiro de 1983",
+      "1º de janeiro de 1973",
+      "30 de abril de 1993",
+      "1º de janeiro de 1990"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0616",
+    "level": "medio",
+    "factId": "qm-0616",
+    "topic": "internet",
+    "explanation": "A Internet Society registra 1º de janeiro de 1983 como a data da transição da ARPANET de NCP para TCP/IP.",
+    "source": {
+      "name": "Internet Society — A Brief History of the Internet",
+      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1983"
+  },
+  {
+    "c": "Internet",
+    "q": "O que o CERN fez com o software da World Wide Web em 30 de abril de 1993?",
+    "o": [
+      "Colocou-o em domínio público",
+      "Vendeu-o à Microsoft",
+      "Transformou-o em patente fechada",
+      "Desativou o projeto"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0617",
+    "level": "medio",
+    "factId": "qm-0617",
+    "topic": "internet",
+    "explanation": "Em 30 de abril de 1993, o CERN colocou o software da World Wide Web em domínio público.",
+    "source": {
+      "name": "CERN — The birth of the Web",
+      "url": "https://home.cern/science/computing/birth-web"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "30 de abril de 1993"
+  },
+  {
+    "c": "Internet",
+    "q": "A zona raiz do DNS contém as informações necessárias para localizar o quê?",
+    "o": [
+      "Domínios de topo",
+      "Senhas de usuários",
+      "Arquivos de sites",
+      "Histórico de navegação"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0618",
+    "level": "medio",
+    "factId": "qm-0618",
+    "topic": "internet",
+    "explanation": "A zona raiz fica no topo da hierarquia do DNS e contém as informações necessárias para localizar os domínios de topo.",
+    "source": {
+      "name": "ICANN — Root Zone",
+      "url": "https://www.icann.org/en/icann-acronyms-and-terms/root-zone-en"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Quantos operadores independentes administram as 13 identidades de servidores raiz do DNS?",
+    "o": [
+      "12",
+      "13",
+      "7",
+      "24"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0619",
+    "level": "medio",
+    "factId": "qm-0619",
+    "topic": "internet",
+    "explanation": "A ICANN informa que 12 operadores independentes administram 13 identidades de servidores raiz.",
+    "source": {
+      "name": "ICANN — The Root Server System",
+      "url": "https://www.icann.org/root-server-system-en"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Qual cabeçalho HTTP um servidor usa para enviar um cookie ao navegador?",
+    "o": [
+      "Set-Cookie",
+      "Cookie",
+      "Authorization",
+      "Location"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0620",
+    "level": "medio",
+    "factId": "qm-0620",
+    "topic": "internet",
+    "explanation": "O RFC 6265 define Set-Cookie como o cabeçalho de resposta usado pelo servidor para armazenar cookies no agente do usuário.",
+    "source": {
+      "name": "RFC Editor — RFC 6265",
+      "url": "https://www.rfc-editor.org/info/rfc6265/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Qual caractere marca o início do componente de consulta (query) em uma URI?",
+    "o": [
+      "?",
+      "#",
+      "&",
+      "@"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0621",
+    "level": "medio",
+    "factId": "qm-0621",
+    "topic": "internet",
+    "explanation": "No RFC 3986, o componente query é indicado pelo primeiro caractere de interrogação.",
+    "source": {
+      "name": "RFC Editor — RFC 3986",
+      "url": "https://www.rfc-editor.org/rfc/rfc3986.html"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Qual caractere marca o início do fragmento em uma URI?",
+    "o": [
+      "#",
+      "?",
+      "/",
+      "&"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0622",
+    "level": "medio",
+    "factId": "qm-0622",
+    "topic": "internet",
+    "explanation": "O RFC 3986 define o caractere # como indicador do início do fragmento de uma URI.",
+    "source": {
+      "name": "RFC Editor — RFC 3986",
+      "url": "https://www.rfc-editor.org/rfc/rfc3986.html"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Para evitar confusão com o nome da própria Web, como o navegador WorldWideWeb foi renomeado posteriormente?",
+    "o": [
+      "Nexus",
+      "Mosaic",
+      "Arena",
+      "ViolaWWW"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0623",
+    "level": "dificil",
+    "factId": "qm-0623",
+    "topic": "internet",
+    "explanation": "Tim Berners-Lee relata que posteriormente renomeou o aplicativo WorldWideWeb para Nexus.",
+    "source": {
+      "name": "W3C — Tim Berners-Lee FAQ",
+      "url": "https://www.w3.org/People/Berners-Lee/FAQ.html"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Qual era o endereço da primeira página Web, segundo o CERN?",
+    "o": [
+      "http://info.cern.ch/hypertext/WWW/TheProject.html",
+      "http://www.w3.org/index.html",
+      "http://cern.ch/worldwideweb.html",
+      "http://info.cern.ch/index.htm"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0624",
+    "level": "dificil",
+    "factId": "qm-0624",
+    "topic": "internet",
+    "explanation": "O CERN registra http://info.cern.ch/hypertext/WWW/TheProject.html como o endereço da primeira página Web.",
+    "source": {
+      "name": "CERN — A short history of the Web",
+      "url": "https://home.cern/science/computing/birth-web/short-history-web"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Quais são os cinco componentes nomeados da sintaxe genérica de uma URI no RFC 3986?",
+    "o": [
+      "Scheme, authority, path, query e fragment",
+      "Host, port, file, cookie e cache",
+      "Protocol, domain, packet, session e route",
+      "User, server, folder, header e body"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0625",
+    "level": "dificil",
+    "factId": "qm-0625",
+    "topic": "internet",
+    "explanation": "O RFC 3986 descreve a sequência hierárquica de componentes como scheme, authority, path, query e fragment.",
+    "source": {
+      "name": "RFC Editor — RFC 3986",
+      "url": "https://www.rfc-editor.org/rfc/rfc3986.html"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Segundo o RFC 5321, qual formato básico representa uma caixa postal de e-mail (Mailbox)?",
+    "o": [
+      "Local-part @ Domain",
+      "Domain @ Local-part",
+      "Host : Port",
+      "Scheme / Path"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0626",
+    "level": "dificil",
+    "factId": "qm-0626",
+    "topic": "internet",
+    "explanation": "O RFC 5321 define Mailbox como Local-part seguido de @ e de um Domain ou address-literal.",
+    "source": {
+      "name": "RFC Editor — RFC 5321",
+      "url": "https://www.rfc-editor.org/info/rfc5321/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Em um arquivo robots.txt, qual campo identifica a qual rastreador um grupo de regras se aplica?",
+    "o": [
+      "User-agent",
+      "Disallow",
+      "Sitemap",
+      "Allow"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0627",
+    "level": "dificil",
+    "factId": "qm-0627",
+    "topic": "internet",
+    "explanation": "No robots.txt, o campo User-agent identifica o rastreador ao qual o grupo de regras se aplica.",
+    "source": {
+      "name": "Google Search Central — Como o Google interpreta robots.txt",
+      "url": "https://developers.google.com/crawling/docs/robots-txt/robots-txt-spec?hl=pt-BR"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Internet",
+    "q": "Em que data o domínio de topo .br foi registrado, segundo a IANA?",
+    "o": [
+      "18 de abril de 1989",
+      "1º de janeiro de 1983",
+      "30 de abril de 1993",
+      "4 de julho de 1990"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0628",
+    "level": "dificil",
+    "factId": "qm-0628",
+    "topic": "internet",
+    "explanation": "O registro de delegação da IANA informa 18 de abril de 1989 como a data de registro de .br.",
+    "source": {
+      "name": "IANA — .BR Domain Delegation Data",
+      "url": "https://www.iana.org/domains/root/db/.br.html"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "18 de abril de 1989"
   }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
