@@ -10109,5 +10109,505 @@
     "expiresAt": "2027-09-30T00:00:00.000Z",
     "status": "approved",
     "referencePeriod": "2024"
+  },
+  {
+    "c": "Filmes",
+    "q": "Quem dirigiu Titanic (1997)?",
+    "o": [
+      "James Cameron",
+      "Steven Spielberg",
+      "Ridley Scott",
+      "Peter Jackson"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0489",
+    "level": "facil",
+    "factId": "qm-0489",
+    "topic": "filmes",
+    "explanation": "Titanic (1997) foi dirigido por James Cameron.",
+    "source": {
+      "name": "BFI — Titanic (1997)",
+      "url": "https://www.bfi.org.uk/film/aa4a1930-21de-51ce-9700-6acaf2d59437/titanic"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1997"
+  },
+  {
+    "c": "Filmes",
+    "q": "Quem dirigiu Jurassic Park (1993)?",
+    "o": [
+      "Steven Spielberg",
+      "James Cameron",
+      "George Lucas",
+      "Tim Burton"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0490",
+    "level": "facil",
+    "factId": "qm-0490",
+    "topic": "filmes",
+    "explanation": "Jurassic Park foi dirigido por Steven Spielberg.",
+    "source": {
+      "name": "Universal Pictures — About",
+      "url": "https://www.universalpictures.com/about/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1993"
+  },
+  {
+    "c": "Filmes",
+    "q": "Em The Matrix (1999), qual é o apelido hacker de Thomas Anderson?",
+    "o": [
+      "Neo",
+      "Morpheus",
+      "Cypher",
+      "Smith"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0491",
+    "level": "facil",
+    "factId": "qm-0491",
+    "topic": "filmes",
+    "explanation": "Thomas Anderson leva uma vida dupla e usa o apelido hacker Neo.",
+    "source": {
+      "name": "BFI — The Matrix (1999)",
+      "url": "https://www.bfi.org.uk/film/cc7edbb1-17e5-509b-935b-725045d722aa/the-matrix"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1999"
+  },
+  {
+    "c": "Filmes",
+    "q": "Em O Senhor dos Anéis: A Sociedade do Anel (2001), em qual mundo de fantasia se passa a história?",
+    "o": [
+      "Terra-média",
+      "Nárnia",
+      "Westeros",
+      "Krypton"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0492",
+    "level": "facil",
+    "factId": "qm-0492",
+    "topic": "filmes",
+    "explanation": "A Sociedade do Anel se passa no mundo de fantasia chamado Terra-média.",
+    "source": {
+      "name": "BFI — The Lord of the Rings: The Fellowship of the Ring",
+      "url": "https://www.bfi.org.uk/film/52b45f51-7f3b-56e6-991d-eae1443c0e77/the-lord-of-the-rings-the-fellowship-of-the-ring"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2001"
+  },
+  {
+    "c": "Filmes",
+    "q": "Em De Volta para o Futuro, qual carro é transformado em máquina do tempo?",
+    "o": [
+      "DeLorean",
+      "Mustang",
+      "Camaro",
+      "Corvette"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0493",
+    "level": "facil",
+    "factId": "qm-0493",
+    "topic": "filmes",
+    "explanation": "A máquina do tempo de De Volta para o Futuro é construída em um DeLorean.",
+    "source": {
+      "name": "Universal Pictures — About",
+      "url": "https://www.universalpictures.com/about/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1985"
+  },
+  {
+    "c": "Filmes",
+    "q": "Em Star Wars: Episódio IV — Uma Nova Esperança, em qual planeta vive Luke Skywalker no início de sua jornada?",
+    "o": [
+      "Tatooine",
+      "Alderaan",
+      "Hoth",
+      "Naboo"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0494",
+    "level": "facil",
+    "factId": "qm-0494",
+    "topic": "filmes",
+    "explanation": "Luke Skywalker começa sua jornada como um jovem fazendeiro de Tatooine.",
+    "source": {
+      "name": "StarWars.com — Luke Skywalker Databank",
+      "url": "https://www.starwars.com/databank/Luke-Skywalker"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Filmes",
+    "q": "Qual é o sobrenome da família mafiosa central de O Poderoso Chefão (1972)?",
+    "o": [
+      "Corleone",
+      "Soprano",
+      "Montana",
+      "Barzini"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0495",
+    "level": "facil",
+    "factId": "qm-0495",
+    "topic": "filmes",
+    "explanation": "O Poderoso Chefão acompanha a família criminosa Corleone.",
+    "source": {
+      "name": "BFI — The Godfather (1972)",
+      "url": "https://www.bfi.org.uk/film/ccc481e1-f1c2-5b60-bbe7-77ad5645fb1a/the-godfather"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1972"
+  },
+  {
+    "c": "Filmes",
+    "q": "Em Interestelar, qual fenômeno permite aos exploradores atravessar enormes distâncias no espaço?",
+    "o": [
+      "Buraco de minhoca",
+      "Supernova",
+      "Eclipse solar",
+      "Chuva de meteoros"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0496",
+    "level": "medio",
+    "factId": "qm-0496",
+    "topic": "filmes",
+    "explanation": "A história de Interestelar envolve exploradores que usam um buraco de minhoca recém-descoberto para superar grandes distâncias espaciais.",
+    "source": {
+      "name": "Paramount — Interstellar: início das filmagens",
+      "url": "https://ir.paramount.com/news-releases/news-release-details/paramount-pictures-and-warner-bros-pictures-announce-start"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Filmes",
+    "q": "Quem dirigiu Gladiador (2000)?",
+    "o": [
+      "Ridley Scott",
+      "Steven Soderbergh",
+      "Ron Howard",
+      "Sam Mendes"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0497",
+    "level": "medio",
+    "factId": "qm-0497",
+    "topic": "filmes",
+    "explanation": "Gladiador foi dirigido por Ridley Scott.",
+    "source": {
+      "name": "Universal Pictures — About",
+      "url": "https://www.universalpictures.com/about/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2000"
+  },
+  {
+    "c": "Filmes",
+    "q": "Quantos Oscars A Lista de Schindler venceu?",
+    "o": [
+      "7",
+      "5",
+      "9",
+      "11"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0498",
+    "level": "medio",
+    "factId": "qm-0498",
+    "topic": "filmes",
+    "explanation": "A Lista de Schindler venceu sete Oscars, incluindo Melhor Filme e Melhor Diretor.",
+    "source": {
+      "name": "Universal Pictures — About",
+      "url": "https://www.universalpictures.com/about/"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1993"
+  },
+  {
+    "c": "Filmes",
+    "q": "Qual é o nome do hotel onde se passa grande parte de O Iluminado (1980)?",
+    "o": [
+      "Overlook Hotel",
+      "Bates Motel",
+      "Grand Budapest",
+      "Hotel Cortez"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0499",
+    "level": "medio",
+    "factId": "qm-0499",
+    "topic": "filmes",
+    "explanation": "A maior parte de O Iluminado se passa no isolado Overlook Hotel.",
+    "source": {
+      "name": "BFI — The Shining (1980)",
+      "url": "https://www.bfi.org.uk/film/4d39487e-a464-5771-a2f3-2533c7ba9c8c/the-shining"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1980"
+  },
+  {
+    "c": "Filmes",
+    "q": "Em 2001: Uma Odisseia no Espaço, como se chama o computador de inteligência artificial da nave?",
+    "o": [
+      "HAL 9000",
+      "WOPR",
+      "Skynet",
+      "GERTY"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0500",
+    "level": "medio",
+    "factId": "qm-0500",
+    "topic": "filmes",
+    "explanation": "HAL 9000 é o computador de inteligência artificial que desempenha papel central no filme.",
+    "source": {
+      "name": "BFI — 2001: A Space Odyssey",
+      "url": "https://www.bfi.org.uk/film/cefccdb2-b558-5623-9c17-72b4be7bd4c1/2001-a-space-odyssey"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1968"
+  },
+  {
+    "c": "Filmes",
+    "q": "Em Alien (1979), qual é o nome da nave comercial da tripulação?",
+    "o": [
+      "Nostromo",
+      "Sulaco",
+      "Discovery One",
+      "Serenity"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0501",
+    "level": "medio",
+    "factId": "qm-0501",
+    "topic": "filmes",
+    "explanation": "A tripulação de Alien viaja a bordo da nave comercial Nostromo.",
+    "source": {
+      "name": "BFI — Remembering Ian Holm: 10 essential films",
+      "url": "https://www.bfi.org.uk/lists/remembering-ian-holm-10-essential-films"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1979"
+  },
+  {
+    "c": "Filmes",
+    "q": "Quem dirigiu O Senhor dos Anéis: A Sociedade do Anel (2001)?",
+    "o": [
+      "Peter Jackson",
+      "George Miller",
+      "Sam Raimi",
+      "Bryan Singer"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0502",
+    "level": "medio",
+    "factId": "qm-0502",
+    "topic": "filmes",
+    "explanation": "A Sociedade do Anel foi dirigida por Peter Jackson.",
+    "source": {
+      "name": "BFI — The Lord of the Rings: The Fellowship of the Ring",
+      "url": "https://www.bfi.org.uk/film/52b45f51-7f3b-56e6-991d-eae1443c0e77/the-lord-of-the-rings-the-fellowship-of-the-ring"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2001"
+  },
+  {
+    "c": "Filmes",
+    "q": "Em que data Star Wars: Episódio IV — Uma Nova Esperança estreou nos Estados Unidos?",
+    "o": [
+      "25 de maio de 1977",
+      "4 de julho de 1977",
+      "16 de dezembro de 1977",
+      "1 de janeiro de 1978"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0503",
+    "level": "dificil",
+    "factId": "qm-0503",
+    "topic": "filmes",
+    "explanation": "A página oficial de Star Wars registra 25 de maio de 1977 como data de lançamento de Uma Nova Esperança.",
+    "source": {
+      "name": "StarWars.com — A New Hope",
+      "url": "https://www.starwars.com/films/star-wars-episode-iv-a-new-hope"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1977"
+  },
+  {
+    "c": "Filmes",
+    "q": "Em The Matrix, qual é o nome da nave usada por Morpheus e sua equipe?",
+    "o": [
+      "Nebuchadnezzar",
+      "Nostromo",
+      "Event Horizon",
+      "Prometheus"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0504",
+    "level": "dificil",
+    "factId": "qm-0504",
+    "topic": "filmes",
+    "explanation": "Morpheus e sua equipe operam a bordo da nave Nebuchadnezzar.",
+    "source": {
+      "name": "BFI — The Matrix and rubber reality",
+      "url": "https://www.bfi.org.uk/sight-and-sound/features/matrix-rubber-reality"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1999"
+  },
+  {
+    "c": "Filmes",
+    "q": "Em 2001: Uma Odisseia no Espaço, para qual planeta segue a missão da Discovery One?",
+    "o": [
+      "Júpiter",
+      "Marte",
+      "Saturno",
+      "Vênus"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0505",
+    "level": "dificil",
+    "factId": "qm-0505",
+    "topic": "filmes",
+    "explanation": "No filme, a missão da Discovery One segue para Júpiter.",
+    "source": {
+      "name": "BFI — 2001: A Space Odyssey",
+      "url": "https://www.bfi.org.uk/film/cefccdb2-b558-5623-9c17-72b4be7bd4c1/2001-a-space-odyssey"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1968"
+  },
+  {
+    "c": "Filmes",
+    "q": "Quem escreveu o roteiro de Interestelar ao lado de Christopher Nolan?",
+    "o": [
+      "Jonathan Nolan",
+      "David Goyer",
+      "Damon Lindelof",
+      "Alex Garland"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0506",
+    "level": "dificil",
+    "factId": "qm-0506",
+    "topic": "filmes",
+    "explanation": "Interestelar foi escrito por Jonathan Nolan e Christopher Nolan.",
+    "source": {
+      "name": "Paramount — Interstellar ultrapassa marco em IMAX",
+      "url": "https://ir.paramount.com/news-releases/news-release-details/paramount-pictures-and-warner-bros-pictures-interstellar-crosses"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Filmes",
+    "q": "Segundo o BFI, qual é a duração de Titanic (1997)?",
+    "o": [
+      "195 minutos",
+      "165 minutos",
+      "180 minutos",
+      "210 minutos"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0507",
+    "level": "dificil",
+    "factId": "qm-0507",
+    "topic": "filmes",
+    "explanation": "A ficha do BFI registra duração de 195 minutos para Titanic (1997).",
+    "source": {
+      "name": "BFI — Titanic (1997)",
+      "url": "https://www.bfi.org.uk/film/aa4a1930-21de-51ce-9700-6acaf2d59437/titanic"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1997"
+  },
+  {
+    "c": "Filmes",
+    "q": "Segundo o BFI, qual é a duração de O Senhor dos Anéis: A Sociedade do Anel (2001)?",
+    "o": [
+      "178 minutos",
+      "148 minutos",
+      "188 minutos",
+      "208 minutos"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0508",
+    "level": "dificil",
+    "factId": "qm-0508",
+    "topic": "filmes",
+    "explanation": "A ficha do BFI registra duração de 178 minutos para A Sociedade do Anel.",
+    "source": {
+      "name": "BFI — The Lord of the Rings: The Fellowship of the Ring",
+      "url": "https://www.bfi.org.uk/film/52b45f51-7f3b-56e6-991d-eae1443c0e77/the-lord-of-the-rings-the-fellowship-of-the-ring"
+    },
+    "verifiedAt": "2026-09-30T00:00:00.000Z",
+    "expiresAt": "2027-09-30T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2001"
   }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
