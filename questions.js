@@ -12609,5 +12609,505 @@
     "expiresAt": "2027-10-01T00:00:00.000Z",
     "status": "approved",
     "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Com qual parte do corpo as borboletas conseguem sentir o gosto?",
+    "o": [
+      "Pés",
+      "Asas",
+      "Olhos",
+      "Abdômen"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0589",
+    "level": "facil",
+    "factId": "qm-0589",
+    "topic": "curiosidades",
+    "explanation": "Borboletas possuem receptores gustativos nos pés e conseguem 'provar' superfícies ao pousar nelas.",
+    "source": {
+      "name": "Smithsonian National Zoo — Pollinators",
+      "url": "https://nationalzoo.si.edu/animals/news/8-reasons-bee-awe-pollinators"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Que objeto uma lontra-marinha pode usar para quebrar uma presa com concha?",
+    "o": [
+      "Pedra",
+      "Galho",
+      "Folha",
+      "Osso"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0590",
+    "level": "facil",
+    "factId": "qm-0590",
+    "topic": "curiosidades",
+    "explanation": "Lontras-marinhas podem usar pedras como ferramentas para abrir presas de concha dura, como mariscos.",
+    "source": {
+      "name": "Monterey Bay Aquarium — Sea otter",
+      "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-otter"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "De que material é formado o esqueleto dos tubarões?",
+    "o": [
+      "Cartilagem",
+      "Osso",
+      "Quitina",
+      "Queratina"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0591",
+    "level": "facil",
+    "factId": "qm-0591",
+    "topic": "curiosidades",
+    "explanation": "O esqueleto dos tubarões é feito de cartilagem, material mais leve e flexível que o osso.",
+    "source": {
+      "name": "Smithsonian Ocean — Sharks",
+      "url": "https://ocean.si.edu/ocean-life/sharks-rays/sharks"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Em qual planeta um dia dura mais do que um ano?",
+    "o": [
+      "Vênus",
+      "Marte",
+      "Júpiter",
+      "Mercúrio"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0592",
+    "level": "facil",
+    "factId": "qm-0592",
+    "topic": "curiosidades",
+    "explanation": "Vênus leva cerca de 243 dias terrestres para girar uma vez, enquanto completa sua órbita em cerca de 225 dias.",
+    "source": {
+      "name": "NASA Science — Venus Facts",
+      "url": "https://science.nasa.gov/venus/venus-facts/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Qual anfíbio é conhecido por congelar no inverno e descongelar na primavera?",
+    "o": [
+      "Rã-da-madeira",
+      "Sapo-cururu",
+      "Axolote",
+      "Salamandra-gigante"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0593",
+    "level": "facil",
+    "factId": "qm-0593",
+    "topic": "curiosidades",
+    "explanation": "A rã-da-madeira consegue congelar durante o inverno e voltar à atividade quando descongela.",
+    "source": {
+      "name": "U.S. National Park Service — Frogs",
+      "url": "https://www.nps.gov/kaww/learn/nature/frogs.htm"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Qual parte do ornitorrinco possui eletro-receptores usados para localizar presas?",
+    "o": [
+      "Bico",
+      "Cauda",
+      "Patas",
+      "Orelhas"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0594",
+    "level": "facil",
+    "factId": "qm-0594",
+    "topic": "curiosidades",
+    "explanation": "O bico do ornitorrinco possui receptores sensíveis à pressão e a sinais elétricos produzidos pelas presas.",
+    "source": {
+      "name": "Australian Museum — Platypus",
+      "url": "https://australian.museum/platypus"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Qual salamandra mexicana é estudada por sua capacidade de regenerar membros?",
+    "o": [
+      "Axolote",
+      "Tritão-alpino",
+      "Proteu",
+      "Salamandra-de-fogo"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0595",
+    "level": "facil",
+    "factId": "qm-0595",
+    "topic": "curiosidades",
+    "explanation": "O axolote é uma salamandra mexicana estudada por sua extraordinária capacidade de regenerar membros e outros tecidos.",
+    "source": {
+      "name": "Smithsonian Q?rius — Axolotl",
+      "url": "https://qrius.si.edu/browse/object/10025484"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Durante o sono de muitos golfinhos, quanto do cérebro descansa de cada vez?",
+    "o": [
+      "Metade",
+      "Um quarto",
+      "Três quartos",
+      "Todo o cérebro"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0596",
+    "level": "medio",
+    "factId": "qm-0596",
+    "topic": "curiosidades",
+    "explanation": "Muitos golfinhos praticam sono uni-hemisférico: uma metade do cérebro descansa enquanto a outra permanece ativa para respirar.",
+    "source": {
+      "name": "NOAA Fisheries — 11 Cool Facts About Whales, Dolphins, and Porpoises",
+      "url": "https://www.fisheries.noaa.gov/feature-story/11-cool-facts-about-whales-dolphins-and-porpoises"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Por que a Torre Eiffel fica alguns milímetros mais alta no verão?",
+    "o": [
+      "Expansão térmica do metal",
+      "Aumento da pressão do ar",
+      "Absorção de água da chuva",
+      "Alongamento dos elevadores"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0597",
+    "level": "medio",
+    "factId": "qm-0597",
+    "topic": "curiosidades",
+    "explanation": "Com o calor, o ferro da Torre Eiffel se expande ligeiramente, fenômeno chamado expansão térmica.",
+    "source": {
+      "name": "Tour Eiffel — Why does the Eiffel Tower change size?",
+      "url": "https://www.toureiffel.paris/en/news/history-and-culture/why-does-eiffel-tower-change-size"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Aproximadamente que porcentagem da água doce superficial do mundo está na camada de gelo da Antártida?",
+    "o": [
+      "90%",
+      "50%",
+      "25%",
+      "10%"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0598",
+    "level": "medio",
+    "factId": "qm-0598",
+    "topic": "curiosidades",
+    "explanation": "A British Antarctic Survey informa que a camada de gelo da Antártida contém aproximadamente 90% da água doce superficial do mundo.",
+    "source": {
+      "name": "British Antarctic Survey — Antarctic factsheet",
+      "url": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Aproximadamente a que temperatura um raio pode aquecer o ar ao redor?",
+    "o": [
+      "30.000 °C",
+      "3.000 °C",
+      "300 °C",
+      "100.000 °C"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0599",
+    "level": "medio",
+    "factId": "qm-0599",
+    "topic": "curiosidades",
+    "explanation": "Um raio pode aquecer o ar ao redor a cerca de 30.000 °C, temperatura várias vezes maior que a da superfície do Sol.",
+    "source": {
+      "name": "NOAA NESDIS — What Causes Lightning and Thunder?",
+      "url": "https://www.nesdis.noaa.gov/about/k-12-education/severe-weather/what-causes-lightning-and-thunder"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Na região mais densa, quantos pelos por polegada quadrada pode ter a pelagem de uma lontra-marinha?",
+    "o": [
+      "Mais de 1 milhão",
+      "Cerca de 10 mil",
+      "Cerca de 100 mil",
+      "Mais de 10 milhões"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0600",
+    "level": "medio",
+    "factId": "qm-0600",
+    "topic": "curiosidades",
+    "explanation": "A pelagem da lontra-marinha pode ultrapassar um milhão de pelos por polegada quadrada nas regiões mais densas.",
+    "source": {
+      "name": "Monterey Bay Aquarium — Sea otter",
+      "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-otter"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Ao longo da vida, um tubarão pode perder e substituir aproximadamente quantos dentes?",
+    "o": [
+      "Milhares",
+      "Dezenas",
+      "Apenas uma centena",
+      "Nenhum"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0601",
+    "level": "medio",
+    "factId": "qm-0601",
+    "topic": "curiosidades",
+    "explanation": "Tubarões perdem dentes continuamente e podem substituir milhares deles ao longo da vida.",
+    "source": {
+      "name": "Smithsonian Ocean — Sharks",
+      "url": "https://ocean.si.edu/ocean-life/sharks-rays/sharks"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Qual planeta é o único cujo nome em inglês não vem da mitologia grega ou romana?",
+    "o": [
+      "Terra",
+      "Marte",
+      "Saturno",
+      "Netuno"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0602",
+    "level": "medio",
+    "factId": "qm-0602",
+    "topic": "curiosidades",
+    "explanation": "Segundo a NASA, Earth é o único nome em inglês entre os planetas que não deriva da mitologia grega ou romana.",
+    "source": {
+      "name": "NASA Science — Facts About Earth",
+      "url": "https://science.nasa.gov/earth/facts/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Aproximadamente que porcentagem da superfície da Antártida fica livre de neve e gelo?",
+    "o": [
+      "0,4%",
+      "4%",
+      "14%",
+      "40%"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0603",
+    "level": "dificil",
+    "factId": "qm-0603",
+    "topic": "curiosidades",
+    "explanation": "A British Antarctic Survey estima que apenas cerca de 0,4% da superfície antártica esteja livre de neve e gelo.",
+    "source": {
+      "name": "British Antarctic Survey — Antarctic factsheet",
+      "url": "https://www.bas.ac.uk/about/education-and-schools/antarctic-factsheet/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Quanto dura aproximadamente uma rotação completa de Vênus em dias terrestres?",
+    "o": [
+      "243 dias",
+      "117 dias",
+      "225 dias",
+      "365 dias"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0604",
+    "level": "dificil",
+    "factId": "qm-0604",
+    "topic": "curiosidades",
+    "explanation": "Vênus leva cerca de 243 dias terrestres para completar uma rotação em torno do próprio eixo.",
+    "source": {
+      "name": "NASA Science — Venus Facts",
+      "url": "https://science.nasa.gov/venus/venus-facts/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "O que acontece com a atividade do coração e do cérebro de uma rã-da-madeira quando ela congela?",
+    "o": [
+      "Ela para temporariamente",
+      "Ela dobra",
+      "Ela permanece normal",
+      "Só o cérebro para"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0605",
+    "level": "dificil",
+    "factId": "qm-0605",
+    "topic": "curiosidades",
+    "explanation": "Durante o congelamento, a atividade do coração e do cérebro da rã-da-madeira pode parar e retornar após o descongelamento.",
+    "source": {
+      "name": "U.S. National Park Service — Frogs",
+      "url": "https://www.nps.gov/kaww/learn/nature/frogs.htm"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Há aproximadamente quantos milhões de anos surgiram os primeiros tubarões?",
+    "o": [
+      "Mais de 400 milhões",
+      "Cerca de 65 milhões",
+      "Cerca de 200 milhões",
+      "Menos de 20 milhões"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0606",
+    "level": "dificil",
+    "factId": "qm-0606",
+    "topic": "curiosidades",
+    "explanation": "Evidências fósseis indicam que os primeiros tubarões surgiram há mais de 400 milhões de anos, antes dos dinossauros.",
+    "source": {
+      "name": "Smithsonian Ocean — Sharks",
+      "url": "https://ocean.si.edu/ocean-life/sharks-rays/sharks"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Em um dia ensolarado, o movimento do Sol pode fazer o topo da Torre Eiffel percorrer uma curva de aproximadamente qual diâmetro?",
+    "o": [
+      "15 cm",
+      "1,5 cm",
+      "50 cm",
+      "1,5 m"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0607",
+    "level": "dificil",
+    "factId": "qm-0607",
+    "topic": "curiosidades",
+    "explanation": "O aquecimento desigual pelo Sol pode fazer o topo da Torre Eiffel descrever uma curva de cerca de 15 centímetros de diâmetro.",
+    "source": {
+      "name": "Tour Eiffel — Why does the Eiffel Tower change size?",
+      "url": "https://www.toureiffel.paris/en/news/history-and-culture/why-does-eiffel-tower-change-size"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Curiosidades",
+    "q": "Quando procura alimento debaixo d'água, qual é o principal órgão sensorial do ornitorrinco?",
+    "o": [
+      "Bico",
+      "Olhos",
+      "Orelhas",
+      "Cauda"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0608",
+    "level": "dificil",
+    "factId": "qm-0608",
+    "topic": "curiosidades",
+    "explanation": "Debaixo d'água, o ornitorrinco fecha olhos, orelhas e narinas; seu principal órgão sensorial passa a ser o bico.",
+    "source": {
+      "name": "Australian Museum — Platypus",
+      "url": "https://australian.museum/platypus"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
   }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
