@@ -12109,5 +12109,505 @@
     "expiresAt": "2027-10-01T00:00:00.000Z",
     "status": "approved",
     "referencePeriod": null
+  },
+  {
+    "c": "Artistas",
+    "q": "Quem pintou Moça com Brinco de Pérola?",
+    "o": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Frans Hals",
+      "Jan Steen"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0569",
+    "level": "facil",
+    "factId": "qm-0569",
+    "topic": "artistas",
+    "explanation": "Moça com Brinco de Pérola é uma das obras mais famosas de Johannes Vermeer.",
+    "source": {
+      "name": "Mauritshuis — Girl with a Pearl Earring",
+      "url": "https://www.mauritshuis.nl/en/our-collection/artworks/670-girl-with-a-pearl-earring/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Artistas",
+    "q": "Quem pintou O Nascimento de Vênus?",
+    "o": [
+      "Sandro Botticelli",
+      "Giotto",
+      "Caravaggio",
+      "Rafael"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0570",
+    "level": "facil",
+    "factId": "qm-0570",
+    "topic": "artistas",
+    "explanation": "O Nascimento de Vênus é uma obra de Sandro Botticelli, datada de cerca de 1485.",
+    "source": {
+      "name": "Uffizi — The Birth of Venus",
+      "url": "https://www.uffizi.it/en/artworks/birth-of-venus"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Artistas",
+    "q": "Quem criou A Grande Onda de Kanagawa?",
+    "o": [
+      "Katsushika Hokusai",
+      "Utagawa Hiroshige",
+      "Kitagawa Utamaro",
+      "Sesshū Tōyō"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0571",
+    "level": "facil",
+    "factId": "qm-0571",
+    "topic": "artistas",
+    "explanation": "A Grande Onda de Kanagawa é uma xilogravura de Katsushika Hokusai.",
+    "source": {
+      "name": "The Met — The Great Wave",
+      "url": "https://www.metmuseum.org/art/collection/search/45434"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Artistas",
+    "q": "Quem pintou American Gothic?",
+    "o": [
+      "Grant Wood",
+      "Edward Hopper",
+      "Norman Rockwell",
+      "Andrew Wyeth"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0572",
+    "level": "facil",
+    "factId": "qm-0572",
+    "topic": "artistas",
+    "explanation": "American Gothic foi pintado por Grant Wood em 1930.",
+    "source": {
+      "name": "Art Institute of Chicago — American Art",
+      "url": "https://www.artic.edu/assets/f85bee6b-d18b-5577-a9e6-f429421b4654"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1930"
+  },
+  {
+    "c": "Artistas",
+    "q": "Quem pintou Nighthawks?",
+    "o": [
+      "Edward Hopper",
+      "Grant Wood",
+      "Mark Rothko",
+      "Andrew Wyeth"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0573",
+    "level": "facil",
+    "factId": "qm-0573",
+    "topic": "artistas",
+    "explanation": "Nighthawks, de 1942, é uma das obras mais conhecidas de Edward Hopper.",
+    "source": {
+      "name": "Art Institute of Chicago — Nighthawks",
+      "url": "https://archive.artic.edu/hopper/artwork/111628"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1942"
+  },
+  {
+    "c": "Artistas",
+    "q": "Quem criou a escultura O Pensador?",
+    "o": [
+      "Auguste Rodin",
+      "Constantin Brâncuși",
+      "Henry Moore",
+      "Alberto Giacometti"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0574",
+    "level": "facil",
+    "factId": "qm-0574",
+    "topic": "artistas",
+    "explanation": "O Pensador é uma escultura de Auguste Rodin.",
+    "source": {
+      "name": "The Met — The Thinker",
+      "url": "https://www.metmuseum.org/art/collection/search/191811"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Artistas",
+    "q": "Quem pintou O Beijo, obra célebre do modernismo vienense?",
+    "o": [
+      "Gustav Klimt",
+      "Egon Schiele",
+      "Oskar Kokoschka",
+      "Alphonse Mucha"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0575",
+    "level": "facil",
+    "factId": "qm-0575",
+    "topic": "artistas",
+    "explanation": "O Beijo, também chamado The Kiss (Lovers), é uma obra de Gustav Klimt.",
+    "source": {
+      "name": "Belvedere — Klimt Collection",
+      "url": "https://www.belvedere.at/en/press/klimt-collection-belvedere"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Artistas",
+    "q": "Moça com Brinco de Pérola é classificada pelo Mauritshuis como qual tipo de obra?",
+    "o": [
+      "Tronie",
+      "Paisagem",
+      "Natureza-morta",
+      "Afresco"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0576",
+    "level": "medio",
+    "factId": "qm-0576",
+    "topic": "artistas",
+    "explanation": "O Mauritshuis explica que a obra não é um retrato convencional, mas uma tronie, estudo de um tipo ou personagem.",
+    "source": {
+      "name": "Mauritshuis — Girl with a Pearl Earring",
+      "url": "https://www.mauritshuis.nl/en/our-collection/artworks/670-girl-with-a-pearl-earring/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Artistas",
+    "q": "Qual técnica e suporte foram usados em O Nascimento de Vênus, segundo a Uffizi?",
+    "o": [
+      "Têmpera sobre tela",
+      "Óleo sobre madeira",
+      "Afresco sobre gesso",
+      "Aquarela sobre papel"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0577",
+    "level": "medio",
+    "factId": "qm-0577",
+    "topic": "artistas",
+    "explanation": "A ficha da Uffizi registra O Nascimento de Vênus como têmpera sobre tela.",
+    "source": {
+      "name": "Uffizi — The Birth of Venus",
+      "url": "https://www.uffizi.it/en/artworks/birth-of-venus"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Artistas",
+    "q": "A Grande Onda de Kanagawa pertence a qual série de Hokusai?",
+    "o": [
+      "Trinta e Seis Vistas do Monte Fuji",
+      "Cem Vistas de Edo",
+      "Cinquenta e Três Estações do Tōkaidō",
+      "Trinta e Seis Poetas Imortais"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0578",
+    "level": "medio",
+    "factId": "qm-0578",
+    "topic": "artistas",
+    "explanation": "A Grande Onda integra a série Trinta e Seis Vistas do Monte Fuji, de Hokusai.",
+    "source": {
+      "name": "The Met — The Great Wave",
+      "url": "https://www.metmuseum.org/art/collection/search/45434"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Artistas",
+    "q": "Em que ano Grant Wood pintou American Gothic?",
+    "o": [
+      "1930",
+      "1925",
+      "1935",
+      "1940"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0579",
+    "level": "medio",
+    "factId": "qm-0579",
+    "topic": "artistas",
+    "explanation": "American Gothic foi pintado em 1930.",
+    "source": {
+      "name": "Art Institute of Chicago — American Art",
+      "url": "https://www.artic.edu/assets/f85bee6b-d18b-5577-a9e6-f429421b4654"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1930"
+  },
+  {
+    "c": "Artistas",
+    "q": "Em que ano Edward Hopper pintou Nighthawks?",
+    "o": [
+      "1942",
+      "1932",
+      "1948",
+      "1952"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0580",
+    "level": "medio",
+    "factId": "qm-0580",
+    "topic": "artistas",
+    "explanation": "Nighthawks foi pintado por Edward Hopper em 1942.",
+    "source": {
+      "name": "Art Institute of Chicago — Nighthawks",
+      "url": "https://archive.artic.edu/hopper/artwork/111628"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1942"
+  },
+  {
+    "c": "Artistas",
+    "q": "Quem pintou Composition 8, de 1923?",
+    "o": [
+      "Vasily Kandinsky",
+      "Paul Klee",
+      "Kazimir Malevich",
+      "Piet Mondrian"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0581",
+    "level": "medio",
+    "factId": "qm-0581",
+    "topic": "artistas",
+    "explanation": "Composition 8 é uma obra de Vasily Kandinsky, produzida em 1923.",
+    "source": {
+      "name": "Guggenheim — Vasily Kandinsky",
+      "url": "https://www.guggenheim.org/wp-content/uploads/2021/10/guggenheim-press-kit-vasily-kandinsky-around-the-circle-20211005.pdf"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1923"
+  },
+  {
+    "c": "Artistas",
+    "q": "Maman, monumental aranha associada à Tate Modern, é obra de qual artista?",
+    "o": [
+      "Louise Bourgeois",
+      "Barbara Hepworth",
+      "Niki de Saint Phalle",
+      "Yayoi Kusama"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0582",
+    "level": "medio",
+    "factId": "qm-0582",
+    "topic": "artistas",
+    "explanation": "Maman é uma monumental escultura de aranha criada por Louise Bourgeois.",
+    "source": {
+      "name": "Tate — Maman",
+      "url": "https://shop.tate.org.uk/louise-bourgeois-maman-magnet/30641.html"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Artistas",
+    "q": "Quem pintou One: Number 31, 1950?",
+    "o": [
+      "Jackson Pollock",
+      "Willem de Kooning",
+      "Mark Rothko",
+      "Barnett Newman"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0583",
+    "level": "dificil",
+    "factId": "qm-0583",
+    "topic": "artistas",
+    "explanation": "One: Number 31, 1950 é uma obra de Jackson Pollock.",
+    "source": {
+      "name": "MoMA — One: Number 31, 1950",
+      "url": "https://www.moma.org/collection/works/78386"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1950"
+  },
+  {
+    "c": "Artistas",
+    "q": "Quais materiais o MoMA registra em One: Number 31, 1950?",
+    "o": [
+      "Tinta a óleo e esmalte sobre tela",
+      "Têmpera e carvão sobre madeira",
+      "Acrílica e areia sobre papel",
+      "Óleo e cera sobre cobre"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0584",
+    "level": "dificil",
+    "factId": "qm-0584",
+    "topic": "artistas",
+    "explanation": "O MoMA registra a obra como tinta a óleo e esmalte sobre tela.",
+    "source": {
+      "name": "MoMA — One: Number 31, 1950",
+      "url": "https://www.moma.org/collection/works/78386"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1950"
+  },
+  {
+    "c": "Artistas",
+    "q": "Por volta de que ano O Pensador, de Rodin, foi originalmente modelado?",
+    "o": [
+      "1880",
+      "1850",
+      "1900",
+      "1920"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0585",
+    "level": "dificil",
+    "factId": "qm-0585",
+    "topic": "artistas",
+    "explanation": "A ficha do Metropolitan Museum registra O Pensador como modelado por volta de 1880.",
+    "source": {
+      "name": "The Met — The Thinker",
+      "url": "https://www.metmuseum.org/art/collection/search/191811"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "c. 1880"
+  },
+  {
+    "c": "Artistas",
+    "q": "Qual faixa de datas o Belvedere atribui a O Beijo, de Gustav Klimt?",
+    "o": [
+      "c. 1907–1909",
+      "c. 1890–1892",
+      "c. 1914–1916",
+      "c. 1920–1922"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0586",
+    "level": "dificil",
+    "factId": "qm-0586",
+    "topic": "artistas",
+    "explanation": "O Belvedere data O Beijo aproximadamente entre 1907 e 1909.",
+    "source": {
+      "name": "Belvedere — Klimt Collection",
+      "url": "https://www.belvedere.at/en/press/klimt-collection-belvedere"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "c. 1907–1909"
+  },
+  {
+    "c": "Artistas",
+    "q": "Em que ano Kandinsky produziu Composition 8?",
+    "o": [
+      "1923",
+      "1913",
+      "1933",
+      "1943"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0587",
+    "level": "dificil",
+    "factId": "qm-0587",
+    "topic": "artistas",
+    "explanation": "Composition 8 foi produzida por Vasily Kandinsky em julho de 1923.",
+    "source": {
+      "name": "Guggenheim — Vasily Kandinsky",
+      "url": "https://www.guggenheim.org/wp-content/uploads/2021/10/guggenheim-press-kit-vasily-kandinsky-around-the-circle-20211005.pdf"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1923"
+  },
+  {
+    "c": "Artistas",
+    "q": "De quais materiais é feita Maman, segundo a Tate?",
+    "o": [
+      "Aço e mármore",
+      "Bronze e madeira",
+      "Ferro e vidro",
+      "Alumínio e granito"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0588",
+    "level": "dificil",
+    "factId": "qm-0588",
+    "topic": "artistas",
+    "explanation": "A Tate descreve Maman como uma enorme escultura de aranha feita de aço e mármore.",
+    "source": {
+      "name": "Tate — Maman",
+      "url": "https://shop.tate.org.uk/louise-bourgeois-maman-magnet/30641.html"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
   }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
