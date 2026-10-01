@@ -11609,5 +11609,505 @@
     "expiresAt": "2027-10-01T00:00:00.000Z",
     "status": "approved",
     "referencePeriod": "2022"
+  },
+  {
+    "c": "Música",
+    "q": "Qual banda lançou o álbum Abbey Road?",
+    "o": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Pink Floyd",
+      "The Who"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0549",
+    "level": "facil",
+    "factId": "qm-0549",
+    "topic": "musica",
+    "explanation": "Abbey Road é um álbum dos Beatles, lançado em 1969.",
+    "source": {
+      "name": "The Beatles — Abbey Road",
+      "url": "https://www.thebeatles.com/abbey-road"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Música",
+    "q": "Qual cantora ficou mundialmente conhecida com Rolling in the Deep?",
+    "o": [
+      "Adele",
+      "Beyoncé",
+      "Rihanna",
+      "Alicia Keys"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0550",
+    "level": "facil",
+    "factId": "qm-0550",
+    "topic": "musica",
+    "explanation": "Rolling in the Deep foi a faixa de abertura do álbum 21 e ajudou a transformar Adele em estrela internacional.",
+    "source": {
+      "name": "GRAMMY — Adele",
+      "url": "https://www.grammy.com/artists/adele/528/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Música",
+    "q": "Qual banda gravou Smells Like Teen Spirit?",
+    "o": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0551",
+    "level": "facil",
+    "factId": "qm-0551",
+    "topic": "musica",
+    "explanation": "Smells Like Teen Spirit é uma das faixas mais conhecidas do Nirvana e abre o álbum Nevermind.",
+    "source": {
+      "name": "Nirvana — Nevermind",
+      "url": "https://www.nirvana.com/releases-archive/nevermind/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Música",
+    "q": "Qual cantora lançou Like a Prayer?",
+    "o": [
+      "Madonna",
+      "Cyndi Lauper",
+      "Cher",
+      "Whitney Houston"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0552",
+    "level": "facil",
+    "factId": "qm-0552",
+    "topic": "musica",
+    "explanation": "Like a Prayer é faixa-título do quarto álbum de estúdio de Madonna.",
+    "source": {
+      "name": "Madonna — Like a Prayer",
+      "url": "https://www.madonna.com/products/like-a-prayer"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Música",
+    "q": "Qual artista lançou o álbum Purple Rain?",
+    "o": [
+      "Prince",
+      "David Bowie",
+      "Stevie Wonder",
+      "Lionel Richie"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0553",
+    "level": "facil",
+    "factId": "qm-0553",
+    "topic": "musica",
+    "explanation": "Purple Rain é um dos álbuns mais conhecidos de Prince.",
+    "source": {
+      "name": "GRAMMY — Prince",
+      "url": "https://www.grammy.com/artists/prince/5675/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Música",
+    "q": "Qual cantora gravou a versão de Respect que chegou ao topo da Billboard Hot 100 em 1967?",
+    "o": [
+      "Aretha Franklin",
+      "Diana Ross",
+      "Tina Turner",
+      "Etta James"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0554",
+    "level": "facil",
+    "factId": "qm-0554",
+    "topic": "musica",
+    "explanation": "A gravação de Respect por Aretha Franklin chegou ao primeiro lugar da Billboard Hot 100 em 1967.",
+    "source": {
+      "name": "GRAMMY — Aretha Franklin",
+      "url": "https://www.grammy.com/artists/aretha-franklin/11503/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1967"
+  },
+  {
+    "c": "Música",
+    "q": "Qual banda lançou o álbum Rumours?",
+    "o": [
+      "Fleetwood Mac",
+      "Eagles",
+      "ABBA",
+      "Bee Gees"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0555",
+    "level": "facil",
+    "factId": "qm-0555",
+    "topic": "musica",
+    "explanation": "Rumours é um álbum do Fleetwood Mac e venceu o GRAMMY de Álbum do Ano.",
+    "source": {
+      "name": "GRAMMY — Fleetwood Mac",
+      "url": "https://www.grammy.com/artists/fleetwood-mac/7759/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Música",
+    "q": "Em que ano o álbum Nevermind, do Nirvana, foi lançado?",
+    "o": [
+      "1991",
+      "1989",
+      "1993",
+      "1995"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0556",
+    "level": "medio",
+    "factId": "qm-0556",
+    "topic": "musica",
+    "explanation": "A página oficial do Nirvana registra Nevermind como lançado em 1991.",
+    "source": {
+      "name": "Nirvana — Nevermind",
+      "url": "https://www.nirvana.com/releases-archive/nevermind/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1991"
+  },
+  {
+    "c": "Música",
+    "q": "Em que data Abbey Road foi lançado originalmente?",
+    "o": [
+      "26 de setembro de 1969",
+      "8 de maio de 1970",
+      "1 de junho de 1967",
+      "22 de novembro de 1968"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0557",
+    "level": "medio",
+    "factId": "qm-0557",
+    "topic": "musica",
+    "explanation": "Abbey Road foi lançado originalmente em 26 de setembro de 1969.",
+    "source": {
+      "name": "The Beatles — Abbey Road",
+      "url": "https://www.thebeatles.com/abbey-road"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1969"
+  },
+  {
+    "c": "Música",
+    "q": "Em que ano o álbum Like a Prayer, de Madonna, foi lançado?",
+    "o": [
+      "1989",
+      "1984",
+      "1992",
+      "1998"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0558",
+    "level": "medio",
+    "factId": "qm-0558",
+    "topic": "musica",
+    "explanation": "Like a Prayer foi lançado em março de 1989.",
+    "source": {
+      "name": "Madonna — Like a Prayer",
+      "url": "https://www.madonna.com/products/like-a-prayer"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1989"
+  },
+  {
+    "c": "Música",
+    "q": "Qual alter ego glam rock David Bowie apresentou em 1972?",
+    "o": [
+      "Ziggy Stardust",
+      "Thin White Duke",
+      "Major Tom",
+      "Aladdin Sane"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0559",
+    "level": "medio",
+    "factId": "qm-0559",
+    "topic": "musica",
+    "explanation": "David Bowie apresentou o alter ego Ziggy Stardust em 1972.",
+    "source": {
+      "name": "GRAMMY — David Bowie",
+      "url": "https://www.grammy.com/artists/david-bowie/4819/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1972"
+  },
+  {
+    "c": "Música",
+    "q": "Purple Rain foi qual álbum de estúdio de Prince?",
+    "o": [
+      "Sexto",
+      "Quarto",
+      "Quinto",
+      "Oitavo"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0560",
+    "level": "medio",
+    "factId": "qm-0560",
+    "topic": "musica",
+    "explanation": "Purple Rain foi o sexto álbum de estúdio de Prince.",
+    "source": {
+      "name": "GRAMMY — Purple Rain",
+      "url": "https://www.grammy.com/news/princes-masterpiece-purple-rain-record/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Música",
+    "q": "Qual prêmio principal Rumours, do Fleetwood Mac, venceu no 20º GRAMMY Awards?",
+    "o": [
+      "Álbum do Ano",
+      "Gravação do Ano",
+      "Canção do Ano",
+      "Artista Revelação"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0561",
+    "level": "medio",
+    "factId": "qm-0561",
+    "topic": "musica",
+    "explanation": "Rumours venceu o GRAMMY de Álbum do Ano na 20ª edição da premiação.",
+    "source": {
+      "name": "GRAMMY — Fleetwood Mac",
+      "url": "https://www.grammy.com/artists/fleetwood-mac/7759/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "20º GRAMMY Awards"
+  },
+  {
+    "c": "Música",
+    "q": "Qual álbum de Adele foi seu primeiro a chegar ao topo da parada de álbuns nos Estados Unidos?",
+    "o": [
+      "21",
+      "19",
+      "25",
+      "30"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0562",
+    "level": "medio",
+    "factId": "qm-0562",
+    "topic": "musica",
+    "explanation": "O álbum 21 foi o primeiro disco de Adele a alcançar o topo da parada de álbuns dos Estados Unidos.",
+    "source": {
+      "name": "GRAMMY — Adele",
+      "url": "https://www.grammy.com/artists/adele/528/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Música",
+    "q": "Segundo o GRAMMY, quantos instrumentos Prince tocou em seu álbum de estreia For You?",
+    "o": [
+      "27",
+      "17",
+      "21",
+      "32"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0563",
+    "level": "dificil",
+    "factId": "qm-0563",
+    "topic": "musica",
+    "explanation": "No álbum de estreia For You, Prince tocou todos os 27 instrumentos utilizados, segundo a biografia do GRAMMY.",
+    "source": {
+      "name": "GRAMMY — Prince",
+      "url": "https://www.grammy.com/artists/prince/5675/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Música",
+    "q": "Qual é o título completo do álbum de 1972 ligado ao alter ego Ziggy Stardust, de David Bowie?",
+    "o": [
+      "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+      "Station to Station",
+      "Hunky Dory",
+      "Diamond Dogs"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0564",
+    "level": "dificil",
+    "factId": "qm-0564",
+    "topic": "musica",
+    "explanation": "O álbum de 1972 é The Rise and Fall of Ziggy Stardust and the Spiders from Mars.",
+    "source": {
+      "name": "GRAMMY — David Bowie e Ziggy Stardust",
+      "url": "https://www.grammy.com/news/david-bowies-ziggy-stardust-record/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1972"
+  },
+  {
+    "c": "Música",
+    "q": "Quais três músicos aparecem como assinaturas da placa de indução do Nirvana no Rock & Roll Hall of Fame?",
+    "o": [
+      "Kurt Cobain, Krist Novoselic e Dave Grohl",
+      "Kurt Cobain, Dave Grohl e Pat Smear",
+      "Krist Novoselic, Dave Grohl e Chad Channing",
+      "Kurt Cobain, Krist Novoselic e Pat Smear"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0565",
+    "level": "dificil",
+    "factId": "qm-0565",
+    "topic": "musica",
+    "explanation": "A placa de indução do Nirvana exibe as assinaturas de Kurt Cobain, Krist Novoselic e Dave Grohl.",
+    "source": {
+      "name": "Rock & Roll Hall of Fame — Nirvana",
+      "url": "https://rockhall.com/inductees/nirvana/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Música",
+    "q": "Quem escreveu originalmente Respect, canção que Aretha Franklin regravou em 1967?",
+    "o": [
+      "Otis Redding",
+      "Sam Cooke",
+      "Marvin Gaye",
+      "Ray Charles"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0566",
+    "level": "dificil",
+    "factId": "qm-0566",
+    "topic": "musica",
+    "explanation": "Respect foi originalmente escrita e gravada por Otis Redding antes da famosa versão de Aretha Franklin.",
+    "source": {
+      "name": "GRAMMY — Aretha Franklin",
+      "url": "https://www.grammy.com/artists/aretha-franklin/11503/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1967"
+  },
+  {
+    "c": "Música",
+    "q": "Qual álbum dos Beatles foi lançado depois de Abbey Road, embora tenha sido gravado em grande parte antes?",
+    "o": [
+      "Let It Be",
+      "Revolver",
+      "Help!",
+      "Yellow Submarine"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0567",
+    "level": "dificil",
+    "factId": "qm-0567",
+    "topic": "musica",
+    "explanation": "Abbey Road foi o último álbum gravado pelos Beatles, mas Let It Be foi lançado depois, em 1970.",
+    "source": {
+      "name": "The Beatles — Abbey Road",
+      "url": "https://www.thebeatles.com/abbey-road"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Música",
+    "q": "Purple Rain foi o primeiro álbum de Prince a destacar oficialmente qual banda?",
+    "o": [
+      "The Revolution",
+      "New Power Generation",
+      "The Time",
+      "Madhouse"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0568",
+    "level": "dificil",
+    "factId": "qm-0568",
+    "topic": "musica",
+    "explanation": "Purple Rain foi o primeiro álbum de Prince a trazer oficialmente sua banda The Revolution em destaque.",
+    "source": {
+      "name": "GRAMMY — Purple Rain",
+      "url": "https://www.grammy.com/news/princes-masterpiece-purple-rain-record/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
   }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
