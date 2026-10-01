@@ -10609,5 +10609,505 @@
     "expiresAt": "2027-09-30T00:00:00.000Z",
     "status": "approved",
     "referencePeriod": "2001"
+  },
+  {
+    "c": "Séries",
+    "q": "Em Squid Game, qual é o nome do jogador 456?",
+    "o": [
+      "Seong Gi-hun",
+      "Cho Sang-woo",
+      "Hwang Jun-ho",
+      "Oh Il-nam"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0509",
+    "level": "facil",
+    "factId": "qm-0509",
+    "topic": "series",
+    "explanation": "Seong Gi-hun é o protagonista de Squid Game e participa da competição como o Jogador 456.",
+    "source": {
+      "name": "Netflix Tudum — Squid Game: guia do elenco",
+      "url": "https://www.netflix.com/tudum/articles/squid-game-season-2-cast"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Em The Mandalorian, qual é o nome do enjeitado que acompanha o protagonista?",
+    "o": [
+      "Grogu",
+      "Ezra",
+      "Boba",
+      "Thrawn"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0510",
+    "level": "facil",
+    "factId": "qm-0510",
+    "topic": "series",
+    "explanation": "Grogu acompanha Din Djarin ao longo de The Mandalorian e é descrito oficialmente como seu enjeitado.",
+    "source": {
+      "name": "Disney+ Press — The Mandalorian Media Kit",
+      "url": "https://press.disneyplus.com/media-kits/the-mandalorian"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "A série The Crown dramatiza principalmente a vida de qual monarca britânica?",
+    "o": [
+      "Elizabeth II",
+      "Victoria",
+      "Elizabeth I",
+      "Anne"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0511",
+    "level": "facil",
+    "factId": "qm-0511",
+    "topic": "series",
+    "explanation": "The Crown dramatiza a vida da rainha Elizabeth II e acontecimentos políticos e pessoais de seu reinado.",
+    "source": {
+      "name": "Netflix — The Crown",
+      "url": "https://www.netflix.com/br/title/80025678"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Em The Witcher, qual é o nome do caçador de monstros protagonista?",
+    "o": [
+      "Geralt de Rívia",
+      "Jaskier",
+      "Vesemir",
+      "Cahir"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0512",
+    "level": "facil",
+    "factId": "qm-0512",
+    "topic": "series",
+    "explanation": "Geralt de Rívia é apresentado pela Netflix como um caçador de monstros mutante e protagonista da série.",
+    "source": {
+      "name": "Netflix — The Witcher",
+      "url": "https://www.netflix.com/br/title/80189685"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Em Severance, em qual empresa trabalha Mark Scout?",
+    "o": [
+      "Lumon Industries",
+      "Vought International",
+      "Waystar Royco",
+      "Madrigal Electromotive"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0513",
+    "level": "facil",
+    "factId": "qm-0513",
+    "topic": "series",
+    "explanation": "Mark Scout lidera uma equipe na Lumon Industries, empresa central da trama de Severance.",
+    "source": {
+      "name": "Apple TV Press — Severance",
+      "url": "https://www.apple.com/tv-pr/originals/severance/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Em The Boys, qual corporação apoia e administra Os Sete?",
+    "o": [
+      "Vought",
+      "Lumon",
+      "Umbrella",
+      "Massive Dynamic"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0514",
+    "level": "facil",
+    "factId": "qm-0514",
+    "topic": "series",
+    "explanation": "The Boys apresenta a Vought como a corporação ligada ao grupo de super-heróis conhecido como Os Sete.",
+    "source": {
+      "name": "Prime Video — The Boys",
+      "url": "https://www.primevideo.com/-/pt/detail/0S1FYJ3LY9KTL9C7WFFAGA9F6F"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Em Stranger Things, qual cidade de Indiana concentra os acontecimentos sobrenaturais da série?",
+    "o": [
+      "Hawkins",
+      "Riverdale",
+      "Sunnydale",
+      "Twin Peaks"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0515",
+    "level": "facil",
+    "factId": "qm-0515",
+    "topic": "series",
+    "explanation": "Stranger Things se passa principalmente em Hawkins, uma cidade fictícia do estado de Indiana.",
+    "source": {
+      "name": "Netflix Tudum — Stranger Things 5: guia do elenco",
+      "url": "https://www.netflix.com/tudum/articles/stranger-things-season-5-cast-character-guide"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Em Better Call Saul, Jimmy McGill acaba adotando qual identidade?",
+    "o": [
+      "Saul Goodman",
+      "Gene Takavic",
+      "Howard Hamlin",
+      "Lalo Salamanca"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0516",
+    "level": "medio",
+    "factId": "qm-0516",
+    "topic": "series",
+    "explanation": "Better Call Saul acompanha a transformação de Jimmy McGill na persona de Saul Goodman.",
+    "source": {
+      "name": "AMC — Michael Mando / Better Call Saul",
+      "url": "https://www.amc.com/shows/better-call-saul/cast/michael-mando--1032767"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Qual roteirista aparece no Disney+ como criador de Loki?",
+    "o": [
+      "Michael Waldron",
+      "Jon Favreau",
+      "Eric Kripke",
+      "Peter Morgan"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0517",
+    "level": "medio",
+    "factId": "qm-0517",
+    "topic": "series",
+    "explanation": "A página oficial de Loki no Disney+ credita Michael Waldron como criador da série.",
+    "source": {
+      "name": "Disney+ — Loki",
+      "url": "https://www.disneyplus.com/series/loki/6pARMvILBGzF"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "A página oficial do Disney+ credita qual cineasta como criador de The Mandalorian?",
+    "o": [
+      "Jon Favreau",
+      "Dave Filoni",
+      "J. J. Abrams",
+      "Tony Gilroy"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0518",
+    "level": "medio",
+    "factId": "qm-0518",
+    "topic": "series",
+    "explanation": "O Disney+ credita Jon Favreau como criador de The Mandalorian.",
+    "source": {
+      "name": "Disney+ — The Mandalorian",
+      "url": "https://www.disneyplus.com/pt-br/browse/entity-422f6dcc-226f-44e7-98d4-22de69b31cf3"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Qual roteirista criou o thriller corporativo Severance, segundo a Apple?",
+    "o": [
+      "Dan Erickson",
+      "Sam Esmail",
+      "Noah Hawley",
+      "Vince Gilligan"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0519",
+    "level": "medio",
+    "factId": "qm-0519",
+    "topic": "series",
+    "explanation": "A Apple credita Dan Erickson como criador, roteirista e produtor executivo de Severance.",
+    "source": {
+      "name": "Apple TV Press — Severance",
+      "url": "https://www.apple.com/tv-pr/originals/severance/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Qual dramaturgo e roteirista é creditado pela Netflix como criador de The Crown?",
+    "o": [
+      "Peter Morgan",
+      "Julian Fellowes",
+      "Steven Moffat",
+      "David Simon"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0520",
+    "level": "medio",
+    "factId": "qm-0520",
+    "topic": "series",
+    "explanation": "A Netflix credita Peter Morgan como criador de The Crown.",
+    "source": {
+      "name": "Netflix — The Crown",
+      "url": "https://www.netflix.com/br/title/80025678"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Quem é creditada pela Netflix pela criação televisiva de The Witcher?",
+    "o": [
+      "Lauren Schmidt Hissrich",
+      "Phoebe Waller-Bridge",
+      "Shonda Rhimes",
+      "Sera Gamble"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0521",
+    "level": "medio",
+    "factId": "qm-0521",
+    "topic": "series",
+    "explanation": "A Netflix credita Lauren Schmidt Hissrich como criadora de The Witcher.",
+    "source": {
+      "name": "Netflix — The Witcher",
+      "url": "https://www.netflix.com/br/title/80189685"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Qual ator vive Carmen 'Carmy' Berzatto na série The Bear?",
+    "o": [
+      "Jeremy Allen White",
+      "Ebon Moss-Bachrach",
+      "Lionel Boyce",
+      "Jon Bernthal"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0522",
+    "level": "medio",
+    "factId": "qm-0522",
+    "topic": "series",
+    "explanation": "Jeremy Allen White interpreta Carmen 'Carmy' Berzatto em The Bear.",
+    "source": {
+      "name": "FX — Elenco de The Bear",
+      "url": "https://www.fxnetworks.com/shows/the-bear/cast"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Christopher Storer criou qual série da FX centrada em uma equipe de restaurante em Chicago?",
+    "o": [
+      "The Bear",
+      "Atlanta",
+      "Fargo",
+      "Reservation Dogs"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0523",
+    "level": "dificil",
+    "factId": "qm-0523",
+    "topic": "series",
+    "explanation": "Christopher Storer é o criador de The Bear, série da FX ligada ao universo de um restaurante em Chicago.",
+    "source": {
+      "name": "FX — The Bear",
+      "url": "https://www.fxnetworks.com/shows/the-bear"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Em Severance, o procedimento de ruptura divide quais memórias dos funcionários?",
+    "o": [
+      "As do trabalho e da vida pessoal",
+      "As da infância e da vida adulta",
+      "As visuais e auditivas",
+      "As recentes e antigas"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0524",
+    "level": "dificil",
+    "factId": "qm-0524",
+    "topic": "series",
+    "explanation": "O procedimento de Severance divide cirurgicamente as memórias dos funcionários entre a vida profissional e a vida pessoal.",
+    "source": {
+      "name": "Apple TV Press — Severance",
+      "url": "https://www.apple.com/tv-pr/originals/severance/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Na segunda temporada de Squid Game, qual ator interpreta o Front Man, também apresentado como Player 001?",
+    "o": [
+      "Lee Byung-hun",
+      "Lee Jung-jae",
+      "Wi Ha-jun",
+      "Gong Yoo"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0525",
+    "level": "dificil",
+    "factId": "qm-0525",
+    "topic": "series",
+    "explanation": "Na segunda temporada, Lee Byung-hun interpreta o Front Man, que também aparece como Player 001.",
+    "source": {
+      "name": "Netflix Tudum — Bastidores de Squid Game 2",
+      "url": "https://www.netflix.com/tudum/videos/squid-game-2-behind-the-scenes-3-games"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2ª temporada"
+  },
+  {
+    "c": "Séries",
+    "q": "Como Stranger Things chama a dimensão sombria conectada a Hawkins?",
+    "o": [
+      "Mundo Invertido",
+      "Zona Fantasma",
+      "Vazio Negro",
+      "Plano Astral"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0526",
+    "level": "dificil",
+    "factId": "qm-0526",
+    "topic": "series",
+    "explanation": "A dimensão alternativa ligada a Hawkins é chamada de Mundo Invertido, conhecida em inglês como Upside Down.",
+    "source": {
+      "name": "Netflix Tudum — Recap de Stranger Things",
+      "url": "https://www.netflix.com/tudum/articles/stranger-things-a-z-recap-seasons-1-3"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Qual é o nome do Mandaloriano interpretado por Pedro Pascal?",
+    "o": [
+      "Din Djarin",
+      "Paz Vizsla",
+      "Bo-Katan Kryze",
+      "Boba Fett"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0527",
+    "level": "dificil",
+    "factId": "qm-0527",
+    "topic": "series",
+    "explanation": "O protagonista conhecido como Mandaloriano se chama Din Djarin.",
+    "source": {
+      "name": "Disney+ Press — The Mandalorian Media Kit",
+      "url": "https://press.disneyplus.com/media-kits/the-mandalorian"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Séries",
+    "q": "Qual cineasta sul-coreano criou e dirigiu Squid Game?",
+    "o": [
+      "Hwang Dong-hyuk",
+      "Bong Joon-ho",
+      "Park Chan-wook",
+      "Kim Jee-woon"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0528",
+    "level": "dificil",
+    "factId": "qm-0528",
+    "topic": "series",
+    "explanation": "Hwang Dong-hyuk é o criador e diretor de Squid Game.",
+    "source": {
+      "name": "Netflix Tudum — Hwang Dong-hyuk e Squid Game",
+      "url": "https://www.netflix.com/tudum/articles/squid-game-photos-director-hwang-dong-hyuk"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
   }
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
