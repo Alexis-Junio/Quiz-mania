@@ -13609,5 +13609,506 @@
     "expiresAt": "2027-10-01T00:00:00.000Z",
     "status": "approved",
     "referencePeriod": "18 de abril de 1989"
+  },
+  {
+    "c": "Futebol",
+    "q": "Qual seleção tem mais títulos da Copa do Mundo da FIFA?",
+    "o": [
+      "Brasil",
+      "Alemanha",
+      "Itália",
+      "Argentina"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0629",
+    "level": "facil",
+    "factId": "qm-0629",
+    "topic": "futebol",
+    "explanation": "O Brasil lidera a lista histórica com cinco títulos da Copa do Mundo da FIFA.",
+    "source": {
+      "name": "FIFA — Teams with the most World Cup titles",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/teams-most-wins-titles-trophies"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "após a Copa do Mundo de 2026"
+  },
+  {
+    "c": "Futebol",
+    "q": "Qual jogador é o único tricampeão da Copa do Mundo como atleta?",
+    "o": [
+      "Pelé",
+      "Ronaldo",
+      "Cafu",
+      "Diego Maradona"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0630",
+    "level": "facil",
+    "factId": "qm-0630",
+    "topic": "futebol",
+    "explanation": "Pelé venceu a Copa do Mundo como jogador em 1958, 1962 e 1970, feito único na história.",
+    "source": {
+      "name": "FIFA — Pelé's unique World Cup treble",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/pele-three-world-cup-titles-only-player"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
+  },
+  {
+    "c": "Futebol",
+    "q": "Qual clube tem mais títulos da Taça dos Campeões/UEFA Champions League?",
+    "o": [
+      "Real Madrid",
+      "AC Milan",
+      "Liverpool",
+      "Bayern München"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0631",
+    "level": "facil",
+    "factId": "qm-0631",
+    "topic": "futebol",
+    "explanation": "O Real Madrid lidera a lista histórica de campeões europeus.",
+    "source": {
+      "name": "UEFA — All-time European Cup honours board",
+      "url": "https://www.uefa.com/news/0275-1541637ad1db-88aeeefefefd-1000--all-time-european-cup-honours-board/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "maio de 2026"
+  },
+  {
+    "c": "Futebol",
+    "q": "Qual clube venceu a primeira edição disputada sob o nome UEFA Champions League, em 1992/93?",
+    "o": [
+      "Marseille",
+      "AC Milan",
+      "Barcelona",
+      "Real Madrid"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0632",
+    "level": "facil",
+    "factId": "qm-0632",
+    "topic": "futebol",
+    "explanation": "O Marseille venceu o Milan na final de 1993 e conquistou a primeira edição da competição sob o nome UEFA Champions League.",
+    "source": {
+      "name": "UEFA — Champions League 1992/93",
+      "url": "https://www.uefa.com/uefachampionsleague/history/seasons/1992/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1992/93"
+  },
+  {
+    "c": "Futebol",
+    "q": "Quem marcou os dois gols do Brasil na final da Copa do Mundo de 2002?",
+    "o": [
+      "Ronaldo",
+      "Rivaldo",
+      "Ronaldinho",
+      "Kaká"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0633",
+    "level": "facil",
+    "factId": "qm-0633",
+    "topic": "futebol",
+    "explanation": "Ronaldo marcou os dois gols da vitória brasileira por 2 a 0 na final de 2002.",
+    "source": {
+      "name": "FIFA — World Cup champions 1982-2026",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1982-2026-italy-argentina-germany-brazil-france-spain"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2002"
+  },
+  {
+    "c": "Futebol",
+    "q": "Qual seleção enfrentou o Brasil na final da Copa do Mundo de 2002?",
+    "o": [
+      "Alemanha",
+      "França",
+      "Itália",
+      "Argentina"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0634",
+    "level": "facil",
+    "factId": "qm-0634",
+    "topic": "futebol",
+    "explanation": "O Brasil derrotou a Alemanha por 2 a 0 na final da Copa do Mundo de 2002.",
+    "source": {
+      "name": "FIFA — World Cup champions 1982-2026",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1982-2026-italy-argentina-germany-brazil-france-spain"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2002"
+  },
+  {
+    "c": "Futebol",
+    "q": "Qual seleção é a única que participou de todas as 23 edições da Copa do Mundo até 2026?",
+    "o": [
+      "Brasil",
+      "Alemanha",
+      "Argentina",
+      "Itália"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0635",
+    "level": "facil",
+    "factId": "qm-0635",
+    "topic": "futebol",
+    "explanation": "O Brasil é a única seleção que disputou todas as 23 edições da Copa do Mundo realizadas até 2026.",
+    "source": {
+      "name": "FIFA — Brasil na Copa do Mundo: perfil e histórico",
+      "url": "https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/brasil-copa-mundo-perfil-historia"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2026"
+  },
+  {
+    "c": "Futebol",
+    "q": "Em quais anos o Brasil conquistou seus cinco títulos da Copa do Mundo?",
+    "o": [
+      "1958, 1962, 1970, 1994 e 2002",
+      "1954, 1958, 1970, 1998 e 2002",
+      "1958, 1966, 1974, 1994 e 2006",
+      "1962, 1970, 1982, 1994 e 2002"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0636",
+    "level": "medio",
+    "factId": "qm-0636",
+    "topic": "futebol",
+    "explanation": "Os cinco títulos brasileiros foram conquistados em 1958, 1962, 1970, 1994 e 2002.",
+    "source": {
+      "name": "FIFA — Teams with the most World Cup titles",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/teams-most-wins-titles-trophies"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "após a Copa do Mundo de 2026"
+  },
+  {
+    "c": "Futebol",
+    "q": "Quantas Taças dos Campeões/Champions League o Real Madrid havia conquistado até maio de 2026?",
+    "o": [
+      "15",
+      "12",
+      "13",
+      "16"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0637",
+    "level": "medio",
+    "factId": "qm-0637",
+    "topic": "futebol",
+    "explanation": "A UEFA registra 15 títulos europeus do Real Madrid até maio de 2026.",
+    "source": {
+      "name": "UEFA — All-time European Cup honours board",
+      "url": "https://www.uefa.com/news/0275-1541637ad1db-88aeeefefefd-1000--all-time-european-cup-honours-board/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "maio de 2026"
+  },
+  {
+    "c": "Futebol",
+    "q": "Quantas edições consecutivas da antiga Taça dos Campeões o Real Madrid venceu de 1956 a 1960?",
+    "o": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0638",
+    "level": "medio",
+    "factId": "qm-0638",
+    "topic": "futebol",
+    "explanation": "O Real Madrid venceu as cinco primeiras edições da Taça dos Campeões, de 1956 a 1960.",
+    "source": {
+      "name": "UEFA — All-time European Cup honours board",
+      "url": "https://www.uefa.com/news/0275-1541637ad1db-88aeeefefefd-1000--all-time-european-cup-honours-board/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1956–1960"
+  },
+  {
+    "c": "Futebol",
+    "q": "Quantos gols Ronaldo marcou na Copa do Mundo de 2002 para conquistar a Chuteira de Ouro?",
+    "o": [
+      "8",
+      "6",
+      "7",
+      "9"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0639",
+    "level": "medio",
+    "factId": "qm-0639",
+    "topic": "futebol",
+    "explanation": "Ronaldo marcou oito gols na Copa de 2002 e terminou como artilheiro do torneio.",
+    "source": {
+      "name": "FIFA — World Cup champions 1982-2026",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1982-2026-italy-argentina-germany-brazil-france-spain"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2002"
+  },
+  {
+    "c": "Futebol",
+    "q": "Quem foi o artilheiro da UEFA Champions League 1992/93, com sete gols?",
+    "o": [
+      "Romário",
+      "Jean-Pierre Papin",
+      "Marco van Basten",
+      "Alen Bokšić"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0640",
+    "level": "medio",
+    "factId": "qm-0640",
+    "topic": "futebol",
+    "explanation": "Romário, então no PSV, liderou a artilharia da Champions League 1992/93 com sete gols.",
+    "source": {
+      "name": "UEFA — Champions League 1992/93 statistics",
+      "url": "https://www.uefa.com/uefachampionsleague/history/seasons/1992/statistics/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1992/93"
+  },
+  {
+    "c": "Futebol",
+    "q": "Quem marcou o gol da vitória do Marseille sobre o Milan na final da UEFA Champions League de 1993?",
+    "o": [
+      "Basile Boli",
+      "Didier Deschamps",
+      "Rudi Völler",
+      "Abedi Pelé"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0641",
+    "level": "medio",
+    "factId": "qm-0641",
+    "topic": "futebol",
+    "explanation": "Basile Boli marcou o único gol da final de 1993, vencida pelo Marseille por 1 a 0.",
+    "source": {
+      "name": "UEFA — 1992/93: French first for Marseille",
+      "url": "https://www.uefa.com/uefachampionsleague/news/0119-0e6a0ed00b00-432257e362a9-1000/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "1993"
+  },
+  {
+    "c": "Futebol",
+    "q": "Pelas regras IFAB atuais, o que é marcado se o goleiro controlar a bola com as mãos por mais de oito segundos dentro da própria área?",
+    "o": [
+      "Escanteio para o adversário",
+      "Tiro livre indireto",
+      "Pênalti",
+      "Bola ao chão"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0642",
+    "level": "medio",
+    "factId": "qm-0642",
+    "topic": "futebol",
+    "explanation": "A regra atual determina um escanteio para a equipe adversária quando o goleiro excede oito segundos de controle com as mãos.",
+    "source": {
+      "name": "IFAB — Law 12: Fouls and Misconduct",
+      "url": "https://www.theifab.com/laws/latest/fouls-and-misconduct/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "regras vigentes em outubro de 2026"
+  },
+  {
+    "c": "Futebol",
+    "q": "Pelas regras IFAB, um gol pode ser marcado diretamente de um tiro de saída contra o adversário?",
+    "o": [
+      "Sim",
+      "Não",
+      "Somente após outro toque",
+      "Somente na prorrogação"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0643",
+    "level": "dificil",
+    "factId": "qm-0643",
+    "topic": "futebol",
+    "explanation": "A IFAB permite que um gol seja marcado diretamente contra o adversário a partir de um tiro de saída.",
+    "source": {
+      "name": "IFAB — Law 8: The Start and Restart of Play",
+      "url": "https://www.theifab.com/laws/latest/the-start-and-restart-of-play/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "regras vigentes em outubro de 2026"
+  },
+  {
+    "c": "Futebol",
+    "q": "Se um tiro de saída entrar diretamente no próprio gol de quem cobrou, qual reinício é marcado pela IFAB?",
+    "o": [
+      "Escanteio para o adversário",
+      "Tiro de meta",
+      "Novo tiro de saída",
+      "Tiro livre indireto"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0644",
+    "level": "dificil",
+    "factId": "qm-0644",
+    "topic": "futebol",
+    "explanation": "Se a bola entrar diretamente no próprio gol a partir de um tiro de saída, é marcado escanteio para a equipe adversária.",
+    "source": {
+      "name": "IFAB — Law 8: The Start and Restart of Play",
+      "url": "https://www.theifab.com/laws/latest/the-start-and-restart-of-play/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "regras vigentes em outubro de 2026"
+  },
+  {
+    "c": "Futebol",
+    "q": "Quantos gols Cristiano Ronaldo soma como maior artilheiro histórico da Champions League nas estatísticas da UEFA consultadas em 2026?",
+    "o": [
+      "140",
+      "129",
+      "109",
+      "150"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0645",
+    "level": "dificil",
+    "factId": "qm-0645",
+    "topic": "futebol",
+    "explanation": "A página histórica da UEFA registra Cristiano Ronaldo com 140 gols na competição.",
+    "source": {
+      "name": "UEFA — Cristiano Ronaldo in the Champions League",
+      "url": "https://www.uefa.com/uefachampionsleague/news/02a7-2136b8f054ea-76a61b3f9d24-1000--cristiano-ronaldo-in-the-champions-league-records-stats-wh/"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2026"
+  },
+  {
+    "c": "Futebol",
+    "q": "Quantos brasileiros diferentes já haviam sido campeões da Copa do Mundo como jogadores até 2026?",
+    "o": [
+      "94",
+      "89",
+      "85",
+      "100"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0646",
+    "level": "dificil",
+    "factId": "qm-0646",
+    "topic": "futebol",
+    "explanation": "A FIFA contabilizava 94 jogadores brasileiros campeões mundiais, mais do que qualquer outra nacionalidade.",
+    "source": {
+      "name": "FIFA — 94 dias para a Copa do Mundo: os brasileiros campeões",
+      "url": "https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/copa-mundo-historia-brasileiros-campeoes-1958-1962-1970-1994-2002"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "2026"
+  },
+  {
+    "c": "Futebol",
+    "q": "Quantas vitórias o Brasil somava em jogos de Copa do Mundo após a edição de 2026?",
+    "o": [
+      "79",
+      "70",
+      "54",
+      "83"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0647",
+    "level": "dificil",
+    "factId": "qm-0647",
+    "topic": "futebol",
+    "explanation": "Após a Copa de 2026, a FIFA registrava 79 vitórias do Brasil em partidas de Copa do Mundo.",
+    "source": {
+      "name": "FIFA — Teams with the most World Cup victories",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/teams-most-victories-wins"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": "após a Copa do Mundo de 2026"
+  },
+  {
+    "c": "Futebol",
+    "q": "Depois da cerimônia da final, o que a seleção campeã recebe para guardar no lugar do troféu original da Copa do Mundo?",
+    "o": [
+      "Uma réplica banhada a ouro",
+      "O troféu original em definitivo",
+      "Uma réplica de prata maciça",
+      "A antiga Taça Jules Rimet"
+    ],
+    "a": 0,
+    "t": "geral",
+    "id": "qm-0648",
+    "level": "dificil",
+    "factId": "qm-0648",
+    "topic": "futebol",
+    "explanation": "O troféu original não fica definitivamente com o campeão; a seleção recebe uma réplica banhada a ouro para guardar.",
+    "source": {
+      "name": "FIFA — The story of the FIFA World Cup trophy",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/trophy-design-history-jules-rimet"
+    },
+    "verifiedAt": "2026-10-01T00:00:00.000Z",
+    "expiresAt": "2027-10-01T00:00:00.000Z",
+    "status": "approved",
+    "referencePeriod": null
   }
+
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
