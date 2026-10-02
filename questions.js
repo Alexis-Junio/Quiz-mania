@@ -14111,4 +14111,505 @@
     "referencePeriod": null
   }
 
+,
+  {
+  "c": "Esportes",
+  "q": "Quantos anéis formam o símbolo olímpico?",
+  "o": [
+    "5",
+    "4",
+    "6",
+    "7"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0649",
+  "level": "facil",
+  "factId": "qm-0649",
+  "topic": "esportes",
+  "explanation": "O símbolo olímpico é formado por cinco anéis entrelaçados.",
+  "source": {
+    "name": "IOC — Olympic Values Education Programme: Olympic symbol",
+    "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "Quantos jogadores de uma equipe ficam em quadra no voleibol?",
+  "o": [
+    "6",
+    "5",
+    "7",
+    "8"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0650",
+  "level": "facil",
+  "factId": "qm-0650",
+  "topic": "esportes",
+  "explanation": "No voleibol de quadra, cada equipe joga com seis atletas em quadra.",
+  "source": {
+    "name": "FIVB — Basic Rules",
+    "url": "https://www.fivb.com/volleyball/the-game/basic-rules/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "Em qual superfície tradicionalmente é disputado Roland-Garros?",
+  "o": [
+    "Saibro",
+    "Grama",
+    "Quadra dura",
+    "Carpete"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0651",
+  "level": "facil",
+  "factId": "qm-0651",
+  "topic": "esportes",
+  "explanation": "Roland-Garros é o Grand Slam conhecido por suas tradicionais quadras de saibro em Paris.",
+  "source": {
+    "name": "Roland-Garros — Clay, the hallowed red dirt",
+    "url": "https://www.rolandgarros.com/en-us/page/roland-garros-tournament-clay-the-hallowed-red-dirt"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "No tênis de mesa, quantos pontos normalmente são necessários para vencer um game?",
+  "o": [
+    "11",
+    "15",
+    "21",
+    "25"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0652",
+  "level": "facil",
+  "factId": "qm-0652",
+  "topic": "esportes",
+  "explanation": "Um game de tênis de mesa é normalmente vencido pelo primeiro jogador a chegar a 11 pontos, com dois pontos de vantagem quando há 10 a 10.",
+  "source": {
+    "name": "ITTF — Table Tennis 101",
+    "url": "https://www.ittf.com/2021/07/22/table-tennis-101/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "No tiro com arco recurvo olímpico, a que distância ficam os alvos?",
+  "o": [
+    "70 metros",
+    "50 metros",
+    "60 metros",
+    "90 metros"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0653",
+  "level": "facil",
+  "factId": "qm-0653",
+  "topic": "esportes",
+  "explanation": "No recurvo olímpico, os arqueiros atiram a 70 metros dos alvos.",
+  "source": {
+    "name": "World Archery — Recurve",
+    "url": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "No decatlo, qual é o número total de provas?",
+  "o": [
+    "10",
+    "8",
+    "7",
+    "12"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0654",
+  "level": "facil",
+  "factId": "qm-0654",
+  "topic": "esportes",
+  "explanation": "O decatlo reúne dez provas de atletismo disputadas ao longo de dois dias.",
+  "source": {
+    "name": "World Athletics — Decathlon",
+    "url": "https://worldathletics.org/disciplines/combined/decathlon"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "O heptatlo reúne quantas disciplinas?",
+  "o": [
+    "7",
+    "5",
+    "8",
+    "10"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0655",
+  "level": "facil",
+  "factId": "qm-0655",
+  "topic": "esportes",
+  "explanation": "O heptatlo é uma prova combinada composta por sete disciplinas.",
+  "source": {
+    "name": "World Athletics — Heptathlon",
+    "url": "https://worldathletics.org/disciplines/combined/heptathlon"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "Qual palavra foi acrescentada ao lema olímpico em 2021?",
+  "o": [
+    "Juntos",
+    "Sempre",
+    "Vitória",
+    "Respeito"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0656",
+  "level": "medio",
+  "factId": "qm-0656",
+  "topic": "esportes",
+  "explanation": "Em 2021, o lema passou a ser 'Mais rápido, mais alto, mais forte — juntos', com a inclusão de 'Together' ('Juntos').",
+  "source": {
+    "name": "IOC — Olympic Values Education Programme: Olympic motto",
+    "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2021"
+},
+  {
+  "c": "Esportes",
+  "q": "Quantos obstáculos há ao todo nos 3000 m com obstáculos?",
+  "o": [
+    "35",
+    "30",
+    "28",
+    "40"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0657",
+  "level": "medio",
+  "factId": "qm-0657",
+  "topic": "esportes",
+  "explanation": "Os 3000 m com obstáculos têm 35 obstáculos no total.",
+  "source": {
+    "name": "World Athletics — 3000 Metres Steeplechase",
+    "url": "https://worldathletics.org/disciplines/running-event/3000-metres-steeplechase"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "Qual é a sequência correta das três fases do salto triplo?",
+  "o": [
+    "Hop, step e jump",
+    "Step, jump e hop",
+    "Jump, hop e step",
+    "Hop, jump e step"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0658",
+  "level": "medio",
+  "factId": "qm-0658",
+  "topic": "esportes",
+  "explanation": "O salto triplo é executado na sequência hop, step e jump: salto com o mesmo pé, passo para o pé oposto e salto final na caixa de areia.",
+  "source": {
+    "name": "World Athletics — Triple Jump",
+    "url": "https://worldathletics.org/disciplines/jumps/triple-jump"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "No tênis de mesa, antes de 10 a 10, a cada quantos pontos o direito de sacar passa ao adversário?",
+  "o": [
+    "2 pontos",
+    "1 ponto",
+    "3 pontos",
+    "5 pontos"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0659",
+  "level": "medio",
+  "factId": "qm-0659",
+  "topic": "esportes",
+  "explanation": "Antes de 10 a 10, o serviço muda de jogador a cada dois pontos; no 10 a 10, passa a alternar a cada ponto.",
+  "source": {
+    "name": "ITTF — Table Tennis 101",
+    "url": "https://www.ittf.com/2021/07/22/table-tennis-101/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "Quantas flechas cada arqueiro dispara na fase de qualificação do recurvo em competições internacionais?",
+  "o": [
+    "72",
+    "60",
+    "36",
+    "90"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0660",
+  "level": "medio",
+  "factId": "qm-0660",
+  "topic": "esportes",
+  "explanation": "Na fase de qualificação do recurvo, cada arqueiro dispara 72 flechas para definir o ranqueamento das eliminatórias.",
+  "source": {
+    "name": "World Archery — Recurve",
+    "url": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "Qual prova encerra o heptatlo?",
+  "o": [
+    "800 metros",
+    "200 metros",
+    "Salto em distância",
+    "Lançamento de dardo"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0661",
+  "level": "medio",
+  "factId": "qm-0661",
+  "topic": "esportes",
+  "explanation": "O heptatlo termina com a prova dos 800 metros, no segundo dia da competição.",
+  "source": {
+    "name": "World Athletics — Heptathlon",
+    "url": "https://worldathletics.org/disciplines/combined/heptathlon"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "A quantos metros da rede fica a linha de ataque no voleibol?",
+  "o": [
+    "3 metros",
+    "2 metros",
+    "4 metros",
+    "5 metros"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0662",
+  "level": "medio",
+  "factId": "qm-0662",
+  "topic": "esportes",
+  "explanation": "A linha de ataque, que separa as zonas dianteira e traseira, fica a três metros da rede.",
+  "source": {
+    "name": "FIVB — Basic Rules",
+    "url": "https://www.fivb.com/volleyball/the-game/basic-rules/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "Nos 3000 m com obstáculos, quantos são barreiras fixas e quantos são saltos sobre água?",
+  "o": [
+    "28 barreiras e 7 saltos sobre água",
+    "30 barreiras e 5 saltos sobre água",
+    "25 barreiras e 10 saltos sobre água",
+    "32 barreiras e 3 saltos sobre água"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0663",
+  "level": "dificil",
+  "factId": "qm-0663",
+  "topic": "esportes",
+  "explanation": "A prova possui 28 barreiras fixas e sete saltos sobre água, totalizando 35 obstáculos.",
+  "source": {
+    "name": "World Athletics — 3000 Metres Steeplechase",
+    "url": "https://worldathletics.org/disciplines/running-event/3000-metres-steeplechase"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "Quais são as cinco provas disputadas no segundo dia do decatlo, na ordem?",
+  "o": [
+    "110 m com barreiras, disco, salto com vara, dardo e 1500 m",
+    "100 m, salto em distância, peso, salto em altura e 400 m",
+    "Disco, 400 m, dardo, salto com vara e 800 m",
+    "110 m com barreiras, peso, disco, salto em altura e 1500 m"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0664",
+  "level": "dificil",
+  "factId": "qm-0664",
+  "topic": "esportes",
+  "explanation": "O segundo dia do decatlo segue a ordem: 110 m com barreiras, lançamento do disco, salto com vara, lançamento do dardo e 1500 m.",
+  "source": {
+    "name": "World Athletics — Decathlon",
+    "url": "https://worldathletics.org/disciplines/combined/decathlon"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "No heptatlo, o segundo dia segue qual sequência de três provas?",
+  "o": [
+    "Salto em distância, dardo e 800 m",
+    "200 m, salto em altura e 1500 m",
+    "Dardo, 100 m com barreiras e 400 m",
+    "Salto em distância, disco e 800 m"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0665",
+  "level": "dificil",
+  "factId": "qm-0665",
+  "topic": "esportes",
+  "explanation": "No segundo dia do heptatlo são disputados, nessa ordem, salto em distância, lançamento do dardo e 800 m.",
+  "source": {
+    "name": "World Athletics — Heptathlon",
+    "url": "https://worldathletics.org/disciplines/combined/heptathlon"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "No tiro com arco recurvo, quantos pontos de set são necessários para vencer uma disputa individual?",
+  "o": [
+    "6",
+    "5",
+    "7",
+    "8"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0666",
+  "level": "dificil",
+  "factId": "qm-0666",
+  "topic": "esportes",
+  "explanation": "Nas disputas individuais de recurvo, o objetivo é alcançar seis pontos de set.",
+  "source": {
+    "name": "World Archery — Recurve",
+    "url": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "No símbolo olímpico colorido, quais anéis ficam na fileira superior?",
+  "o": [
+    "Azul, preto e vermelho",
+    "Azul, amarelo e verde",
+    "Amarelo, preto e verde",
+    "Vermelho, amarelo e preto"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0667",
+  "level": "dificil",
+  "factId": "qm-0667",
+  "topic": "esportes",
+  "explanation": "Na disposição oficial, azul, preto e vermelho ficam na fileira superior; amarelo e verde ficam na inferior.",
+  "source": {
+    "name": "IOC — Olympic Values Education Programme: Olympic symbol",
+    "url": "https://gstatic.olympics.com/s3/mc2026/documents/Education%20Programme/OVEP/English%20Toolkit/OVEP-Fundamentals-2023%20-%20English.pdf"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+},
+  {
+  "c": "Esportes",
+  "q": "A Coupe des Mousquetaires, troféu de simples masculino de Roland-Garros, homenageia quais quatro tenistas franceses?",
+  "o": [
+    "Jean Borotra, Jacques Brugnon, Henri Cochet e René Lacoste",
+    "Yannick Noah, Guy Forget, Henri Leconte e Cédric Pioline",
+    "René Lacoste, Gaël Monfils, Jo-Wilfried Tsonga e Richard Gasquet",
+    "Jean Borotra, Björn Borg, Henri Cochet e Rod Laver"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0668",
+  "level": "dificil",
+  "factId": "qm-0668",
+  "topic": "esportes",
+  "explanation": "A Coupe des Mousquetaires homenageia Jean Borotra, Jacques Brugnon, Henri Cochet e René Lacoste, os quatro 'Mosqueteiros' do tênis francês.",
+  "source": {
+    "name": "Roland-Garros — The trophies",
+    "url": "https://www.rolandgarros.com/en-us/page/roland-garros-the-trophies-french-open-winners"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": null
+}
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
