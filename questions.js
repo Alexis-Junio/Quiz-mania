@@ -14612,4 +14612,505 @@
   "status": "approved",
   "referencePeriod": null
 }
+,
+  {
+  "c": "Atualidades",
+  "q": "Quem ficou com o título da Copa do Mundo da FIFA de 2026?",
+  "o": [
+    "Espanha",
+    "Argentina",
+    "França",
+    "Inglaterra"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0669",
+  "level": "facil",
+  "factId": "qm-0669",
+  "topic": "atualidades",
+  "explanation": "A Espanha foi campeã da Copa do Mundo da FIFA de 2026 ao derrotar a Argentina na final.",
+  "source": {
+    "name": "FIFA — World Cup 2026: Final tournament standings",
+    "url": "https://www.fifa.com/en/articles/final-tournament-standings"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "No Super Bowl LX de 2026, qual franquia conquistou o título da NFL?",
+  "o": [
+    "Seattle Seahawks",
+    "New England Patriots",
+    "Kansas City Chiefs",
+    "Philadelphia Eagles"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0670",
+  "level": "facil",
+  "factId": "qm-0670",
+  "topic": "atualidades",
+  "explanation": "O Seattle Seahawks venceu o Super Bowl LX de 2026.",
+  "source": {
+    "name": "NFL — Super Bowl LX",
+    "url": "https://www.nfl.com/super-bowl"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "No Grammy Awards de 2026, quem venceu Álbum do Ano com DeBÍ TiRAR MáS FOToS?",
+  "o": [
+    "Bad Bunny",
+    "Kendrick Lamar",
+    "Lady Gaga",
+    "Sabrina Carpenter"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0671",
+  "level": "facil",
+  "factId": "qm-0671",
+  "topic": "atualidades",
+  "explanation": "Bad Bunny venceu o Grammy de Álbum do Ano em 2026 com DeBÍ TiRAR MáS FOToS.",
+  "source": {
+    "name": "Recording Academy — 68th Annual Grammy Awards",
+    "url": "https://www.grammy.com/awards/68th-annual-grammy-awards-2025/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Qual filme recebeu a Palma de Ouro no Festival de Cannes de 2026?",
+  "o": [
+    "FJORD",
+    "MINOTAURE",
+    "FATHERLAND",
+    "NOTRE SALUT"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0672",
+  "level": "facil",
+  "factId": "qm-0672",
+  "topic": "atualidades",
+  "explanation": "FJORD, de Cristian Mungiu, recebeu a Palma de Ouro no 79º Festival de Cannes em 2026.",
+  "source": {
+    "name": "Festival de Cannes — The 79th Festival de Cannes winners' list",
+    "url": "https://www.festival-cannes.com/en/press/press-releases/the-79th-festival-de-cannes-winners-list/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Qual foi o primeiro iPhone dobrável apresentado pela Apple em 2026?",
+  "o": [
+    "iPhone Duo",
+    "iPhone Fold",
+    "iPhone Flex",
+    "iPhone Flip"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0673",
+  "level": "facil",
+  "factId": "qm-0673",
+  "topic": "atualidades",
+  "explanation": "Em setembro de 2026, a Apple apresentou o iPhone Duo como seu primeiro iPhone dobrável.",
+  "source": {
+    "name": "Apple — Apple apresenta o iPhone Duo",
+    "url": "https://www.apple.com/br/newsroom/2026/09/apple-unveils-iphone-duo/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "A abertura dos Jogos Olímpicos de Inverno Milano Cortina 2026 aconteceu em qual estádio de Milão?",
+  "o": [
+    "San Siro",
+    "Stadio Olimpico",
+    "Allianz Stadium",
+    "Arena di Verona"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0674",
+  "level": "facil",
+  "factId": "qm-0674",
+  "topic": "atualidades",
+  "explanation": "A cerimônia de abertura de Milano Cortina 2026 aconteceu no estádio San Siro, em Milão.",
+  "source": {
+    "name": "IOC — Milano Cortina 2026 Opening Ceremony",
+    "url": "https://newsroom.olympics.com/record/1669"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Qual destes foi declarado pela ONU como um dos Anos Internacionais de 2026?",
+  "o": [
+    "Ano Internacional da Mulher Agricultora",
+    "Ano Internacional dos Oceanos",
+    "Ano Internacional da Astronomia",
+    "Ano Internacional da Floresta Tropical"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0675",
+  "level": "facil",
+  "factId": "qm-0675",
+  "topic": "atualidades",
+  "explanation": "A ONU designou 2026 como Ano Internacional da Mulher Agricultora, entre outros anos internacionais.",
+  "source": {
+    "name": "United Nations — International Years",
+    "url": "https://www.un.org/en/observances/international-years"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Na Copa do Mundo da FIFA de 2026, qual seleção perdeu a final para a Espanha?",
+  "o": [
+    "Argentina",
+    "França",
+    "Inglaterra",
+    "Brasil"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0676",
+  "level": "medio",
+  "factId": "qm-0676",
+  "topic": "atualidades",
+  "explanation": "A Argentina terminou como vice-campeã da Copa do Mundo de 2026 após perder a final para a Espanha.",
+  "source": {
+    "name": "FIFA — World Cup 2026: Final tournament standings",
+    "url": "https://www.fifa.com/en/articles/final-tournament-standings"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Quem foi eleito MVP do Super Bowl LX em 2026?",
+  "o": [
+    "Kenneth Walker III",
+    "Geno Smith",
+    "Drake Maye",
+    "DK Metcalf"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0677",
+  "level": "medio",
+  "factId": "qm-0677",
+  "topic": "atualidades",
+  "explanation": "O running back Kenneth Walker III, do Seattle Seahawks, foi eleito MVP do Super Bowl LX.",
+  "source": {
+    "name": "NFL — Super Bowl LX MVP",
+    "url": "https://www.nfl.com/super-bowl/mvp-vote/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Qual cantora recebeu o prêmio de Artista Revelação no Grammy de 2026?",
+  "o": [
+    "Olivia Dean",
+    "Lola Young",
+    "Addison Rae",
+    "The Marías"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0678",
+  "level": "medio",
+  "factId": "qm-0678",
+  "topic": "atualidades",
+  "explanation": "Olivia Dean venceu a categoria Best New Artist no Grammy de 2026.",
+  "source": {
+    "name": "Recording Academy — 68th Annual Grammy Awards",
+    "url": "https://www.grammy.com/awards/68th-annual-grammy-awards-2025/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "No Grammy de 2026, qual gravação recebeu o prêmio de Gravação do Ano?",
+  "o": [
+    "luther",
+    "WILDFLOWER",
+    "DtMF",
+    "Abracadabra"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0679",
+  "level": "medio",
+  "factId": "qm-0679",
+  "topic": "atualidades",
+  "explanation": "A gravação luther, de Kendrick Lamar e SZA, venceu Record of the Year no Grammy de 2026.",
+  "source": {
+    "name": "Recording Academy — 68th Annual Grammy Awards",
+    "url": "https://www.grammy.com/awards/68th-annual-grammy-awards-2025/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Quem dirigiu FJORD, vencedor da Palma de Ouro em Cannes em 2026?",
+  "o": [
+    "Cristian Mungiu",
+    "Andreï Zviaguintsev",
+    "Paweł Pawlikowski",
+    "Park Chan-wook"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0680",
+  "level": "medio",
+  "factId": "qm-0680",
+  "topic": "atualidades",
+  "explanation": "Cristian Mungiu dirigiu FJORD, filme vencedor da Palma de Ouro de 2026.",
+  "source": {
+    "name": "Festival de Cannes — The 79th Festival de Cannes winners' list",
+    "url": "https://www.festival-cannes.com/en/press/press-releases/the-79th-festival-de-cannes-winners-list/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Que palavra italiana definiu o tema da abertura de Milano Cortina 2026?",
+  "o": [
+    "Armonia",
+    "Vittoria",
+    "Energia",
+    "Unità"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0681",
+  "level": "medio",
+  "factId": "qm-0681",
+  "topic": "atualidades",
+  "explanation": "O tema anunciado para a abertura de Milano Cortina 2026 foi Armonia, que significa harmonia.",
+  "source": {
+    "name": "IOC — Milano Cortina 2026 Opening Ceremony",
+    "url": "https://newsroom.olympics.com/record/1669"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Qual versão do iOS acompanhou a nova geração da Apple Intelligence em 2026?",
+  "o": [
+    "iOS 27",
+    "iOS 26",
+    "iOS 28",
+    "iOS 19"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0682",
+  "level": "medio",
+  "factId": "qm-0682",
+  "topic": "atualidades",
+  "explanation": "A Apple informou que a nova geração da Apple Intelligence chegou com o iOS 27 em 2026.",
+  "source": {
+    "name": "Apple — A nova geração da Apple Intelligence já está disponível",
+    "url": "https://www.apple.com/br/newsroom/2026/09/the-next-generation-of-apple-intelligence-is-available-today/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Na final da Copa do Mundo da FIFA de 2026, qual foi o placar após a prorrogação?",
+  "o": [
+    "Espanha 1 x 0 Argentina",
+    "Espanha 2 x 1 Argentina",
+    "Argentina 1 x 0 Espanha",
+    "Espanha 3 x 2 Argentina"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0683",
+  "level": "dificil",
+  "factId": "qm-0683",
+  "topic": "atualidades",
+  "explanation": "A Espanha venceu a Argentina por 1 a 0 após a prorrogação na final da Copa do Mundo de 2026.",
+  "source": {
+    "name": "FIFA — World Cup 2026: Final tournament standings",
+    "url": "https://www.fifa.com/en/articles/final-tournament-standings"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "No Super Bowl LX de 2026, qual foi o resultado final entre Seahawks e Patriots?",
+  "o": [
+    "Seahawks 29 x 13 Patriots",
+    "Seahawks 24 x 21 Patriots",
+    "Patriots 31 x 27 Seahawks",
+    "Seahawks 34 x 30 Patriots"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0684",
+  "level": "dificil",
+  "factId": "qm-0684",
+  "topic": "atualidades",
+  "explanation": "O Seattle Seahawks venceu o New England Patriots por 29 a 13 no Super Bowl LX.",
+  "source": {
+    "name": "NFL — Super Bowl LX audience and result",
+    "url": "https://amp.nfl.com/news/super-bowl-lx-second-most-watched-all-time-with-nearly-125m-viewers"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Qual composição recebeu o Grammy de Canção do Ano em 2026?",
+  "o": [
+    "WILDFLOWER",
+    "luther",
+    "Abracadabra",
+    "DtMF"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0685",
+  "level": "dificil",
+  "factId": "qm-0685",
+  "topic": "atualidades",
+  "explanation": "WILDFLOWER, de Billie Eilish e Finneas O'Connell, venceu Song of the Year no Grammy de 2026.",
+  "source": {
+    "name": "Recording Academy — 68th Annual Grammy Awards",
+    "url": "https://www.grammy.com/awards/68th-annual-grammy-awards-2025/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Qual filme recebeu o Grand Prix do Festival de Cannes em 2026?",
+  "o": [
+    "MINOTAURE",
+    "FJORD",
+    "LA BOLA NEGRA",
+    "DAS GETRÄUMTE ABENTEUER"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0686",
+  "level": "dificil",
+  "factId": "qm-0686",
+  "topic": "atualidades",
+  "explanation": "MINOTAURE, dirigido por Andreï Zviaguintsev, recebeu o Grand Prix do Festival de Cannes em 2026.",
+  "source": {
+    "name": "Festival de Cannes — The 79th Festival de Cannes winners' list",
+    "url": "https://www.festival-cannes.com/en/press/press-releases/the-79th-festival-de-cannes-winners-list/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Quem presidiu o júri de longas do Festival de Cannes em 2026?",
+  "o": [
+    "Park Chan-wook",
+    "Tilda Swinton",
+    "Chloé Zhao",
+    "Demi Moore"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0687",
+  "level": "dificil",
+  "factId": "qm-0687",
+  "topic": "atualidades",
+  "explanation": "O diretor sul-coreano Park Chan-wook presidiu o júri de longas do 79º Festival de Cannes em 2026.",
+  "source": {
+    "name": "Festival de Cannes — The Jury of the 79th Festival de Cannes",
+    "url": "https://www.festival-cannes.com/en/press/press-releases/the-jury-of-the-79th-festival-de-cannes/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+},
+  {
+  "c": "Atualidades",
+  "q": "Em qual mês de 2026 a Apple anunciou o início da beta da Siri AI em português do Brasil?",
+  "o": [
+    "Outubro",
+    "Setembro",
+    "Novembro",
+    "Dezembro"
+  ],
+  "a": 0,
+  "t": "geral",
+  "id": "qm-0688",
+  "level": "dificil",
+  "factId": "qm-0688",
+  "topic": "atualidades",
+  "explanation": "A Apple anunciou que a Siri AI começaria a ser disponibilizada em versão beta em português do Brasil em outubro de 2026.",
+  "source": {
+    "name": "Apple — A nova geração da Apple Intelligence já está disponível",
+    "url": "https://www.apple.com/br/newsroom/2026/09/the-next-generation-of-apple-intelligence-is-available-today/"
+  },
+  "verifiedAt": "2026-10-02T00:00:00.000Z",
+  "expiresAt": "2027-10-02T00:00:00.000Z",
+  "status": "approved",
+  "referencePeriod": "2026"
+}
 ];if(typeof module==="object"&&module.exports)module.exports=questions;else root.QuizQuestions=questions;})(globalThis);
